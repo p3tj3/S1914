@@ -1,0 +1,93 @@
+
+
+FORTRESS
+hitpoints per level: 2
+maximum hitpoints: 10available at day: 1.0
+Build time/level: 24.0 hours
+Construction cost required:
+2000.0     iron
+4000.0     money
+
+CAPITOL
+hitpoints per level: 4
+maximum hitpoints: 4available at day: 1.0
+Build time/level: 48.0 hours
+Construction cost required:
+5000.0     iron
+5000.0     wood
+2000.0     money
+
+RECRUITING_OFFICE
+hitpoints per level: 2
+maximum hitpoints: 2available at day: 1
+Build time/level: 0.02 hours
+Construction cost required:
+1000.0     money
+250.0      iron
+250.0      wood
+Upkeep cost required/day:
+250.0      money
+
+BARRACKS
+hitpoints per level: 4
+maximum hitpoints: 8available at day: 1.0
+Build time/level: 24.0 hours
+Construction cost required:
+4000.0     money
+1500.0     grain
+1500.0     wood
+Upkeep cost required/day:
+2000.0     grain
+1000.0     money
+
+AIRFIELD
+hitpoints per level: 4
+maximum hitpoints: 4available at day: 10.0
+Build time/level: 24.0 hours
+Construction cost required:
+2000.0     wood
+2000.0     gas
+5000.0     money
+
+WORKSHOP
+hitpoints per level: 2
+maximum hitpoints: 4available at day: 1
+Build time/level: 0.25 hours
+Construction cost required:
+500.0      iron
+500.0      wood
+500.0      oil
+1000.0     money
+
+HARBOUR
+hitpoints per level: 6
+maximum hitpoints: 6available at day: 2.0
+Build time/level: 72.0 hours
+Construction cost required:
+10000.0    wood
+10000.0    money
+productionBase: 25.0%
+
+RAILWAY
+hitpoints per level: 6
+maximum hitpoints: 6available at day: 5.0
+Build time/level: 72.0 hours
+Construction cost required:
+3000.0     iron
+5000.0     wood
+1000.0     coal
+10000.0    money
+Upkeep cost required/day:
+500.0      coal
+productionBase: 33.0%
+
+FACTORY
+hitpoints per level: 4
+maximum hitpoints: 16available at day: 8.0
+Build time/level: 48.0 hours
+Construction cost required:
+10000.0    money
+2500.0     iron
+2500.0     wood
+2500.0     oil
+productionBase: 33.0%
