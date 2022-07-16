@@ -60,19 +60,25 @@ class Building:
     def getDayAvailable(self):
         return self.__dayAvailable
 
+    def getLevels(self):
+        return self.__maxHitpoints//self.__hitpointsLevel
+
     def __str__(self):
 
         s =  f"\n\n{self.__name.upper()}\n" + \
         f"hitpoints per level: {self.__hitpointsLevel}\n" + \
-        f"maximum hitpoints: {self.__maxHitpoints}" + \
+        f"maximum hitpoints: {self.__maxHitpoints}\n" + \
+        f"number of levels: {self.getLevels()}\n" +\
         f"available at day: {self.__dayAvailable}\n" + \
         f"Build time/level: {round(self.__buildtime / 3600, 2)} hours\n" + \
+        f"max moralefactor: {self.__moraleFactor}\n" +\
         'Construction cost required:\n' + \
         "\n".join(sorted([str(Resources(q, rtype)) for rtype, q in self.__buildCost.items()], key=lambda t: t[1]))
 
         if self.__upkeepCost:
             s += '\nUpkeep cost required/day:\n'
             s += "\n".join(sorted([str(Resources(q,rtype)) for rtype,q in self.__upkeepCost.items()], key=lambda t: t[1]))
+
         return s
 
 
@@ -84,14 +90,14 @@ class economicalBuilding(Building):
     """
 
     def __init__(self, ID, name, buildtime, dayAvaible, hitpointsLevel,
-                 maxHitpoints, buildCost, upkeepCost, productionLevel):
+                 maxHitpoints, buildCost, upkeepCost, productionLevel, hp=1):
         super().__init__(ID, name, buildtime, dayAvaible, hitpointsLevel,
-                 maxHitpoints, buildCost, upkeepCost)
+                 maxHitpoints, buildCost, upkeepCost, hp)
 
         self.__baseProductionBonus = self.getBaseProductionBonus(productionLevel)
 
     def getActualProductionBonus(self):
-        'hp-factor needs to be reduced to hitpoint segment'
+        'hp-factor has to be reduced to hitpoint segment'
         return self.__baseProductionBonus * int(self.hp * self.__maxHitpoints)/self.__maxHitpoints
 
     def checkUniformity(self, productionLevel):
@@ -105,4 +111,6 @@ class economicalBuilding(Building):
             print('productionbonus is not applied to all resources uniformly anymore')
 
     def __str__(self):
-        return super().__str__() + f"\nproductionBase: {100* self.__baseProductionBonus}%"
+        return super().__str__() + \
+               f"\nproductionBase: {100* self.__baseProductionBonus}%" + \
+               f", {round(100* self.__baseProductionBonus/self._Building__maxHitpoints,3)}%/hitpoint"
