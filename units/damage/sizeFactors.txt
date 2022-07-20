@@ -1,0 +1,7 @@
+This system of size Factors will be removed by the new (COW) combat system.
+
+For all units, except infantry, it is the case that land attack damage equals building attack damage.
+
+Infantry applies 75% of land atk damage.
+
+Morale units like infantry and cavalry usually don’t have 100% morale, while 50% of the damage is factored by morale. The graph displays 100% morale units. (They start out with the current morale of the province they are produced/generated in)
