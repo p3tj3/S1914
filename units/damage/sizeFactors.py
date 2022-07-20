@@ -28,7 +28,11 @@ def createPlot():
     fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize= (15,10), facecolor='lightgrey')
     fig.suptitle('damage chart'.upper(), fontsize=25, y = 0.93)
 
-    color1 = iter(plt.cm.jet(np.linspace(0, 1, len(NameToSizeFactor))))
+    a = plt.cm.nipy_spectral(np.linspace(0, 1, len(NameToSizeFactor)))
+    a[6] = np.array([0,0,0,1])
+    a[-1] = np.array([0.5, 0.7, 0.8, 1])
+    color1 = iter(a)
+
     colorDict = {}
     for key in NameToSizeFactor.keys():
         colorDict[key] = next(color1)
@@ -50,7 +54,7 @@ def createPlot():
                     ax1.plot(x, y, linewidth=2, color=colorDict[index], zorder=30, dashes= [1,1])
                     names1.append(name)
                 else:
-                    ax1.plot(x, y, linewidth=2, color=colorDict[index], zorder=10)
+                    ax1.plot(x, y, linewidth=2, color=colorDict[index], zorder=3)
                     names1.append(name)
 
             if index in [1,3,9,6,5] and 'air' not in name:
@@ -68,6 +72,7 @@ def createPlot():
                 if 'air' in name:
                     ax4.plot(x, y, linewidth=2, color=colorDict[index], dashes = [4,2], zorder=20)
                     names4.append(name)
+
                 elif 'def' in name:
                     ax4.plot(x, y, linewidth=1.75, color=colorDict[index], dashes = [4,2], zorder=20)
                     names4.append(name)
@@ -76,7 +81,11 @@ def createPlot():
                     names4.append(name)
 
             if 'air' in name:
-                ax3.plot(x, y, linewidth=2, color=colorDict[index])
+
+                if 'Balloon' in name:
+                    ax3.plot(x, y, linewidth=2.5, color=colorDict[index], dashes = [4,2], zorder = 11)
+                else:
+                    ax3.plot(x, y, linewidth=2, color=colorDict[index], zorder= 10)
                 names3.append(name)
 
 
