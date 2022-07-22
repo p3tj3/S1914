@@ -1,0 +1,8 @@
+In S1914 the tech level is the factory level.
+
+Factory levels are available at day8 (lvl1), day10 (lvl2), day 12 (lvl 3) and day 14 (lvl 4).
+
+Once the first segment of factory is completed the workshops gets deleted. (if you add the workshop later manually as admin, the production bonuses get stacked)
+
+check:
+do productiontimes still update when a new factory level has been completed (by hitpoint)? Seems to be the case, but server response can be very long. many minutes?
