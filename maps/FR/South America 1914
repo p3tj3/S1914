@@ -1,0 +1,118 @@
+name,nation,resource,base-output
+Magangué,Colombie,fish,3000
+Cúcuta,Colombie,coal,3000
+Medellín,Colombie,gas,3000
+Bogotá,Colombie,iron,3000
+Cali,Colombie,grain,6000
+Pasto,Colombie,coal,3000
+San José del Guaviare,Colombie,wood,3000
+Guayame,Colombie,iron,6000
+Mitú,Colombie,coal,3000
+Maracaibo,Vénézuéla,wood,3000
+Barquisimeto,Vénézuéla,iron,3000
+Mérida,Vénézuéla,grain,3000
+San Fernando,Vénézuéla,oil,3000
+Caracas,Vénézuéla,gas,3000
+Cumaná,Vénézuéla,grain,3000
+Ville Piar,Vénézuéla,coal,3000
+Ville Guayana,Vénézuéla,fish,3000
+Le Jobal,Vénézuéla,grain,6000
+Santa Elena de Uairén,Vénézuéla,wood,6000
+Boa Vista,Brésil de l'Ouest,wood,3000
+Carauari,Brésil de l'Ouest,gas,3000
+Manaus,Brésil de l'Ouest,grain,3000
+Tabatinga,Brésil de l'Ouest,iron,3000
+Tapauá,Brésil de l'Ouest,wood,3000
+Porto Velho,Brésil de l'Ouest,coal,3000
+Guiaba,Brésil de l'Ouest,grain,6000
+Sinop,Brésil de l'Ouest,oil,3000
+Cuiabá,Brésil de l'Ouest,wood,3000
+Campo Grande,Brésil de l'Ouest,iron,6000
+Iquitos,Pérou,iron,3000
+Chachapoyas,Pérou,coal,3000
+Chiclayo,Pérou,gas,3000
+Yurimaguas,Pérou,grain,6000
+Trujillo,Pérou,oil,3000
+Pucallpa,Pérou,wood,3000
+Lima,Pérou,grain,3000
+Cusco,Pérou,iron,6000
+Puerto Maldonado,Pérou,wood,3000
+Arequipa,Pérou,fish,3000
+Faro,Brésil du Nord,iron,6000
+Macapá,Brésil du Nord,grain,3000
+São Luís,Brésil du Nord,coal,3000
+Parauapebas,Brésil du Nord,wood,3000
+Araguaína,Brésil du Nord,gas,3000
+Fortaleza,Brésil du Nord,fish,6000
+Recife,Brésil du Nord,fish,3000
+Maceió,Brésil du Nord,grain,3000
+Palma de Majorque,Brésil du Nord,grain,3000
+Salvador,Brésil du Nord,oil,3000
+Riberalta,Bolivie,gas,3000
+La Paz,Bolivie,oil,3000
+Trinidad,Bolivie,wood,6000
+Cochabamba,Bolivie,grain,6000
+Oruro,Bolivie,coal,3000
+Santa Cruz,Bolivie,iron,3000
+San Ignacio de Velasco,Bolivie,iron,3000
+Sucre,Bolivie,grain,3000
+Potosí,Bolivie,wood,3000
+Tarija,Bolivie,coal,3000
+Brasília,Brésil du Sud,wood,6000
+Montes Claros,Brésil du Sud,iron,3000
+Uberlândia,Brésil du Sud,gas,3000
+Bel Horizon,Brésil du Sud,oil,3000
+Ruisseau Noir,Brésil du Sud,coal,3000
+Rio de Janeiro,Brésil du Sud,fish,3000
+Santos,Brésil du Sud,grain,3000
+Guarapuava,Brésil du Sud,grain,6000
+Curitiba,Brésil du Sud,fish,3000
+Porto Alegre,Brésil du Sud,coal,3000
+Iquique,Chili,wood,3000
+Antofagasta,Chili,fish,3000
+Coquimbo,Chili,grain,3000
+St-Jacques-de-Compostelle,Chili,fish,3000
+Talcahuano,Chili,coal,3000
+Puerto Montt,Chili,grain,3000
+Cochante,Chili,coal,3000
+Puerto Natales,Chili,iron,6000
+Punta Arenas,Chili,oil,6000
+Porvenir,Chili,wood,3000
+San Miguel de Tucumán,Argentine du Nord,wood,3000
+Catamarca,Argentine du Nord,iron,3000
+Santiago del Estero,Argentine du Nord,coal,3000
+Sáenz Peña,Argentine du Nord,iron,6000
+Resistencia,Argentine du Nord,grain,3000
+San Juan,Argentine du Nord,coal,3000
+Mendoza,Argentine du Nord,wood,3000
+San Luis,Argentine du Nord,gas,3000
+Córdoba,Argentine du Nord,grain,6000
+Rosario,Argentine du Nord,gas,3000
+Buenos Aires,Argentine du Sud,oil,3000
+Mar del Plata,Argentine du Sud,wood,3000
+Santa Rosa de Toay,Argentine du Sud,grain,3000
+Neuquén,Argentine du Sud,iron,3000
+Rawson,Argentine du Sud,grain,6000
+Comodoro Rivadavia,Argentine du Sud,coal,6000
+El Calafate,Argentine du Sud,gas,3000
+Río Gallegos,Argentine du Sud,fish,3000
+Río Grande,Argentine du Sud,wood,3000
+Uschuaia,Argentine du Sud,fish,3000
+David,Panama,iron,6000
+Panama,Panama,fish,3000
+Georgetown,Brésil de l'Ouest,fish,6000
+Mahdia,Brésil de l'Ouest,coal,3000
+Paramaribo,Surinam,coal,6000
+Brownsweg,Brésil du Nord,grain,3000
+Saint-Laurent-du-Maroni,Brésil du Nord,fish,6000
+Cayenne,Brésil du Nord,iron,3000
+Quito,Équateur,fish,6000
+Guayaquil,Équateur,grain,3000
+Machala,Équateur,iron,3000
+Concepción,Argentine du Nord,coal,3000
+Asuncion,Brésil de l'Ouest,wood,6000
+Tacuarembó,Argentine du Nord,grain,6000
+Montevideo,Uruguay,coal,3000
+Port Howard,Iles Falkland,iron,6000
+Stanley,Iles Falkland,wood,3000
+Maicao,Vénézuéla,oil,3000

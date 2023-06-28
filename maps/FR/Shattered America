@@ -1,0 +1,703 @@
+name,nation,resource,base-output
+Kaniapiskau,East Quebec,grain,3000
+Charleston,Caroline du Sud,coal,3000
+Fresnillo,Tamaulipas,iron,3000
+Cartersville,Géorgie,wood,3000
+Elmira,New York,iron,3000
+Lula,Géorgie,coal,3000
+Albany,New York,iron,3000
+Atlanta,Géorgie,wood,3000
+Milesburg,Pennsylvanie,coal,6000
+Unionpoint,Géorgie,grain,3000
+Montrose,North Pennsylvania,coal,3000
+Wadley,Géorgie,grain,3000
+Ridgway,North Pennsylvania,iron,3000
+Macon,Géorgie,gas,3000
+Meadville,North Pennsylvania,grain,3000
+Savannah,Géorgie,oil,6000
+Midwest,North Wyoming,iron,3000
+Leesburg,Géorgie,grain,3000
+Uniontown,Pennsylvanie,iron,6000
+Huntsville,North Alabama,oil,3000
+Sherbrooke,Montréal,iron,3000
+Russelville,North Alabama,grain,3000
+Somerset,Pennsylvanie,wood,3000
+Tuscaloosa,North Alabama,coal,3000
+West Chester,Pennsylvanie,grain,3000
+Talladega,North Alabama,iron,3000
+Mountain View,Missouri,iron,3000
+Myrtlewood,South Alabama,wood,3000
+Marlinton,Virginie-Occidentale,iron,3000
+Montgomery,South Alabama,grain,3000
+Davis,Virginie-Occidentale,coal,3000
+Dothan,South Alabama,coal,3000
+Bodyton,Virginie,iron,3000
+Mobile,South Alabama,wood,3000
+Richmond,Virginie,iron,3000
+Logan,Ohio,grain,3000
+Pensacola,Floride,grain,3000
+Cambridge,Ohio,iron,3000
+Apalachicola,Floride,oil,6000
+Logansport,North Indiana,iron,3000
+Tallahassee,Floride,wood,6000
+Livingston,Kentucky,coal,3000
+Scottsville,Kentucky,oil,6000
+High Springs,Floride,iron,3000
+Douglas,Géorgie,iron,6000
+Jackonsville,Floride,fish,3000
+Milledgeville,Géorgie,iron,3000
+Tampa,Floride,fish,3000
+Marksville,Louisiane,iron,3000
+Bahamas,Caribbean Islands,iron,3000
+Orlando,Floride,gas,3000
+Booneville,Mississippi,iron,3000
+Fruitville,Floride,grain,3000
+Oakland,Nebraska,iron,3000
+Fort Lauderdale,Floride,iron,3000
+Scottsbluff,Nebraska,iron,6000
+Eufaula,Oklahoma,iron,3000
+Miami,Floride,coal,3000
+Arnett,Oklahoma,iron,3000
+Klawock,Alaska,grain,3000
+Grand Junction,Colorado,iron,3000
+Angora,Colorado,iron,3000
+Vernal,Utah,iron,3000
+West Fork,Washington,iron,3000
+Ritzville,Washington,iron,3000
+Sanders,Montana,iron,3000
+Paulina,Oregon,iron,3000
+Dodson,Montana du nord,iron,3000
+Circle,Alaska,wood,3000
+Browntown,Oregon,iron,3000
+Valdez,Alaska,coal,6000
+Show Low,Arizona,iron,3000
+Winslow,Arizona,iron,3000
+Cisco,Utah,iron,3000
+Acayucan,South Mexico,iron,3000
+Zihuatanejo,Guerrero,iron,3000
+Newhalen,Alaska,fish,3000
+Horqueta,South Mexico,wood,3000
+McGrath,Alaska,grain,3000
+Sacramento,Californie du Nord,wood,3000
+Kawich Peak,Central Nevada,iron,3000
+Ely,Central Nevada,grain,3000
+Nenana,Alaska,iron,6000
+Willits,Californie du Nord,fish,3000
+Susanville,Californie du Nord,grain,6000
+Koyuk,Alaska,gas,3000
+Foresta,Californie du Nord,gas,3000
+Williams,Californie du Nord,iron,3000
+King City,Californie du Sud,iron,3000
+Barrow,Alaska,fish,3000
+Fresno,Californie du Sud,coal,3000
+Olancha,Californie du Sud,oil,3000
+Los Angeles,Californie du Sud,grain,3000
+Brawley,Californie du Sud,fish,6000
+Lander,South Wyoming,iron,3000
+Gerlach,North Nevada,iron,3000
+Getchell Mine,North Nevada,grain,3000
+Goldfield,South Nevada,iron,3000
+Lund,Central Nevada,coal,3000
+Arctic Village,Alaska,coal,3000
+Panaca,South Nevada,grain,3000
+Fort Yukon,Alaska,coal,3000
+Mexicali,Basse Californie,fish,3000
+Nuevo Laredo,Coahuila,coal,3000
+San Quintin,Basse Californie,wood,3000
+San Ignacio,Basse Californie,wood,3000
+La Soledad,Basse Californie,grain,3000
+La Paz,Basse Californie,fish,3000
+Sonoyta,Sonora,grain,3000
+Cananea,Sonora,wood,3000
+Hermosillo,Sonora,fish,3000
+Ciudad Obregón,Sonora,fish,3000
+La colorada,Sonora,grain,3000
+Janos,Chihuahua,oil,3000
+Ciudad Juarez,Chihuahua,wood,3000
+Benito Juarez,Chihuahua,iron,3000
+Concepcion,Chihuahua,grain,3000
+Chihuahua,Chihuahua,gas,3000
+Ojinaga,Chihuahua,oil,6000
+Las Mestenas,Chihuahua,iron,3000
+Jimenez,Chihuahua,coal,3000
+Satevo,Chihuahua,wood,6000
+Parral,Chihuahua,coal,3000
+Los Monos,Coahuila,wood,6000
+San Miguel,Coahuila,grain,3000
+Sabinas,Coahuila,iron,3000
+Ocampo,Coahuila,coal,3000
+Monclova,Coahuila,oil,3000
+San Pedro,Coahuila,wood,3000
+Saltillo,Coahuila,coal,6000
+Navojoa,Sonora,wood,3000
+Los Mochis,West Mexico,grain,6000
+Culiacan,West Mexico,fish,6000
+Mapimi,Zacatecas,iron,3000
+Inde,West Mexico,coal,3000
+Topia,West Mexico,iron,3000
+Nazas,West Mexico,wood,3000
+Cuencame,Zacatecas,grain,3000
+Durango,West Mexico,gas,3000
+Salto,West Mexico,coal,3000
+Linares,Coahuila,grain,3000
+Matehuala,Coahuila,coal,3000
+Miguel,Tamaulipas,oil,3000
+Ciudad Victoria,Tamaulipas,grain,3000
+Soto la Marina,Tamaulipas,fish,3000
+San Jose,Tamaulipas,iron,3000
+Villanueva,Tamaulipas,wood,3000
+Sombrerete,Zacatecas,wood,3000
+Valparaiso,West Mexico,gas,3000
+Jalpa,West Mexico,grain,3000
+Acaponeta,West Mexico,grain,3000
+Tepic,Estados del Pacífico,fish,3000
+Guadalajára,Estados del Pacífico,oil,3000
+Colima,Estados del Pacífico,fish,3000
+Autlan,Estados del Pacífico,wood,3000
+San Luis Potosi,Central Mexico,wood,3000
+Guanajuato,Central Mexico,coal,3000
+Celaya,Central Mexico,iron,6000
+Morelia,Central Mexico,oil,3000
+Caracuaro,Central Mexico,grain,3000
+Petatlan,Guerrero,wood,3000
+Chilpancingo,Guerrero,grain,3000
+Chilapa,Central Mexico,gas,3000
+Ozoluama,South Mexico,fish,6000
+Tuxpan,South Mexico,grain,3000
+Tlaxcala,Central Mexico,iron,3000
+Puebla,Central Mexico,wood,6000
+Jalapa,South Mexico,gas,3000
+Minatitlan,South Mexico,coal,3000
+Oaxaca,Central Mexico,iron,3000
+Tehuantepec,Central Mexico,coal,3000
+Carmen,South Mexico,iron,6000
+Río Caribe,South Mexico,gas,3000
+Valladolid,South Mexico,grain,3000
+Merida,South Mexico,fish,3000
+Flores,Guatemala,coal,3000
+Dolores,Guatemala,wood,3000
+Quetzaltenango,Guatemala,grain,3000
+Guatemala,Guatemala,iron,3000
+San Salvador,Salvador,oil,3000
+Tegucigalpa,Honduras,fish,3000
+Juticalpa,Honduras,grain,3000
+Managua,Nicaragua,oil,3000
+Matagalpa,Nicaragua,gas,3000
+Cartago,Costa Rica,wood,3000
+Victoria,Colombie-Britannique,iron,3000
+Terrace,Colombie-Britannique,fish,6000
+Pemberton,Colombie-Britannique,wood,3000
+Princeton,Colombie-Britannique,grain,3000
+Siccamoose,Arrowhead,oil,3000
+Vernon,Arrowhead,coal,3000
+Robson,Arrowhead,grain,3000
+Fort Steele,Arrowhead,iron,3000
+Fort Fraser,Colombie-Britannique,grain,3000
+Longworth,Colombie-Britannique,iron,6000
+Fort St. John,Colombie-Britannique,wood,3000
+Stewart,Colombie-Britannique,coal,3000
+Atlin,Colombie-Britannique,wood,3000
+Fort Nelson,Colombie-Britannique,gas,3000
+Birch Mountains,Alberta,fish,3000
+Cree Lake,Saskatoon,fish,3000
+Fort Chipewyan,Alberta,grain,6000
+Indian Cabins,Alberta,wood,6000
+Lake Bistcho,Athabasca Landing,gas,3000
+Dunvegan,Athabasca Landing,iron,3000
+Jasper,Athabasca Landing,wood,3000
+Lesser Slave,Alberta,iron,3000
+Athabasca,Alberta,oil,3000
+Smoky Lake,Alberta,grain,3000
+Eldon,Alberta,oil,3000
+Edmonton,Alberta,coal,3000
+Jenner,Alberta,gas,3000
+Calgary,Alberta,wood,3000
+Black Lake Village,Saskatchewan,iron,3000
+Milton Lake,Saskatchewan,wood,3000
+Reindeer,Saskatchewan,fish,6000
+Pinehouse,Saskatchewan,coal,3000
+Fort La Crosse,Saskatoon,gas,3000
+Churchill River,Saskatchewan,wood,3000
+Battleford,Saskatoon,coal,3000
+Saskatoon,Saskatoon,wood,3000
+Kelfield,Saskatoon,grain,3000
+Brabant Lake,Saskatchewan,coal,3000
+Cumberland House,Saskatchewan,oil,3000
+Humboldt,Saskatchewan,gas,3000
+Kamsack,Saskatchewan,iron,3000
+Regina,Saskatchewan,grain,6000
+Winnipeg,Winnipeg,grain,3000
+Littleton,Winnipeg,coal,3000
+Brandon,Winnipeg,oil,3000
+Swan River,Winnipeg,iron,3000
+Cormorant,Manitoba,wood,3000
+Poplar River,Winnipeg,fish,3000
+Glenella,Winnipeg,grain,3000
+Norway House,Manitoba,gas,3000
+Lac Brochet,Manitoba,grain,6000
+Tatowaycho,Manitoba,iron,3000
+Sayisi Dene,Manitoba,wood,3000
+Oxford House,Manitoba,oil,3000
+Island Lake,Manitoba,grain,3000
+Webequie,West Ontario,iron,3000
+Fort Churchill,Manitoba,coal,3000
+Mullin Lake,Manitoba,oil,3000
+Great Island,Manitoba,wood,6000
+Fort Severn,West Ontario,wood,3000
+Echoing,West Ontario,grain,3000
+Attawapiskat,West Ontario,oil,3000
+Ogoki,West Ontario,grain,3000
+Slate Falls,West Ontario,oil,3000
+Nipigon,West Ontario,grain,3000
+Opasquia Ville,Kenora,wood,3000
+Sandy Lake,Kenora,iron,3000
+Cobham Lake,Kenora,coal,3000
+Kenora,Kenora,grain,3000
+Sioux Lookout,Kenora,iron,3000
+Heron Bay,West Ontario,fish,6000
+Girdwood,West Ontario,wood,6000
+Kinogama,Algoma,iron,3000
+Armstrong,West Ontario,iron,3000
+Saulte Ste. Marie,Algoma,fish,3000
+Algoma,East Ontario,wood,3000
+Cochrane,Algoma,grain,3000
+Moosonee,Algoma,fish,3000
+Midland,East Ontario,fish,3000
+Toronto,East Ontario,wood,3000
+Stratford,East Ontario,grain,6000
+Chatham,East Ontario,oil,3000
+Brantford,East Ontario,fish,3000
+Sudbury,East Ontario,iron,3000
+Markstay,East Ontario,oil,3000
+Canoe Lake,East Ontario,iron,3000
+Ottawa,East Ontario,coal,6000
+Montreal,Montréal,coal,3000
+Mont Laurier,Montréal,oil,3000
+Maniwakie,Montréal,wood,3000
+Dumoine River,Montréal,grain,3000
+Kipawa,West Quebec,coal,3000
+Quebec,West Quebec,grain,3000
+Chicoutimi,West Quebec,iron,3000
+Roberval,West Quebec,grain,3000
+Amos,West Quebec,iron,6000
+Doucet,West Quebec,coal,3000
+Doda Lake,West Quebec,oil,3000
+Rimouski,Sherbrooke,iron,3000
+Gaspe,Sherbrooke,fish,3000
+Campbellton,Nouveau-Brunswick,fish,3000
+Woodstock,Nouveau-Brunswick,grain,3000
+Moncton,Nouveau-Brunswick,fish,3000
+Halifax,Nouvelle-Écosse,fish,3000
+Amherst,Nouvelle-Écosse,grain,3000
+Castors Harbor,Terre-Neuve,iron,3000
+Kingwa,East Quebec,fish,3000
+Burgeo,Terre-Neuve,fish,3000
+St. Johns,Terre-Neuve,wood,3000
+Fort George,West Quebec,fish,6000
+Rupert House,West Quebec,fish,3000
+Popiskagami,West Quebec,grain,3000
+Minto Lake,East Quebec,coal,3000
+Upper Seal Lake,East Quebec,grain,3000
+Baie-James,East Quebec,grain,3000
+Nitchequon,East Quebec,coal,6000
+Erik Cove,East Quebec,iron,3000
+Douglas Harbor,East Quebec,wood,3000
+Fort Chimo,East Quebec,fish,3000
+Kogaluk River,Nain,grain,3000
+Great Long Lake,East Quebec,wood,6000
+Killinek,Nain,iron,3000
+Nain,Nain,gas,3000
+Mishikamau Lake,Nain,wood,3000
+Hopedale,Nain,fish,3000
+Sept-Îles,Mingan,fish,3000
+Relais-Gabriel,Mingan,grain,3000
+Seven islands,Mingan,wood,3000
+Klokol Lake,Fort Reliance,wood,3000
+Mistinik Lake,Mingan,coal,3000
+Mingan,Mingan,iron,3000
+Mekattina,Mingan,fish,3000
+Amadjuak,Baffin Island,fish,3000
+Pangnirtung,Baffin Island,coal,3000
+Prince William,Baffin Island,coal,3000
+Arctic Bay,Baffin Island,grain,3000
+Baffin,Baffin Island,wood,3000
+Port Leopold,Baffin Island,fish,3000
+Hoppner Inlet,Eskimo Point,wood,6000
+Taloyoak,Eskimo Point,fish,3000
+Chesterfield Inlet,Eskimo Point,oil,3000
+Arrowsmith Bay,Eskimo Point,grain,3000
+Cambridge Bay,Îles Victoria,grain,3000
+Holman,Îles Victoria,coal,3000
+Whale Cove,Eskimo Point,fish,3000
+Thaolintoa Lake,Eskimo Point,oil,6000
+Angikuni Lake,Eskimo Point,iron,3000
+Lake Garry,Eskimo Point,fish,3000
+Bathurst Inlet,Eskimo Point,grain,3000
+Ennadai Lake,Eskimo Point,gas,3000
+Wholdaia Lake,Fort Reliance,grain,3000
+Kugluktuk,Fort Reliance,fish,3000
+Contwoyto Lake,Fort Reliance,coal,3000
+Kugluk,Fort Reliance,iron,3000
+Banks Island,Îles Victoria,grain,3000
+Taltson,Northwest Territories,coal,3000
+Fort Rae,Northwest Territories,gas,3000
+Fort Providence,Northwest Territories,grain,6000
+Blue Ice Lake,Fort Enterprise,wood,3000
+Dismal Lake,Fort Enterprise,grain,3000
+Fort Confidence,Fort Enterprise,fish,3000
+Hunter Bay,Northwest Territories,wood,3000
+Franklin Bay,Northwest Territories,iron,3000
+Arctic Red River,Northwest Territories,grain,3000
+Aklavik,Northwest Territories,wood,6000
+Hottaw Lake,Northwest Territories,fish,3000
+Fort Simpson,Northwest Territories,wood,3000
+Fort Norman,Northwest Territories,coal,3000
+Old Crow,Old Crow,oil,3000
+Shingle Point,Old Crow,grain,3000
+Fishing Branch,Old Crow,iron,3000
+Lapierre House,Old Crow,wood,3000
+Dawson,Dawson,gas,3000
+Carmacks,Dawson,wood,3000
+Whitehorse,Dawson,grain,3000
+Mayo,Dawson,iron,3000
+Teslin,Dawson,grain,3000
+Ross River,Dawson,oil,3000
+Sancti Spiritus,Cuba,wood,3000
+Havana,Cuba,iron,3000
+Camaguey,Cuba,fish,3000
+Baracoa,Cuba,wood,3000
+Kingston,Caribbean Islands,fish,3000
+Port-au-Prince,Caribbean Islands,wood,3000
+Ponce,Caribbean Islands,fish,3000
+Basse-Terre,Caribbean Islands,grain,3000
+Tampico,Montana du nord,wood,3000
+Mount Vernon,Washington,fish,6000
+Colville,Washington,wood,3000
+Olympia,Washington,iron,3000
+Wilbur,Washington,grain,6000
+Spokane,Washington,coal,3000
+Walla Walla,Washington,gas,3000
+Yakima,Washington,grain,3000
+Tacoma,Washington,coal,3000
+Coeur d'Alene,North Idaho,iron,3000
+Worley,North Idaho,wood,3000
+Wallace,North Idaho,wood,3000
+Kalispell,Montana,iron,3000
+Burnham,Montana du nord,grain,3000
+Blair,Montana du nord,wood,3000
+Glendive,Montana,coal,3000
+Terry,Montana,coal,3000
+Powderville,Montana,iron,3000
+Bozeman,Montana,wood,3000
+Harlowtown,Montana,wood,3000
+Neihart,Montana,oil,6000
+Butte,Montana,coal,3000
+Helena,Montana,grain,6000
+Williston,Dakota du Nord,iron,3000
+Towner,Dakota du Nord,grain,3000
+Medora,Dakota du Nord,grain,3000
+Bismarck,Dakota du Nord,coal,3000
+McHenry,Dakota du Nord,wood,3000
+Casselton,Dakota du Nord,coal,3000
+Reva,Dakota du Sud,iron,3000
+Rapid City,Dakota du Sud,iron,6000
+Gettysburg,Dakota du Sud,wood,3000
+Redfield,Dakota du Sud,coal,3000
+Milbank,Dakota du Sud,grain,3000
+Huron,Dakota du Sud,wood,3000
+Pierre,Dakota du Sud,grain,6000
+Chamberlain,Dakota du Sud,oil,3000
+Thief River,Minnesota,oil,3000
+Bemidji,Minnesota,wood,6000
+Crookston,Minnesota,iron,3000
+Moorhead,Minnesota,grain,3000
+Carlton,Minnesota,gas,3000
+Walker,Minnesota,wood,3000
+Saint Paul,Minnesota,iron,3000
+Wheaton Valley,Minnesota,grain,6000
+Pipestone,Minnesota,oil,3000
+Mankato,Minnesota,iron,3000
+Marengo,North Wisconsin,grain,3000
+Turtle Lake,North Wisconsin,grain,3000
+Rhinelander,North Wisconsin,iron,3000
+Green Bay,North Wisconsin,fish,3000
+Marshfield,North Wisconsin,coal,3000
+Sparta,South Wisconsin,oil,3000
+Madison,South Wisconsin,coal,3000
+Milwaukee,South Wisconsin,wood,3000
+Houghton,Michigan,iron,3000
+Escanaba,Michigan,iron,6000
+Newberry,Michigan,coal,3000
+Traverse City,Michigan,grain,3000
+Hillman,Michigan,fish,3000
+Walhalla,Michigan,fish,3000
+Saginaw,Michigan,iron,3000
+Kalamazoo,Michigan,coal,3000
+Lansing,Michigan,gas,6000
+Detroit,Michigan,wood,3000
+Findlay,Ohio,fish,3000
+Lorain,Ohio,grain,6000
+Youngstown,Ohio,fish,3000
+Columbus,Ohio,gas,3000
+Marietta,Ohio,wood,3000
+Wapakoneta,Ohio,iron,3000
+Cincinnati,Ohio,coal,6000
+Wellston,Ohio,iron,3000
+Erie,North Pennsylvania,grain,3000
+Pittsburg,Pennsylvanie,gas,3000
+Emporium,North Pennsylvania,coal,3000
+Williamsport,Pennsylvanie,oil,3000
+Scranton,Pennsylvanie,grain,3000
+Philadelphia,Pennsylvanie,fish,3000
+Harrisburg,Pennsylvanie,iron,3000
+Altoona,Pennsylvanie,wood,3000
+Bridgeton,New Jersey,fish,3000
+Rochester,New York,fish,3000
+Syracuse,New York,grain,6000
+Watertown,New York,fish,3000
+Plattsburg,New York,grain,3000
+Concord,Maine,fish,6000
+New York City,New York,iron,3000
+Schenectady,New York,gas,6000
+Utica,New York,wood,3000
+Hancock,New York,oil,3000
+Hartford,Massachusetts,gas,3000
+Woodsville,Maine,coal,3000
+Montpelier,Maine,grain,3000
+Ludlow,Maine,iron,3000
+Chicopee,Massachusetts,wood,3000
+Boston,Massachusetts,coal,3000
+Augusta,Maine,fish,3000
+Ellsworth,Maine,coal,3000
+Rumford,Maine,iron,6000
+Greenville Junction,Maine,grain,3000
+Fort Fairfield,Maine,coal,3000
+Mattawamkeag,Maine,wood,3000
+Frederick,Virginie,grain,3000
+Baltimore,Virginie,iron,3000
+Bridgeville,Virginie,fish,3000
+Washington D.C.,Virginie,gas,3000
+Bigstone Gap,Virginie,wood,3000
+Lynchburg,Virginie,gas,6000
+Elkton,Virginie,wood,6000
+Westpoint,Virginie,fish,3000
+Belington,Virginie-Occidentale,wood,3000
+Fairmont,Virginie-Occidentale,wood,3000
+Charlestone,Virginie-Occidentale,grain,3000
+Dupont,Virginie-Occidentale,gas,3000
+Blackwater,Kentucky,coal,3000
+Lexington,Kentucky,grain,6000
+Frankfort,Kentucky,iron,3000
+Corbin,Kentucky,grain,3000
+Bartstown,Kentucky,wood,3000
+Elizabeth Town,Kentucky,coal,3000
+Hickman,Kentucky,iron,3000
+Forkton,Kentucky,iron,3000
+Portage,North Indiana,fish,3000
+Fort Wayne,North Indiana,grain,3000
+Veedersburg,North Indiana,wood,3000
+Muncie,North Indiana,oil,3000
+Indianapolis,South Indiana,iron,3000
+Seymour,South Indiana,coal,3000
+Evansville,South Indiana,grain,3000
+Terre Haute,South Indiana,grain,3000
+Chicago,Illinois,fish,3000
+Rockford,Illinois,iron,3000
+Galva,Illinois,iron,3000
+Kankakee,Illinois,grain,6000
+Beardstown,Illinois,coal,3000
+Springfield,Illinois,coal,3000
+Litchfield,Illinois,wood,6000
+Effingham,Illinois,grain,3000
+Olney,Illinois,iron,3000
+Belleville,Illinois,grain,3000
+New Hampton,East Iowa,iron,3000
+Dubuque,East Iowa,wood,3000
+Burlington,East Iowa,coal,3000
+Creston,West Iowa,iron,3000
+Des Moines,East Iowa,coal,3000
+Spencer,West Iowa,wood,3000
+Mason City,East Iowa,grain,3000
+La Plata,Missouri,oil,6000
+Pattonsberg,Missouri,wood,3000
+Carrollton,Missouri,grain,3000
+Mexico,Missouri,wood,3000
+St. Louis,Missouri,coal,6000
+Jefferson City,Missouri,coal,3000
+Aurora,Missouri,wood,3000
+Silva,Missouri,grain,3000
+St. Joseph,Missouri,grain,3000
+Omaha,West Iowa,wood,3000
+Sioux City,West Iowa,grain,3000
+Sioux Falls,Dakota du Sud,grain,3000
+Wakonda,Dakota du Sud,oil,3000
+Lincoln,Nebraska,wood,3000
+Hastings,Nebraska,coal,3000
+Gothenburg,Nebraska,oil,3000
+Imperial,Nebraska,grain,6000
+Crawford,Nebraska,wood,3000
+Wood Lake,Nebraska,coal,3000
+O'Neill,Nebraska,grain,3000
+Plainview,Nebraska,gas,3000
+Topeka,East Kansas,coal,3000
+Eureka,East Kansas,grain,3000
+Wichita,East Kansas,grain,3000
+Concordia,East Kansas,coal,3000
+Stockton,West Kansas,gas,3000
+Colby,West Kansas,iron,3000
+Garden City,West Kansas,wood,3000
+Stafford,West Kansas,wood,3000
+Sundance,North Wyoming,grain,3000
+Buffalo,North Wyoming,wood,3000
+Sunshine,North Wyoming,iron,3000
+Yellowstone,North Wyoming,grain,3000
+Lyman,South Wyoming,coal,3000
+Cheyenne,South Wyoming,grain,3000
+Walcott,South Wyoming,gas,3000
+Wamsutter,South Wyoming,coal,3000
+Schramm,Colorado,gas,6000
+Galatea,Colorado,oil,3000
+Pueblo,Colorado,grain,3000
+Cortez,Colorado,coal,3000
+Denver,Colorado,wood,3000
+Colorado Springs,Colorado,wood,3000
+Steamboat Springs,Colorado,grain,3000
+Glenwood Springs,Colorado,iron,6000
+Bluff,Utah,grain,3000
+Hite,Utah,gas,6000
+Sphinx,Utah,oil,6000
+Cedar City,Utah,coal,3000
+Manti,Utah,grain,3000
+Ibex,Utah,grain,3000
+Salt Lake City,Utah,iron,3000
+Ogden,Utah,wood,3000
+Pocatello,South Idaho,iron,3000
+Kimama,South Idaho,grain,3000
+Boise,South Idaho,wood,3000
+Bassett,South Idaho,gas,3000
+Challis,South Idaho,gas,3000
+Council,South Idaho,grain,3000
+La Grande,Oregon,coal,3000
+Clem,Oregon,grain,3000
+Salem,Oregon,iron,6000
+Portland,Oregon,wood,3000
+Port Orford,Oregon,fish,6000
+Medford,Oregon,grain,3000
+Burns,Oregon,coal,3000
+Diamond,Oregon,wood,3000
+Bartle,Californie du Nord,iron,3000
+Yreka,Californie du Nord,wood,3000
+San Francisco,Californie du Nord,coal,6000
+Hamilton City,Californie du Nord,oil,3000
+Merced,Californie du Nord,iron,3000
+Wawona,Californie du Sud,grain,6000
+Gosford,Californie du Sud,fish,3000
+Randsburg,Californie du Sud,grain,3000
+Crucero,Californie du Sud,wood,3000
+Goffs,Californie du Sud,coal,3000
+Rebel Creek,North Nevada,coal,3000
+Carson City,Central Nevada,wood,3000
+Mountain City,North Nevada,grain,3000
+Cobre,North Nevada,coal,3000
+Ravenswood,Central Nevada,grain,3000
+Luning,Central Nevada,coal,3000
+Sunnyside,South Nevada,gas,3000
+Crystal Springs,South Nevada,iron,3000
+Beatty,South Nevada,grain,3000
+Las Vegas,South Nevada,wood,3000
+Grand Canyon,Arizona,grain,6000
+Prescott,Arizona,oil,6000
+Yuma,Arizona,gas,3000
+Pinon,Arizona,wood,3000
+Holbrook,Arizona,grain,3000
+Phoenix,Arizona,grain,3000
+Red Rock,Arizona,coal,3000
+Benson,Arizona,wood,3000
+Farmington,North New Mexico,grain,3000
+Santa Fe,North New Mexico,wood,3000
+Tucemcari,North New Mexico,grain,3000
+Campbell,South New Mexico,coal,3000
+Willard,North New Mexico,wood,3000
+Capitan,South New Mexico,oil,3000
+Ramah,North New Mexico,iron,3000
+White Water,South New Mexico,iron,3000
+Las Cruces,South New Mexico,coal,3000
+Carlsbad,South New Mexico,grain,3000
+Guymon,Oklahoma,oil,3000
+Sayre,Oklahoma,wood,3000
+Cherokee,Oklahoma,iron,3000
+Tulsa,Oklahoma,gas,3000
+Grove,Oklahoma,grain,6000
+Oklahoma,Oklahoma,grain,3000
+Durant,Oklahoma,wood,3000
+Wilburton,Oklahoma,coal,6000
+Dalhart,Amarillo,wood,3000
+Washburn,Amarillo,coal,3000
+Amarillo,Amarillo,grain,3000
+Silverton,Amarillo,gas,3000
+Lubbock,Texas,oil,3000
+Emerson,Texas,iron,6000
+Colorado City,Texas,grain,3000
+Dallas,Texas,grain,3000
+Austin,Texas,wood,3000
+Pecos,El Paso,gas,3000
+El Paso,El Paso,oil,3000
+Paisano,El Paso,grain,3000
+Port Lavaca,Texas,fish,6000
+Sabinal,Texas,gas,3000
+Sulphur Springs,Texas de l'Est,iron,3000
+Winsboro,Texas de l'Est,oil,3000
+Mabank,Texas de l'Est,grain,3000
+Timpson,Texas de l'Est,gas,3000
+Houston,Texas,oil,3000
+Beaumont,Texas,iron,3000
+Corrigan,Texas,iron,3000
+Fort Smith,North Arkansas,oil,3000
+Mountain Home,North Arkansas,wood,3000
+Paragould,North Arkansas,wood,3000
+Hope,South Arkansas,grain,3000
+Smackover,South Arkansas,grain,3000
+Arkansas City,South Arkansas,coal,3000
+Brinkley,North Arkansas,grain,3000
+Little Rock,South Arkansas,iron,3000
+Greensboro,Caroline du Nord,wood,6000
+Collinston,Louisiane,iron,3000
+Ruston,Louisiane,grain,3000
+Shreveport,Louisiane,gas,3000
+Jena,Louisiane,coal,6000
+Natchitoches,Louisiane,grain,3000
+Lake Charles,Louisiane,fish,6000
+Baton Rouge,Louisiane,wood,3000
+Baldwin,Louisiane,wood,3000
+New Orleans,Louisiane,coal,3000
+Gulfport,Mississippi,fish,6000
+Brookhaven,Mississippi,iron,3000
+Laurel,Mississippi,gas,3000
+Jackson,Mississippi,coal,6000
+Kelso,Mississippi,gas,3000
+Claksdale,Mississippi,iron,3000
+Ackerman,Mississippi,grain,3000
+Choctaw,Mississippi,wood,3000
+Hernando,Mississippi,gas,3000
+Allens Creek,West Tennessee,grain,3000
+Martin,West Tennessee,gas,3000
+Clarcksville,West Tennessee,wood,3000
+Nashville,West Tennessee,iron,3000
+Charlotte,Caroline du Nord,grain,3000
+Tullahoma,West Tennessee,grain,3000
+Cookville,East Tennessee,gas,3000
+Knoxville,East Tennessee,wood,3000
+Johnson City,East Tennessee,iron,3000
+Franklin,Caroline du Nord,gas,3000
+Asheville,Caroline du Nord,grain,3000
+Statesville,Caroline du Nord,coal,3000
+Durham,Caroline du Nord,grain,3000
+Hobgood,Caroline du Nord,coal,3000
+Fayetteville,Caroline du Nord,iron,3000
+Raleigh,Caroline du Nord,gas,6000
+Greenville,Caroline du Nord,grain,3000
+Seneca,Caroline du Sud,wood,3000
+Aiken,Caroline du Sud,grain,3000
+Columbia,Caroline du Sud,wood,3000
+Conway,Caroline du Sud,fish,3000
+Branchville,Caroline du Sud,grain,3000

@@ -1,0 +1,368 @@
+name,nation,resource,base-output
+Koenigsberg,L'Empire Allemand,fish,3000
+Strasbourg,L'Empire Allemand,iron,3000
+Hambourg,L'Empire Allemand,oil,3000
+Breslau,L'Empire Allemand,wood,3000
+Berlin,L'Empire Allemand,coal,6000
+Dantzig,L'Empire Allemand,grain,3000
+Hanovre,L'Empire Allemand,gas,3000
+Cologne,L'Empire Allemand,coal,6000
+Francfort,L'Empire Allemand,grain,3000
+Munich,L'Empire Allemand,coal,3000
+Innsbruck,Autriche-Hongrie,iron,6000
+Prague,Autriche-Hongrie,coal,3000
+Lemberg,Autriche-Hongrie,gas,3000
+Cracovie,Autriche-Hongrie,grain,3000
+Vienne,Autriche-Hongrie,wood,3000
+Trieste,Autriche-Hongrie,coal,3000
+Sarajevo,Autriche-Hongrie,fish,3000
+Budapest,Autriche-Hongrie,grain,6000
+Kronstadt,Roumanie,wood,3000
+Szeged,Autriche-Hongrie,grain,3000
+Copenhague,Danemark,grain,3000
+Arhus,Danemark,grain,6000
+Aalborg,Danemark,coal,3000
+Reykjavik,Danemark,oil,3000
+Akureyri,Danemark,wood,3000
+Sofia,Bulgarie,wood,3000
+Pleven,Bulgarie,grain,3000
+Plovdiv,Bulgarie,grain,3000
+Varna,Bulgarie,coal,3000
+Constantinople,L'Empire Ottoman,coal,3000
+Salonique,Grèce,gas,3000
+Yanina,Grèce,coal,6000
+Novi-Bazar,Grèce,wood,3000
+Uskub,Grèce,wood,6000
+Konich,L'Empire Ottoman,grain,3000
+Sinope,L'Empire Ottoman,wood,3000
+Angora,L'Empire Ottoman,wood,6000
+Bursa,L'Empire Ottoman,fish,3000
+Smyrne,L'Empire Ottoman,iron,6000
+Antalya,L'Empire Ottoman,iron,3000
+Belgrade,Autriche-Hongrie,wood,3000
+Cettigne,Grèce,grain,3000
+Nisk,Grèce,coal,3000
+Bucarest,Roumanie,grain,3000
+Craiova,Roumanie,gas,3000
+Constanţa,Roumanie,fish,6000
+Iaşi,Roumanie,wood,3000
+Galatz,Roumanie,grain,6000
+Pyrgos,Grèce,grain,3000
+Athènes,Grèce,fish,3000
+Larissa,Grèce,iron,3000
+La Canée,Grèce,fish,3000
+Palerme,Italie,oil,3000
+Cagliari,Italie,wood,3000
+Venise,Italie,grain,3000
+Milan,Italie,grain,3000
+Gènes,Italie,gas,3000
+Bologne,Italie,gas,3000
+Rome,Italie,coal,6000
+Naples,Italie,grain,6000
+Reggio,Italie,fish,3000
+Brindisi,Italie,iron,3000
+Ajaccio,France,iron,3000
+Zurich,Belgique,wood,3000
+Berne,Belgique,wood,3000
+Bruxelles,Belgique,coal,3000
+Anvers,Belgique,gas,3000
+La Haye,Belgique,fish,3000
+Amsterdam,Belgique,grain,3000
+Paris,France,grain,3000
+Toulouse,Espagne,coal,3000
+Marseille,France,fish,3000
+Lyon,France,iron,3000
+Bordeaux,Espagne,grain,6000
+Nancy,France,iron,6000
+Lille,France,wood,3000
+Limoges,France,grain,3000
+Brest,France,fish,3000
+Palma de Majorque,Espagne,fish,3000
+Madrid,Espagne,grain,3000
+Barcelone,Espagne,coal,3000
+Málaga,Espagne,iron,6000
+St-Jacques-de-Compostelle,Espagne,wood,3000
+Valence,Espagne,grain,3000
+Séville,Espagne,iron,3000
+Badajoz,Espagne,coal,3000
+Salamanque,Espagne,grain,3000
+Burgos,Espagne,iron,6000
+Porto,Portugal,iron,3000
+Lisbonne,Portugal,grain,3000
+Lagos,Portugal,fish,3000
+Coimbra,Portugal,fish,3000
+Maroc,Maroc,iron,3000
+Casablanca,Maroc,grain,6000
+Tanger,Maroc,grain,3000
+Fés,Maroc,coal,3000
+Oran,Algérie Occidentale,fish,3000
+Constantine,Algérie Orientale,fish,3000
+Béjaïa,Algérie Orientale,grain,3000
+Bône,Algérie Orientale,iron,3000
+Tunis,Portugal,wood,3000
+Kairouan,Portugal,oil,3000
+Melilla,Maroc,fish,3000
+Londres,Royaume-Uni,grain,3000
+Liverpool,Royaume-Uni,iron,6000
+Manchester,Royaume-Uni,coal,3000
+Glasgow,Royaume-Uni,wood,3000
+Birmingham,Royaume-Uni,coal,6000
+Inverness,Royaume-Uni,grain,3000
+Belfast,Royaume-Uni,grain,3000
+Dublin,Royaume-Uni,fish,3000
+Limerick,Royaume-Uni,iron,3000
+Portsmouth,Royaume-Uni,fish,3000
+Kalmar,Suède,grain,3000
+Stockholm,Suède,iron,3000
+Karlstad,Suède,wood,3000
+Sundsvall,Suède,fish,3000
+Umeå,Suède,wood,3000
+Luleå,Suède,iron,6000
+Tromsø,Norvège,fish,3000
+Eigersund,Norvège,grain,3000
+Bergen,Norvège,oil,3000
+Trondheim,Norvège,fish,6000
+Torneå,Finlande,coal,3000
+Nikolaistad,Finlande,coal,3000
+Kuopio,Finlande,iron,6000
+Helsingfors,Finlande,grain,3000
+Viborg,Finlande,fish,3000
+Łódź,Pologne,iron,3000
+Varsovie,Pologne,grain,3000
+Lublin,Pologne,wood,3000
+Kishinev,Ukraine,fish,3000
+Kiev,Ukraine,grain,6000
+Kharkov,Ukraine,wood,3000
+Vilnius,Lituanie,wood,3000
+Moscou,Russie,oil,3000
+St. Petersbourg,Russie,fish,6000
+Riga,Livonie,iron,3000
+Cherepovets,Russie du Nord,grain,6000
+Smolensk,Russie,iron,3000
+Kamenka,Russie du Nord,gas,3000
+Kandalaksha,Russie du Nord,oil,3000
+Hosteinborg,Groenland,gas,3000
+Sukkertoppen,Groenland,fish,6000
+Godthab,Groenland,fish,3000
+Kaltstad,Groenland,iron,3000
+Frederikshab,Groenland,wood,3000
+Ivigtuut,Groenland,grain,3000
+Frederiksdal,Groenland,wood,3000
+Utorqarmiut,Groenland,iron,3000
+Schneemannshausen,Groenland,fish,3000
+Groenland Danois,Groenland,gas,6000
+Marrakech,Maroc,oil,3000
+Rachidia,Maroc,iron,3000
+Agadir,Maroc,gas,3000
+Tan-Tan,Maroc,wood,6000
+Béchar,Algérie Occidentale,iron,3000
+Abadla,Algérie Occidentale,iron,3000
+Tinfouchy,Algérie Occidentale,gas,3000
+In Salah,Algérie Occidentale,coal,6000
+Rabat,Maroc,iron,3000
+Timimoun,Algérie Occidentale,coal,3000
+Golea,Algérie Occidentale,grain,6000
+Reggane,Algérie Occidentale,iron,3000
+Adrar,Algérie Occidentale,oil,3000
+Massif des Eglab,Algérie Occidentale,grain,3000
+Alger,Algérie Orientale,grain,6000
+Oued,Algérie Orientale,wood,3000
+Touggourt,Algérie Orientale,gas,6000
+Ghardaïa,Algérie Orientale,oil,3000
+Djanet,Algérie Orientale,coal,3000
+Zaouatanlaz,Algérie Orientale,coal,3000
+Illizi,Algérie Orientale,iron,3000
+Médenine,Libye Occidentale,grain,6000
+Tripoli,Libye Occidentale,grain,6000
+Misurata,Libye Occidentale,wood,3000
+Surt,Libye Occidentale,fish,3000
+Nalut,Libye Occidentale,wood,3000
+Birak,Libye Occidentale,iron,3000
+Houn,Libye Occidentale,coal,6000
+Waddan,Libye Occidentale,coal,3000
+Sabhah,Libye Occidentale,oil,3000
+Ghat,Libye Occidentale,gas,3000
+Tmassah,Libye Occidentale,iron,3000
+Benghazi,Libye Orientale,grain,3000
+Darnah,Libye Orientale,wood,3000
+Tubruq,Libye Orientale,fish,6000
+Jalu,Libye Orientale,coal,3000
+Marble Arch,Libye Orientale,coal,3000
+Tazirbu,Libye Orientale,iron,3000
+Khofra,Libye Orientale,coal,3000
+Awaynat,Libye Orientale,oil,3000
+Ma'tan as Sarah,Libye Orientale,oil,3000
+Sarir Tibisti,Libye Orientale,iron,6000
+Madama,Libye Occidentale,wood,3000
+Bardai,Libye Orientale,grain,3000
+Sidi Barrani,Égypte,grain,6000
+Al Iskandariyah,Égypte,fish,3000
+Le Caire,Égypte,coal,6000
+Siwa,Égypte,grain,3000
+Mut,Égypte,oil,3000
+Barramiya,Égypte,grain,3000
+Faiyum,Égypte,iron,3000
+Ezbet Tileitla,Égypte,iron,3000
+Abou Simbel,Égypte,coal,3000
+Fudukwan,Afrique Occidentale Française,fish,3000
+Laayoune,Afrique Occidentale Française,grain,3000
+El'Argoub,Afrique Occidentale Française,fish,6000
+Bir Mogrein,Afrique Occidentale Française,oil,6000
+Mali,Afrique Occidentale Française,iron,3000
+Dimashq,Syrie,wood,3000
+Tall 'Afar,Syrie,iron,3000
+Jérusalem,Arabie,grain,6000
+Amman,Arabie,iron,3000
+Tabuk,Arabie,coal,3000
+Al Ula,Arabie,fish,3000
+Makkah,Arabie,iron,3000
+Ha'il,Arabie,oil,3000
+Brydah,Arabie,oil,6000
+An Nabk,Arabie,gas,3000
+At Tanfo,Arabie,oil,3000
+Arar,Arabie,grain,3000
+Moncton,Canada du Sud,iron,3000
+Québec,Canada du Sud,iron,3000
+Montréal,Canada du Sud,iron,3000
+Ottawa,Canada du Sud,coal,3000
+Toronto,Canada du Sud,wood,3000
+Sherbrooke,Canada du Sud,coal,3000
+Pembroke,Canada du Sud,wood,3000
+Sudbury,Canada du Sud,fish,3000
+Timmins,Canada du Sud,grain,6000
+North Bay,Canada du Sud,wood,6000
+Forestville,Canada du Nord,coal,3000
+Hauterive,Canada du Nord,iron,3000
+Port-Cartier,Canada du Nord,grain,3000
+Labrador City,Canada du Nord,gas,6000
+Moose Factory,Canada du Nord,grain,3000
+Kuujjuarapik,Canada du Nord,oil,3000
+Kangiqsualujjuaq,Canada du Nord,wood,3000
+Port Hope Simpson,Canada du Nord,wood,3000
+Umiujaq,Canada du Nord,grain,3000
+Corner Brook,Terre-Neuve,grain,3000
+New York,États Unis du nord,iron,6000
+Philadelphie,États Unis du nord,fish,3000
+Lincoln,États Unis du nord,fish,3000
+Portland,États Unis du nord,iron,3000
+Concord,États Unis du nord,coal,3000
+Boston,États Unis du nord,gas,3000
+Vermont,États Unis du nord,wood,3000
+Potsdam,États Unis du nord,grain,3000
+Scranton,États Unis du nord,coal,6000
+Pittsburgh,États Unis du nord,wood,3000
+Halifax,Terre-Neuve,fish,3000
+Detroit,Terre-Neuve,oil,3000
+Louisville,Terre-Neuve,coal,3000
+Lexington-Fayette,Terre-Neuve,grain,3000
+Knoxville,États Unis du Sud,wood,6000
+Cleveland,États Centraux d'Amérique,fish,6000
+Cincinnati,États Centraux d'Amérique,grain,3000
+Charleston,États Centraux d'Amérique,wood,6000
+Morgantown,États Centraux d'Amérique,grain,3000
+Washington,États Centraux d'Amérique,wood,3000
+Roanoke,États Centraux d'Amérique,coal,3000
+Richmond,États Centraux d'Amérique,gas,3000
+Raleigh,États Centraux d'Amérique,iron,3000
+Charlotte,États Centraux d'Amérique,iron,3000
+Asheville,États Centraux d'Amérique,iron,3000
+Tallahassee,États Unis du Sud,fish,3000
+Miami,États Unis du Sud,fish,3000
+Orlando,États Unis du Sud,fish,3000
+Jacksonville,États Unis du Sud,grain,3000
+Montgomery,États Unis du Sud,wood,3000
+Atlanta,États Unis du Sud,oil,3000
+Columbus,États Unis du Sud,grain,3000
+Savannah,États Unis du Sud,coal,3000
+Columbia,États Unis du Sud,coal,6000
+Summerville,États Unis du Sud,iron,6000
+Kimmirut,Terre-Neuve,gas,3000
+Beirut,Syrie,fish,3000
+Palmyre,Syrie,grain,3000
+Kuusamo,Finlande,wood,3000
+Inari,Finlande,wood,3000
+Enontekio,Finlande,grain,3000
+Kokkola,Finlande,fish,3000
+Kotka,Finlande,wood,6000
+Göteborg,Suède,fish,3000
+Malung,Suède,wood,3000
+Östersund,Suède,gas,3000
+Sorsele,Suède,coal,6000
+Christiania,Norvège,wood,3000
+Aalesund,Norvège,fish,3000
+Snasa,Norvège,wood,3000
+Rana,Norvège,wood,3000
+Alta,Norvège,iron,6000
+Batsfjord,Norvège,fish,3000
+Kaunas,Pologne,grain,3000
+Bialystok,Pologne,grain,3000
+Plock,Pologne,grain,3000
+Kielce,Pologne,wood,3000
+Plonsk,Pologne,oil,3000
+Siedlce,Pologne,coal,6000
+Zamosc,Pologne,gas,6000
+Slatina,Roumanie,wood,3000
+Turnu Severin,Roumanie,iron,3000
+Alba Iulia,Roumanie,oil,3000
+Baia Mare,Roumanie,iron,3000
+Usogorsk,Sibérie Occidentale,gas,3000
+Muchkas,Sibérie Occidentale,iron,3000
+Krasnokamsk,Perm Krai,wood,3000
+Perm,Perm Krai,grain,3000
+Kotlas,Russie du Nord,coal,3000
+Nikol'sk,Russie du Nord,grain,3000
+Vologda,Russie du Nord,wood,3000
+Arkhangelsk,Russie du Nord,oil,3000
+Ukhta,Russie du Nord,gas,3000
+Syktyvkar,Russie du Nord,wood,3000
+Kostomuksha,Russie du Nord,fish,6000
+Miskolc,Autriche-Hongrie,wood,3000
+Viatka,Russie,grain,3000
+Valmiera,Livonie,grain,3000
+Tallinn,Livonie,gas,3000
+Koursk,Ukraine,grain,3000
+Chernigov,Ukraine,grain,3000
+Ekaterinoslav,Ukraine,oil,3000
+Poltava,Ukraine,iron,3000
+Volhynia,Ukraine,wood,3000
+Podolia,Ukraine,coal,3000
+Kherson,Ukraine,iron,6000
+Mogilev,Lituanie,wood,3000
+Orsha,Lituanie,grain,6000
+Vitebsk,Lituanie,wood,3000
+Homyel,Lituanie,coal,3000
+Minsk,Lituanie,coal,6000
+Klaipeda,Lituanie,fish,3000
+Mozyr,Lituanie,gas,3000
+Pinsk,Lituanie,coal,3000
+Brest-Litovsk,Lituanie,grain,3000
+Volgodonsk,Caucase,gas,3000
+Konstantinovsk,Caucase,gas,3000
+Rostov-sur-le-Don,Russie,oil,3000
+Sebastopol,Caucase,fish,3000
+Novorossiysk,Caucase,wood,6000
+Sukhumi,Caucase,grain,3000
+Batumi,Caucase,wood,3000
+Armavir,Caucase,coal,3000
+Mariupol',Caucase,coal,3000
+Cherkessk,Caucase,iron,6000
+Stavropol,Caucase,iron,3000
+Elista,Caucase,oil,3000
+Simbirsk,Russie,grain,3000
+Saratov,Russie,wood,3000
+Kostroma,Russie,iron,6000
+Penza,Russie,grain,3000
+Orenbourg,Russie,wood,3000
+Chernushka,Perm Krai,iron,3000
+Mikhaylovka,Astrakhan,wood,3000
+Drama,Grèce,iron,3000
+Tirana,Grèce,grain,3000
+Nicosie,Grèce,iron,3000
+Haleb,L'Empire Ottoman,grain,3000
+Rize,L'Empire Ottoman,gas,3000
+Kangiqsujuaq,Canada du Nord,fish,6000
+Akulivik,Terre-Neuve,iron,6000
+Famagusta,L'Empire Ottoman,coal,3000
+Fderik,Afrique Occidentale Française,iron,3000
+Bur Said,Égypte,wood,3000
+Primorsko-Akhatars,Caucase,grain,3000

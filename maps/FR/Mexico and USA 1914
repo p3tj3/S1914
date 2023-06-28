@@ -1,0 +1,37 @@
+name,nation,resource,base-output
+Californie,États-Unis,fish,1868
+Nevada,États-Unis,coal,6644
+Basse Californie,Mexique,gas,2567
+Basse Californie du Sud,Mexique,grain,3150
+Sonora,Mexique,coal,2797
+Chihuahua,Mexique,wood,2830
+Arizona,États-Unis,wood,2830
+Nouveau Mexique,États-Unis,coal,2865
+Texas,États-Unis,iron,3243
+Oklahoma,États-Unis,grain,6036
+Louisiane,États-Unis,fish,2356
+Arkansas,États-Unis,wood,2735
+Mississipi,États-Unis,iron,5757
+Tennessee,États-Unis,gas,3135
+Alabama,États-Unis,grain,2932
+Géorgie,États-Unis,oil,3020
+Floride,États-Unis,fish,3901
+Caroline du Nord,États-Unis,oil,2980
+Caroline du Sud,États-Unis,wood,3431
+Coahuila,Mexique,iron,2658
+Tamaulipa,Mexique,fish,2757
+Sinaloa,Mexique,iron,2912
+Durango,Mexique,coal,6202
+San Luis Potosi,Mexique,grain,3022
+Yucatán,Mexique,iron,6153
+Chiapas,Mexique,wood,6000
+Veracruz,Mexique,fish,3433
+Oaxaca,Mexique,oil,3322
+Jalisco,Mexique,oil,2678
+Guerrero,Mexique,grain,3120
+Nassau,Bahamas,fish,6254
+Kingston,Jamaïque,grain,6255
+Guantanamo,Cuba,wood,2985
+Las Tunas,Cuba,iron,6104
+La Havane,Cuba,oil,6236
+Santa Clara,Cuba,coal,3006

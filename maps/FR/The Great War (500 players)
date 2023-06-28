@@ -1,0 +1,5073 @@
+name,nation,resource,base-output
+Waterford,Munster,fish,6090
+Cork,Munster,coal,3010
+Tralee,Munster,wood,3025
+Limerick,Munster,iron,3030
+Nenagh,Munster,grain,6021
+Newmarket,Munster,oil,3010
+Kilkenny,Munster,coal,3045
+Bantry,Munster,wood,3030
+Wexford,Leinster,wood,3047
+Wicklow,Leinster,iron,3009
+Dublin,Leinster,grain,3023
+Ardee,Leinster,fish,3030
+Sligo,Ulster,iron,3030
+Portlaoise,Leinster,grain,3044
+Tullamore,Leinster,grain,3025
+Longford,Leinster,coal,6050
+Kells,Leinster,oil,6071
+Galway,Connaught,coal,3045
+Ballinasloe,Connaught,coal,3043
+Castlereagh,Connaught,grain,3011
+Castlebar,Connaught,wood,3027
+Donegal,Ulster,grain,6052
+Buncrana,Ulster,fish,3011
+Londonderry,Ulster,fish,6050
+Omagh,Ulster,oil,3010
+Enniskillen,Ulster,wood,3047
+Downpatrick,Ulster,gas,3006
+Belfast,Ulster,coal,3000
+Stornoway,Na h-Eileanan Siar,iron,3041
+Rodel,Na h-Eileanan Siar,coal,3003
+St. Margaret's Hope,Highlands du Nord,iron,3005
+Wick,Highlands du sud,fish,3013
+Tanatave,Madagascar du nord,oil,3026
+Mojanga,Madagascar du nord,iron,3042
+Forsinard,Highlands du Nord,fish,3012
+Durness,Highlands du Nord,wood,3025
+Dornoch,Highlands du Nord,grain,6092
+Lairg,Highlands du Nord,coal,3014
+Inverness,Highlands du sud,fish,3030
+Elgin,Highlands du sud,wood,3043
+Ullapool,Highlands du sud,iron,6011
+Mallaig,Highlands du sud,fish,6033
+Achnashellach,Highlands du sud,grain,3004
+Broadford,Highlands du sud,oil,3010
+Spean Bridge,Highlands du sud,coal,3012
+Kingussie,Highlands du sud,grain,3032
+Aberdeen,Abeerdeenshire,gas,3047
+Ballachulish,Argyll and Bute,coal,3023
+Dalmally,Argyll and Bute,grain,3044
+Lochgilphead,Argyll and Bute,coal,3004
+Peterhead,Abeerdeenshire,grain,6025
+Rothiemay,Abeerdeenshire,wood,3001
+Ballater,Abeerdeenshire,oil,3025
+Forfar,Abeerdeenshire,fish,3010
+Dundee,Abeerdeenshire,oil,3048
+Pitlochry,Abeerdeenshire,coal,3001
+Rannoch,Abeerdeenshire,iron,6090
+Kirkgaldy,Écosse du sud-est,grain,6091
+Dunferline,Écosse du sud-est,fish,3025
+Edinburgh,Écosse du sud-est,gas,3048
+Haddington,Écosse du sud-est,wood,3047
+Stirling,Écosse du sud-est,grain,3010
+Peebles,Écosse du sud-est,iron,3021
+Selkirk,Écosse du sud-est,gas,3010
+Roxburgh,Écosse du sud-est,grain,3030
+Glasgow,Écosse du sud-ouest,oil,3025
+Paisley,Écosse du sud-ouest,fish,6087
+Hamilton,Écosse du sud-ouest,wood,3000
+Ayr,Écosse du sud-ouest,wood,3025
+Moffat,Écosse du sud-ouest,grain,6006
+Dumfries,Écosse du sud-ouest,grain,3010
+Pilsen,Bohême,grain,6004
+Kirkcudbright,Écosse du sud-ouest,iron,3024
+Wigtown,Écosse du sud-ouest,fish,3033
+Berwick,Northumberland,iron,3010
+Rothbury,Yorkshire,iron,3010
+Amble,Yorkshire,wood,3006
+Reedsmouth,Northumberland,wood,3030
+Newcastle,Yorkshire,fish,3029
+Wearhead,Yorkshire,grain,3027
+Sunderland,Yorkshire,fish,6027
+Dumbarton,Écosse du sud-ouest,wood,3026
+Kirby Lonsdale,Cumberland,grain,3047
+Carlisle,Cumberland,coal,3033
+Workington,Cumberland,wood,3007
+Appleby,Cumberland,coal,6087
+Barrow-in-Furness,Cumberland,iron,6030
+Lancaster,Cumberland,coal,3032
+Preston,Cumberland,fish,3045
+Manchester,Cumberland,grain,3030
+Middlesbrough,Yorkshire,wood,6070
+Reeth,Yorkshire,coal,3028
+Hawes,Yorkshire,iron,3012
+Bridlington,Yorkshire,fish,6029
+Hull,Yorkshire,grain,3045
+York,Yorkshire,grain,3044
+Leeds,Yorkshire,wood,3006
+Settle,Yorkshire,wood,3031
+Grimsby,Midlands de l'Est,fish,3047
+Lincoln,Midlands de l'Est,coal,3010
+Mansfield,Midlands de l'Est,iron,3032
+Chesterfield,Midlands de l'Est,grain,3009
+Skegness,Midlands de l'Est,fish,3044
+Grantham,Midlands de l'Est,iron,6069
+Nottingham,Midlands de l'Est,wood,6042
+Warwick,Midlands de l'Est,grain,3028
+Hanley,Birmingham,iron,3042
+Shrewbury,Birmingham,gas,3031
+Birmingham,Birmingham,coal,3011
+Wooferton,Birmingham,coal,3008
+Hereford,Birmingham,grain,3006
+Norwich,Essex et Suffolk,fish,3010
+Kings Lynn,Essex et Suffolk,wood,6070
+Ipswich,Essex et Suffolk,fish,3030
+Cambridge,Sussex et Kent,grain,3026
+Southend on Sea,Sussex et Kent,coal,6085
+Luton,Sussex et Kent,iron,3028
+Buckingham,Sussex et Kent,coal,3033
+Northhampton,Essex et Suffolk,grain,3042
+Oxford,Essex et Suffolk,gas,3041
+Gloucester,Cornouailles et Devon,grain,3025
+Liverpool,Pays de Galles,grain,3023
+Denbigh,Pays de Galles,wood,6026
+Bangor,Pays de Galles,fish,3008
+Welshpool,Pays de Galles,grain,3046
+Cardigan,Pays de Galles,coal,3040
+New Radnor,Pays de Galles,iron,3032
+Llanelly,Pays de Galles,fish,6032
+Cardiff,Pays de Galles,wood,3007
+Maidstone,Sussex et Kent,fish,3030
+London,Sussex et Kent,iron,6040
+Brighton,Sussex et Kent,oil,6010
+Portsmouth,Sussex et Kent,wood,3022
+Winchester,Sussex et Kent,grain,3030
+Swindon,Cornouailles et Devon,grain,3013
+Dover,Sussex et Kent,fish,3033
+Salisbury,Cornouailles et Devon,iron,3005
+Bristol,Cornouailles et Devon,grain,6060
+Weymouth,Cornouailles et Devon,fish,3006
+Weston,Cornouailles et Devon,fish,3002
+Exeter,Cornouailles et Devon,wood,3044
+Barnstaple,Cornouailles et Devon,coal,3012
+Plymouth,Cornouailles et Devon,iron,3028
+Tiverton,Cornouailles et Devon,coal,6025
+Truro,Cornouailles et Devon,fish,3028
+Portimão,Centro,gas,3030
+Faro,Centro,gas,3002
+Beja,Centro,coal,3032
+Almodóvar,Centro,iron,3000
+Sines,Centro,grain,3032
+Lisbon,Centro,coal,6022
+Peniche,Centro,wood,3032
+Abrantes,Centro,grain,3010
+Evora,Centro,gas,3005
+Villa Nova da Baronia,Centro,wood,6070
+Bragança,Norte,grain,6031
+Villa Real,Norte,iron,3041
+Torre de Moncorvo,Norte,oil,3003
+Lamego,Norte,gas,3030
+Castello Branco,Norte,wood,3031
+Zamora,León,wood,3010
+Coimbra,Norte,coal,6084
+Albergaria,Norte,grain,3030
+Guarda,Norte,wood,3010
+Vianna,Minho,iron,3023
+Braga,Minho,coal,3010
+Lugo,Galicie,coal,3026
+La Coruña,Galicie,oil,3010
+Mondoñedo,Galicie,fish,3028
+Santiago de Compostela,Galicie,coal,3000
+Pontevedra,Galicie,fish,3002
+Orense,Galicie,wood,3025
+Viana de Bollo,Galicie,iron,6090
+Betanzos,Galicie,grain,6048
+Cangas del Narcea,Asturies,oil,3030
+Oviedo,León,fish,3031
+Triongo,Asturies,gas,3011
+Villafranca,León,grain,3023
+León,León,coal,3022
+Palencia,León,wood,3041
+Valladolid,León,gas,6063
+Salamanca,León,iron,6030
+Ciudad Rodrigo,León,grain,3007
+Aguilar,León,oil,3030
+St. Vincent,Castille,fish,6070
+Santander,Castille,fish,3030
+Burgos,Castille,wood,3045
+Logroño,Castille,grain,6070
+Soria,Castille,coal,3002
+Aranda,Castille,iron,3030
+Segovia,Castille,iron,3010
+Calahorra,Castille,iron,3012
+Pamplona,Navarre,coal,3022
+Tudela,Navarre,grain,6041
+Vitoria-Gasteiz,Navarre,iron,3048
+San Sebastian,Navarre,grain,3020
+Tafalla,Navarre,gas,3009
+Estella,Navarre,wood,3041
+Iaca,Aragon,iron,3040
+Benavarre,Aragon,wood,3004
+Barbastro,Aragon,coal,6010
+Huesca,Aragon,iron,3028
+Zaragoza,Aragon,grain,3029
+Calatayud,Aragon,grain,3005
+Fraga,Aragon,oil,6020
+Tarazona,Aragon,grain,3006
+Vielha,Catalogne,oil,3000
+Urgel,Catalogne,grain,3008
+Gerona,Catalogne,wood,6090
+Barcelona,Catalogne,wood,3014
+Solsona,Catalogne,coal,3010
+Tarragona,Catalogne,iron,3011
+Lerida,Catalogne,grain,3013
+Manresa,Catalogne,fish,6089
+Hijar,Teruel,oil,3007
+Montalbán,Teruel,iron,3041
+Monreal,Teruel,coal,3030
+Teruel,Teruel,grain,3009
+Morella,Valence,coal,3030
+Castelló de la Plana,Valence,oil,6021
+Segorbe,Valence,grain,3011
+Valencia,Valence,iron,3045
+Requena,Valence,wood,3012
+Jativa,Valence,grain,3030
+Alicante,Valence,fish,3049
+Alcoi,Valence,fish,6067
+Guadalajara,Madrid,wood,3004
+Madrid,Madrid,coal,3008
+Talavera de la Reyna,Madrid,grain,3023
+Cuenca,Madrid,grain,3044
+Toledo,Madrid,wood,6024
+Ciudad Real,Madrid,grain,3046
+Motilla,Madrid,iron,6050
+Alcazar de San Juan,Madrid,oil,3032
+Arevalo,Ávila ,oil,3013
+Avila,Ávila ,iron,3010
+Mombeltran,Ávila ,coal,3021
+Plaseneia,Estrémadure,iron,6090
+Navalmonal de la Mata,Estrémadure,oil,6030
+Carceres,Estrémadure,coal,3013
+Trujillo,Estrémadure,grain,3027
+Bajadoz,Estrémadure,coal,3045
+Merida,Estrémadure,wood,3022
+Medellin,Estrémadure,iron,3010
+Zafra,Estrémadure,grain,3030
+Seville,Séville,coal,3008
+Osuna,Séville,wood,3020
+Cádiz,Séville,fish,6021
+Algeciras,Séville,iron,3030
+Utrera,Séville,gas,3001
+Sanlúcar de Barrameda,Séville,grain,6090
+Huelva,Séville,fish,3013
+Almaden de la Plata,Séville,grain,3049
+El Viso,Cordoue,wood,3010
+Montoro,Cordoue,grain,3010
+Cordóba,Cordoue,coal,3014
+Lucena,Cordoue,coal,3048
+Jaén,Jaén,oil,3021
+Úbeda,Jaén,gas,3000
+Andujar,Jaén,grain,3012
+Siles,Jaén,wood,3005
+Ronda,Grenade,gas,3010
+Marbella,Grenade,grain,3026
+Malaga,Grenade,fish,6031
+Granada,Grenade,iron,3030
+Guardix,Grenade,iron,6010
+Huescar,Grenade,wood,3012
+Almería,Grenade,grain,3045
+Vélez-Rubio,Grenade,fish,3040
+Cartagena,Murcie,gas,3029
+Lorca,Murcie,fish,3045
+Murcia,Murcie,iron,3010
+Jumilla,Murcie,iron,3031
+Albacete,Murcie,gas,3029
+Molinicos,Murcie,wood,6051
+Caravaca de la Cruz,Murcie,coal,3026
+El Bonillo,Murcie,grain,6033
+Palma,Baléares,fish,3012
+Ibiza,Baléares,fish,3030
+Maó,Baléares,iron,3048
+Rennes,Bretagne,iron,3009
+Saint-Brieuc,Bretagne,wood,6043
+Lannion,Bretagne,gas,3048
+Quimper,Bretagne,fish,6011
+Pontivy,Bretagne,coal,3042
+Vannes,Bretagne,iron,3002
+Ploermel,Bretagne,grain,3032
+Saint-Malo,Bretagne,grain,3002
+Cherbourg,Rouen,wood,3048
+Caen,Rouen,iron,6082
+Lisieux,Rouen,iron,3010
+Avranches,Rouen,fish,3010
+Flers,Rouen,grain,3012
+Argentan,Rouen,wood,3030
+Mortagne,Rouen,grain,3002
+Rouen,Normandie,fish,3000
+Dieppe,Normandie,fish,3010
+Evereux,Normandie,wood,3048
+Beaumesnil,Normandie,coal,3046
+Pont-Audemer,Normandie,grain,3002
+Dunkerque,Nord-Pas-de-Calais,coal,3045
+Lille,Nord-Pas-de-Calais,coal,3040
+Arras,Nord-Pas-de-Calais,oil,3010
+Verdun,Lorraine,grain,3030
+Amiens,Belgique,iron,6060
+Beauvais,Picardie,coal,3025
+Laon,Picardie,wood,3010
+Senlis,Picardie,grain,3024
+Péronne,Belgique,coal,3020
+Abbeville,Picardie,fish,6032
+La Capelle,Belgique,oil,3024
+Château-Thierry,Champagne-Ardenne,grain,3049
+Mezières,Champagne-Ardenne,gas,6073
+Vouziers,Champagne-Ardenne,wood,6088
+Châlons-en-Champagne,Champagne-Ardenne,oil,3026
+Esternay,Champagne-Ardenne,oil,3021
+Chaumont,Champagne-Ardenne,iron,3011
+Troyes,Champagne-Ardenne,grain,3023
+Vitry-sur-Seine,Champagne-Ardenne,iron,3028
+Bar-sur-Aube,Champagne-Ardenne,grain,3030
+Bar-le-Duc,Lorraine,grain,3014
+Nancy,Lorraine,iron,3028
+Epinal,Franche-Comté,oil,3010
+Besançon,Franche-Comté,iron,6067
+Belfort,Franche-Comté,wood,6063
+Vesoul,Franche-Comté,coal,3025
+Combeaufontaine,Franche-Comté,grain,3048
+Pokigny,Franche-Comté,coal,3010
+Dole,Franche-Comté,grain,3007
+Saint-Dié,Franche-Comté,wood,3010
+Sens,Bourgogne,coal,3030
+Auxerre,Bourgogne,coal,3010
+Chatillon,Bourgogne,grain,3000
+Dijon,Bourgogne,grain,3030
+Chalon-sur-Saône,Bourgogne,iron,3028
+Autun,Bourgogne,iron,6030
+Semur,Bourgogne,wood,3001
+Nevers,Bourgogne,coal,6070
+Paris,Île-de-France,iron,6023
+Moulins,Auvergne,coal,6074
+Meaux,Île-de-France,grain,3048
+Chartres,Île-de-France,coal,3021
+Dreux,Île-de-France,oil,3001
+Orléans,Île-de-France,grain,6032
+Montargis,Île-de-France,wood,3027
+Versailles,Île-de-France,grain,3021
+Melm,Île-de-France,iron,3030
+Vendome,Centre-Val de Loire,grain,6009
+Tours,Centre-Val de Loire,iron,6068
+Blois,Centre-Val de Loire,coal,3013
+Bourges,Centre-Val de Loire,wood,3012
+Châteauroux,Centre-Val de Loire,oil,3034
+La Châtre,Centre-Val de Loire,gas,3030
+Loches,Centre-Val de Loire,oil,3041
+Vierzon,Centre-Val de Loire,grain,3046
+Laval,Bretagne,gas,6084
+Le Mans,Centre-Val de Loire,wood,3006
+Nantes,Bretagne,grain,3034
+Angers,Bretagne,iron,3027
+La Roche-sur-Yon,Bretagne,fish,3024
+Mamers,Bretagne,oil,6010
+Chateaubrian,Bretagne,grain,3030
+Fontenay le Comte,Poitou-Charentes,iron,3009
+La Rochelle,Poitou-Charentes,fish,3029
+Saint-Jean-d'Angély,Poitou-Charentes,coal,6049
+Barbezieux,Aquitaine,fish,3020
+Angouléme,Aquitaine,grain,3021
+Niort,Poitou-Charentes,coal,3005
+Poitiers,Centre-Val de Loire,grain,3030
+Confolens,Aquitaine,wood,3028
+Thouars,Bretagne,iron,6070
+Gueret,Limousin,wood,3044
+Limoges,Limousin,grain,3024
+Tulle,Limousin,coal,3030
+Bourganeuf,Limousin,iron,3046
+Budweis,Bohême,wood,3029
+Montluçon,Auvergne,wood,3010
+Clermont-Ferrand,Auvergne,oil,3002
+Gannat,Auvergne,iron,3046
+Aurillac,Midi-Pyrénées,oil,3007
+Le Puy-en-Velay,Midi-Pyrénées,grain,3010
+Thiers,Auvergne,wood,6085
+Brioude,Auvergne,grain,3031
+Lyon,Bourgogne,oil,3021
+Montbrison,Rhône-Alpes,grain,3007
+Bordeaux,Aquitaine,fish,6052
+Périgueux,Aquitaine,wood,6089
+Sarlat,Aquitaine,grain,3030
+Mont-de-Marsan,Aquitaine,gas,3007
+Pau,Aquitaine,grain,3033
+Biscarrosse,Aquitaine,fish,3010
+Bazas,Aquitaine,coal,3033
+Libourne,Aquitaine,iron,3048
+Agen,Midi-Pyrénées,wood,3008
+Gourdon,Midi-Pyrénées,iron,3022
+Montanban,Midi-Pyrénées,oil,6082
+Toulouse,Midi-Pyrénées,iron,3033
+Auch,Midi-Pyrénées,wood,3030
+Tarbes,Midi-Pyrénées,grain,3044
+Villeneuve,Midi-Pyrénées,iron,3027
+Cahors,Midi-Pyrénées,grain,6070
+Alby,Aveyron et Tarn,grain,3022
+Castres,Ardèche,iron,3029
+Rodez,Aveyron et Tarn,oil,3010
+Millan,Aveyron et Tarn,coal,3040
+Bourg-en-Bresse,Rhône-Alpes,oil,3001
+Bonneville,Bourgogne,coal,3030
+Chambéry,Bourgogne,iron,3030
+Bourgoin-Jallieu,Bourgogne,coal,6084
+Grenoble,Rhône-Alpes,wood,3008
+Valence,Provence-Alpes-Côte d'Azur,iron,3009
+Montélimar,Provence-Alpes-Côte d'Azur,grain,6010
+Moûtiers,Rhône-Alpes,wood,3026
+Briançon,Provence-Alpes-Côte d'Azur,wood,3029
+Gap,Provence-Alpes-Côte d'Azur,coal,3021
+Digne-les-Bains,Provence-Alpes-Côte d'Azur,gas,3031
+Avignon,Provence-Alpes-Côte d'Azur,grain,6002
+Marseille,Provence-Alpes-Côte d'Azur,fish,6071
+Forcalquier,Provence-Alpes-Côte d'Azur,iron,3010
+Toulon,Provence-Alpes-Côte d'Azur,iron,3022
+Nice,Provence-Alpes-Côte d'Azur,grain,3044
+Montpellier,Ardèche,fish,3010
+Foix,Ardèche,gas,3022
+Carcassonne,Ardèche,iron,3047
+Béziers,Aveyron et Tarn,wood,3010
+Mende,Ardèche,wood,3010
+Nîmes,Ardèche,fish,6046
+Alais,Ardèche,oil,3007
+Perpignan,Ardèche,grain,6091
+Privas,Provence-Alpes-Côte d'Azur,iron,3023
+Largentière,Languedoc-Roussillon,coal,3049
+Antwerp,Belgique,coal,3032
+Brussel,Belgique,grain,3030
+Ghent,Belgique,grain,3046
+Bruges,Belgique,fish,6003
+Liege,Belgique,wood,3030
+Turnhout,Belgique,coal,6087
+Mons,Belgique,coal,3006
+Neufchateau,Belgique,iron,3043
+Arnhem,Pays-Bas,wood,3024
+Utrecht,Pays-Bas,fish,3025
+Amsterdam,Pays-Bas,iron,6091
+Den Haag,Pays-Bas,fish,6089
+Middelburg,Pays-Bas,oil,3010
+Eindhoven,Pays-Bas,grain,3009
+Zwolle,Pays-Bas,oil,3010
+Enschede,Pays-Bas,grain,3007
+Leeuwarden,Pays-Bas,wood,3025
+Groningen,Groningen,fish,3006
+Assen,Groningen,wood,3030
+Flensburg,Holstein-Mecklembourg,grain,3006
+Hamburg,Holstein-Mecklembourg,iron,3042
+Schleswig,Holstein-Mecklembourg,grain,3024
+Kiel,Holstein-Mecklembourg,gas,3047
+Lübeck,Holstein-Mecklembourg,fish,3003
+Rostock,Holstein-Mecklembourg,fish,6040
+Schwerin,Holstein-Mecklembourg,iron,6013
+Neustrelitz,Holstein-Mecklembourg,wood,3029
+Wilhelmshaven,Hanovre,iron,3033
+Oldenburg,Hanovre,grain,3032
+Bremen,Hanovre,coal,6085
+Bremerhaven,Hanovre,gas,3011
+Lüneburg,Hanovre,wood,6009
+Hannover,Hanovre,iron,3048
+Osnabrück,Hanovre,grain,3029
+Verden,Hanovre,coal,3006
+Wittenberge,Brandebourg,coal,3048
+Prenzlau,Brandebourg,iron,6094
+Berlin,Brandebourg,coal,3021
+Frankfurt Oder,Brandebourg,iron,3047
+Cottbus,Brandebourg,grain,3030
+Landsberg an der Warthe,Brandebourg,coal,6005
+Küstrin,Brandebourg,grain,3030
+Lübben,Brandebourg,wood,3010
+Stralsund,Holstein-Mecklembourg,iron,3041
+Greifswald,Holstein-Mecklembourg,iron,3000
+Grimmen,Holstein-Mecklembourg,wood,3027
+Stettin,Poméranie,iron,3003
+Kamien,Poméranie,grain,3009
+Kolberg,Poméranie,fish,3049
+Stolp,Poméranie,fish,3030
+Stargard,Poméranie,wood,3008
+Falkenburg,Poméranie,iron,3024
+Neustettin,Poméranie,coal,6033
+Lauenburg,Poméranie,grain,6053
+Danzig,Prusse-Occidentale,fish,3048
+Elbing,Prusse-Occidentale,coal,3030
+Graudenz,Prusse-Occidentale,coal,3046
+Dirschau,Prusse-Orientale,iron,6090
+Konitz,Prusse-Occidentale,grain,3009
+Flatow,Prusse-Occidentale,iron,3010
+Zempelburg,Prusse-Occidentale,wood,3010
+Kulm,Prusse-Occidentale,iron,3010
+Königsberg,Prusse-Orientale,fish,3031
+Tilsit,Prusse-Orientale,iron,6046
+Allenstein,Prusse-Occidentale,oil,6070
+Insterburg,Prusse-Orientale,wood,3009
+Lyck,Prusse-Orientale,coal,3020
+Oertelsburg,Prusse-Orientale,grain,3010
+Braunsberg,Prusse-Orientale,fish,3047
+Rastenburg,Prusse-Orientale,grain,3021
+Posen,Posen,gas,3022
+Wongrowitz,Posen,iron,6067
+Schneidemühl,Posen,iron,3005
+Meseritz,Posen,wood,3049
+Hohensalza,Posen,grain,6065
+Ostrowo,Posen,grain,3007
+Krotoschin,Posen,grain,3004
+Rawitsch,Posen,oil,3040
+Beuthen,Silésie,oil,3028
+Neisse,Silésie,gas,3030
+Glatz,Silésie,grain,6070
+Oppeln,Silésie,iron,3010
+Breslau,Silésie,coal,3010
+Grünberg,Silésie,wood,6070
+Steinau,Silésie,iron,3009
+Rothenburg,Silésie,coal,3027
+Dresden,Saxe,coal,3026
+Leipzig,Saxe,gas,3009
+Chemnitz,Saxe,gas,3030
+Wolfsburg,Brandebourg,gas,3032
+Magdeburg,Magdebourg,oil,3040
+Brunswick,Brunswick-Thuringe,gas,3021
+Göttingen,Brunswick-Thuringe,gas,3010
+Dessau,Brunswick-Thuringe,wood,3008
+Halle (Saale),Brunswick-Thuringe,wood,3049
+Weimar,Brunswick-Thuringe,wood,3033
+Gotha,Brunswick-Thuringe,grain,6023
+Coburg,Brunswick-Thuringe,iron,6091
+Nordhausen,Brunswick-Thuringe,grain,3011
+Detmold,Westphalie,grain,6087
+Münster,Westphalie,iron,3047
+Arnsberg,Westphalie,wood,3027
+Bielefeld,Westphalie,grain,3021
+Dortmund,Westphalie,oil,3030
+Paderborn,Westphalie,coal,3041
+Waldeck,Westphalie,wood,6070
+Tabor,Bohême,wood,3010
+Siegen,Westphalie,wood,3044
+Kleve,Rhénanie-du-Nord,coal,6028
+Essen,Rhénanie-du-Nord,coal,3029
+Düsseldorf,Rhénanie-du-Nord,iron,3045
+Cologne,Rhénanie-du-Nord,grain,6070
+Bonn,Rhénanie-du-Nord,oil,3026
+Koblenz,Rhénanie-du-Nord,wood,3029
+Trier,Rhénanie-du-Nord,wood,3049
+Bitburg,Rhénanie-du-Nord,iron,3010
+Kassel,Hesse-Nassau,grain,3009
+Marburg,Hesse-Nassau,iron,3046
+Wiesbaden,Hesse-Nassau,oil,3023
+Aschaffenburg,Hesse-Nassau,wood,3041
+Darmstadt,Hesse-Nassau,wood,3013
+Kaiserslautern,Alsace-Lorraine,grain,6043
+Saarbrücken,Alsace-Lorraine,gas,3014
+Metz,Alsace-Lorraine,grain,3030
+Colmar,Alsace-Lorraine,wood,3026
+Strasbourg,Alsace-Lorraine,iron,6091
+Saargemünd,Alsace-Lorraine,oil,3025
+Freimingen-Merlebach,Alsace-Lorraine,wood,3004
+Mulhouse,Alsace-Lorraine,oil,3043
+Karlsruhe,Alsace-Lorraine,wood,3011
+Freiburg,Alsace-Lorraine,grain,3028
+Stuttgart,Bade-Wurtemberg,coal,3023
+Ulm,Bade-Wurtemberg,grain,6070
+Heidelberg,Alsace-Lorraine,iron,3049
+Wertheim,Bade-Wurtemberg,grain,3011
+Aalen,Bade-Wurtemberg,coal,6013
+Friedrichshafen,Bade-Wurtemberg,oil,3041
+Würzburg,Bade-Wurtemberg,wood,6013
+Nuremberg,Bohême,coal,3049
+Bamberg,Bavière,oil,3004
+Regensburg,Bohême,wood,3000
+Munich,Haute-Autriche et Basse-Autriche,iron,6053
+Augsburg,Bavière,grain,3013
+Passau,Haute-Autriche et Basse-Autriche,grain,3010
+Kempten,Haute-Autriche et Basse-Autriche,gas,3010
+Bern,Suisse romande,iron,3049
+Biel,Suisse romande,coal,3013
+Grammichele,Sicile occidentale,wood,3025
+Geneva,Suisse romande,grain,3047
+Basel,Suisse romande,wood,3009
+Montreux,Suisse romande,coal,3048
+Sion,Suisse romande,oil,3027
+Guttannen,Suisse romande,wood,6050
+Zürich,Suisse orientale,iron,3049
+Baden,Suisse orientale,gas,3010
+Sankt Gallen,Suisse orientale,fish,3029
+Luzern,Suisse orientale,oil,6070
+Lugano,Suisse orientale,wood,3040
+Sankt Moritz,Suisse orientale,grain,6006
+Chur,Suisse orientale,coal,3034
+Novara,Piémont,wood,3047
+Turin,Piémont,grain,3005
+Aosta,Piémont,grain,3010
+Susa,Piémont,iron,3041
+Cuneo,Piémont,iron,6070
+Alessandria,Piémont,grain,6027
+San Marco in Lamis,Pouilles,coal,6030
+Biella,Piémont,gas,3008
+Saluzzo,Piémont,coal,3030
+Milan,Lombardie,wood,3006
+Pavia,Lombardie,gas,6080
+Lodi,Lombardie,iron,3007
+Como,Lombardie,grain,3009
+Sondrio,Lombardie,wood,3034
+Bergamo,Lombardie,coal,6010
+Brescia,Lombardie,iron,3030
+Mantova,Lombardie,grain,3032
+Venezia,Vénétie,fish,3020
+Verona,Vénétie,iron,6065
+Vicenza,Vénétie,coal,6063
+Belluno,Vénétie,grain,3030
+Udine,Vénétie,fish,3010
+Treviso,Vénétie,fish,3010
+Rigolato,Vénétie,grain,3043
+Sacile,Vénétie,wood,3009
+Albenga,Ligurie,oil,3030
+Genoa,Ligurie,iron,3030
+Savona,Ligurie,fish,3023
+Piacenza,Émilie-Romagne,grain,3048
+Parma,Émilie-Romagne,grain,3040
+Modena,Émilie-Romagne,iron,3010
+Bologna,Émilie-Romagne,coal,3008
+Forlì,Émilie-Romagne,fish,3012
+Ravenna,Émilie-Romagne,fish,3010
+Pavullo,Émilie-Romagne,gas,6070
+Borgotaro,Émilie-Romagne,wood,6010
+Massa,Toscane,coal,3010
+Lucca,Toscane,fish,3030
+Firenze,Toscane,iron,6092
+Modigliana,Toscane,grain,3030
+Arezzo,Toscane,coal,3041
+Siena,Toscane,wood,3022
+Livorno,Toscane,gas,6041
+Grosseto,Toscane,grain,3028
+Urbino,Marches,wood,3007
+Ancona,Marches,fish,3008
+Ascoli Piceno,Marches,fish,3010
+Camerino,Marches,grain,3010
+Perugia,Latium et Ombrie,grain,6010
+Rieti,Latium et Ombrie,oil,3030
+Orvieto,Latium et Ombrie,grain,3009
+Civitavecchia,Latium et Ombrie,oil,3048
+Roma,Latium et Ombrie,iron,3027
+Frosnione,Latium et Ombrie,fish,3047
+Subiaco,Latium et Ombrie,wood,6053
+Città di Castello,Latium et Ombrie,wood,3010
+Teramo,Latium et Ombrie,iron,6005
+L'Aquila,Latium et Ombrie,wood,3030
+Chieti,Latium et Ombrie,fish,3010
+Campobasso,Latium et Ombrie,grain,3033
+Termoli,Abruzzes et Molise,coal,3047
+Trivento,Latium et Ombrie,fish,6031
+Tagliacozzo,Latium et Ombrie,grain,3020
+Pescocostanzo,Latium et Ombrie,coal,3043
+Pontecorvo,Campanie,coal,3003
+Fondi,Campanie,iron,3013
+Naples,Campanie,wood,3043
+Salerno,Campanie,gas,3006
+Benevento,Campanie,gas,3030
+Cappaccio,Campanie,fish,6090
+Polieastro,Campanie,fish,3033
+Avelino,Campanie,grain,6070
+Foggia,Pouilles,grain,3041
+Bari,Pouilles,wood,3004
+Gravina,Pouilles,fish,3040
+Barletta,Pouilles,iron,6050
+Brindisi,Pouilles,iron,3005
+Lecce,Pouilles,fish,3022
+Taranto,Pouilles,grain,3010
+Venosa,Basilicate,coal,3012
+Potenza,Basilicate,coal,3032
+Matera,Basilicate,grain,3033
+Tursi,Basilicate,iron,3020
+Cagliari,Sardaigne,fish,3024
+Latronico,Basilicate,fish,3025
+Cassano,Calabre,grain,6070
+Rossano,Calabre,iron,3034
+Castrovillari,Calabre,fish,6070
+Cosenza,Calabre,coal,3026
+Catanzaro,Calabre,fish,3023
+Pizzo,Calabre,coal,3027
+Reggio,Calabre,wood,3043
+Strongoli,Calabre,coal,3046
+Messina,Sicile orientale,fish,3010
+Militello,Sicile orientale,wood,3030
+Biancavilla,Sicile orientale,grain,3021
+Catania,Sicile orientale,coal,3030
+Syracuse,Sicile occidentale,fish,3047
+Trapani,Sicile occidentale,fish,3029
+Palermo,Sicile occidentale,grain,3010
+Cefalù,Sicile occidentale,fish,3022
+Lercara Friddi,Sicile occidentale,iron,6069
+Cirigenti,Sicile occidentale,gas,6045
+Caltanissetta,Sicile occidentale,grain,3030
+Iglesias,Sardaigne,fish,3020
+Oristano,Sardaigne,iron,3021
+Tortoli,Sardaigne,oil,6087
+Sassari,Sardaigne,grain,3006
+Calangianus,Sardaigne,wood,6000
+Ozieri,Sardaigne,grain,3048
+Barumini,Sardaigne,gas,3027
+Sartene,Corse,grain,3030
+Ajaccio,Corse,gas,3006
+Bastia,Corse,fish,3025
+Prague,Bohême,wood,3044
+Kuttenberg,Bohême,iron,3029
+Königgrätz,Bohême,oil,3010
+Jung Bunzlau,Bohême,wood,3010
+Brix,Bohême,coal,6013
+Brünn,Moravie,wood,3040
+Znaim,Moravie,grain,6007
+Olmütz,Moravie,iron,3000
+Hradisch,Moravie,iron,3020
+Weißkirchen,Moravie,gas,3024
+Iglau,Moravie,grain,3009
+Troppau,Silésie,grain,3008
+Korneuburg,Haute-Autriche et Basse-Autriche,coal,3000
+Wien,Haute-Autriche et Basse-Autriche,iron,3030
+Sankt Pölten,Haute-Autriche et Basse-Autriche,wood,3045
+Zwettl,Haute-Autriche et Basse-Autriche,coal,3002
+Linz,Haute-Autriche et Basse-Autriche,grain,6030
+Peuerbach,Haute-Autriche et Basse-Autriche,gas,6081
+Wels,Haute-Autriche et Basse-Autriche,iron,3010
+Mattighofen,Haute-Autriche et Basse-Autriche,grain,3028
+Salzburg,Styrie et Carinthie,grain,6050
+Steinach,Styrie et Carinthie,iron,3007
+Bruck,Styrie et Carinthie,wood,3049
+Graz,Styrie et Carinthie,wood,6061
+Maribor,Styrie et Carinthie,coal,3043
+Cilli,Styrie et Carinthie,wood,3030
+Klagenfurt,Styrie et Carinthie,gas,3047
+Spittal an der Drau,Styrie et Carinthie,gas,3028
+Innsbruck,Tyrol,wood,6026
+Rattenberg,Tyrol,iron,3010
+Bregenz,Tyrol,fish,3010
+Brixen,Tyrol,gas,3022
+Bozen,Tyrol,grain,3047
+Trent,Tyrol,iron,3002
+Laibach,Littoral autrichien,wood,3010
+Neustadtl,Littoral autrichien,iron,3049
+Görz,Littoral autrichien,grain,3006
+Triest,Littoral autrichien,fish,3006
+Pola,Littoral autrichien,wood,3025
+Zagreb,Croatie et Slavonie,grain,3008
+Križevci,Croatie et Slavonie,oil,6028
+Osijek,Croatie et Slavonie,grain,3026
+Požega,Croatie et Slavonie,iron,3043
+Petrinja,Croatie et Slavonie,gas,6082
+Karlovac,Croatie et Slavonie,iron,3006
+Ogulin,Croatie et Slavonie,wood,3027
+Gospić,Croatie et Slavonie,fish,3021
+Banja Luka,Croatie et Slavonie,grain,6003
+Prijedor,Bosnie-Herzégovine,coal,3025
+Glamoč,Bosnie-Herzégovine,fish,3030
+Doboj,Bosnie-Herzégovine,wood,3049
+Tuzla,Bosnie-Herzégovine,iron,3000
+Srebrenica,Bosnie-Herzégovine,gas,6081
+Sarajevo,Bosnie-Herzégovine,coal,3003
+Mostar,Bosnie-Herzégovine,grain,3042
+Vukovar,Syrmie,oil,3048
+Zimony,Syrmie,grain,3020
+Timişoara,Banat,grain,3030
+Nagybecskerek,Banat,coal,3002
+Versecz,Banat,iron,6084
+Vršac,Banat,wood,6043
+Stájerlakanina,Banat,coal,3007
+Karánsebes,Banat,wood,3047
+Lugos,Banat,grain,3008
+Nagyszentmiklós,Banat,grain,3045
+Maros-Vasárhely,Transylvanie,grain,3023
+Déva,Transylvanie,wood,3000
+Nagyszeben,Transylvanie,coal,3030
+Fogaras,Transylvanie,iron,6023
+Brassó,Transylvanie,grain,3029
+Besztercze,Transylvanie,gas,3010
+Dés,Transylvanie,wood,6080
+Kolozsvar,Transylvanie,gas,3010
+Gura,Roumanie,wood,3009
+Czernowitz,Bucovine,oil,3025
+Wisznica,Bucovine,iron,3024
+Kolomea,Galicie et Lodomérie,grain,3012
+Stanyslawow,Galicie et Lodomérie,iron,3031
+Tarnopol,Galicie et Lodomérie,grain,3030
+Lemberg,Galicie et Lodomérie,wood,3030
+Sambor,Galicie et Lodomérie,coal,3024
+Rzeszow,Galicie et Lodomérie,gas,3040
+Tarnow,Galicie et Lodomérie,wood,6026
+Cracow,Galicie et Lodomérie,coal,6013
+Alsókubin,Hongrie septentrionale,coal,6090
+Turócszentmárton,Hongrie septentrionale,gas,3025
+Pressburg,Hongrie septentrionale,wood,3010
+Centinje,Monténégro,fish,3029
+Trencsen,Hongrie septentrionale,grain,6049
+Munkács,Hongrie septentrionale,grain,3010
+Eperjes,Hongrie septentrionale,grain,3030
+Kassa,Hongrie septentrionale,coal,3011
+Rimaszombat,Hongrie septentrionale,iron,3024
+Györ,Hongrie occidentale,grain,3047
+Sopron,Hongrie occidentale,wood,6005
+Szombathely,Hongrie occidentale,coal,3007
+Nagykanizsa,Hongrie occidentale,iron,3003
+Székesfehérvar,Hongrie occidentale,wood,3010
+Veszprém,Hongrie occidentale,gas,6070
+Pécs,Hongrie occidentale,coal,3004
+Kaposvár,Hongrie occidentale,grain,3008
+Podgorica,Monténégro,gas,3045
+Szabadka,Bács-Bodrog,wood,3046
+Baja,Bács-Bodrog,coal,3030
+Ujvidék,Bács-Bodrog,iron,3027
+Budapest,Hongrie centrale,iron,3008
+Kecskemét,Hongrie centrale,wood,3025
+Kiskunfélegyháza,Hongrie centrale,grain,3010
+Szolnók,Hongrie centrale,wood,3010
+Boros Jenö,Hongrie centrale,oil,6092
+Arad,Hongrie centrale,grain,3004
+Miskolcz,Hongrie centrale,coal,6002
+Eger,Hongrie centrale,iron,3010
+Nyiregyháza,Hongrie orientale,grain,6040
+Nagyvárad,Hongrie orientale,wood,3025
+Debreczen,Hongrie orientale,iron,3030
+Szilágysomlyó,Hongrie orientale,gas,3005
+Nagykaroly,Hongrie orientale,grain,3014
+Szatmár-Németi,Hongrie orientale,oil,3026
+Nagyzöllös,Hongrie orientale,grain,3030
+Máramarossziget,Hongrie orientale,wood,6030
+Lezhë,Albanie,fish,3030
+Durrës,Albanie,coal,3010
+Berat,Albanie,fish,3047
+Valjevo,Serbie,iron,3046
+Belgrade,Serbie,iron,3010
+Negotin,Serbie,coal,6025
+Priština,Serbie,oil,3030
+Mitrovica,Serbie,wood,3011
+Niš,Serbie,grain,6050
+Bitola,Serbie,wood,3010
+Veles,Serbie,coal,3030
+Bukharest,Roumanie,oil,3010
+Pitești,Roumanie,grain,6062
+Roşiori de Vede,Roumanie,grain,3047
+Motru,Roumanie,grain,3028
+Hirsova,Roumanie,wood,3014
+Botusham,Roumanie,iron,3046
+Birlat,Roumanie,iron,6089
+Buseo,Roumanie,wood,3030
+Sofia,Bulgarie,coal,3030
+Kostendil,Bulgarie,grain,3010
+Plevna,Bulgarie,grain,6010
+Ruse,Bulgarie,iron,3010
+Silistra,Bulgarie,wood,3010
+Burgas,Bulgarie,fish,3010
+Plovdiv,Bulgarie,fish,6090
+Yambol,Bulgarie,oil,3042
+Kavala,Grèce,wood,3025
+Thessaloniki,Grèce,iron,6085
+Messolonghi,Grèce,fish,3027
+Athens,Grèce,grain,3005
+Corinth,Grèce,fish,3024
+Larissa,Grèce,coal,6050
+Delvino,Grèce,fish,3011
+Ptolemaida,Grèce,grain,3030
+Heraklion,Crète,coal,3030
+Ribe,Jylland,grain,3030
+Kolding,Jylland,grain,6030
+Odense,Jylland,wood,3030
+Viborg,Jylland,iron,3008
+Aarhus,Jylland,fish,6002
+Ringkjoebing,Jylland,fish,3006
+Grenaa,Jylland,coal,3002
+Aalborg,Jylland,gas,3008
+Zahran,Hedjaz du sud,coal,3030
+Copenhagen,Sjælland,oil,3003
+Kalundborg,Sjælland,coal,3006
+Naestved,Sjælland,grain,3049
+Nykoebing,Sjælland,wood,3040
+Malmö,Scanie,fish,3030
+Kristianstad,Scanie,oil,3029
+Carlstad,Värmland,fish,6085
+Helsingborg,Scanie,iron,6070
+Halmstad,Scanie,coal,3048
+Jönköping,Scanie,grain,3030
+Växjö,Scanie,wood,6030
+Värnamo,Scanie,grain,3007
+Osby,Scanie,coal,3021
+Karlskrona,Kalmar,fish,3010
+Kalmar,Kalmar,oil,6062
+Ekeberget,Kalmar,wood,3006
+Oscarshamn,Kalmar,iron,6033
+Eksjö,Kalmar,grain,3043
+Grenna,Kalmar,coal,3010
+Norrköping,Kalmar,fish,3010
+Göteborg,Västergötland,wood,3033
+Eskilstuna,Svealand,coal,6030
+Linköping,Kalmar,grain,3030
+Lindesberg,Svealand,gas,3046
+Holsljunga,Västergötland,grain,3010
+Vänersborg,Västergötland,fish,3003
+Amal,Västergötland,wood,3009
+Mariestad,Västergötland,fish,6085
+Falköping,Västergötland,grain,3012
+Ulricehamn,Västergötland,coal,3043
+Borås,Västergötland,iron,6070
+Karlsfors,Värmland,fish,3010
+Arvika,Värmland,wood,3048
+Dalby,Värmland,coal,3028
+Fryksände,Värmland,grain,3024
+Persberg,Värmland,iron,3021
+Nyköping,Svealand,fish,3043
+Stockholm,Svealand,iron,3047
+Westerbäs,Svealand,grain,3029
+Askersund,Svealand,grain,3010
+Örebro,Svealand,wood,6000
+Köping,Svealand,wood,3003
+Norrtälje,Upsal,fish,3041
+Östhammar,Upsal,wood,3030
+Uppsala,Upsal,fish,3043
+Hedemora,Dalécarlie,coal,6072
+Falun,Dalécarlie,iron,6070
+Särna,Dalécarlie,oil,3022
+Älvdalen,Dalécarlie,coal,3001
+Malung,Dalécarlie,wood,3003
+Rättwik,Dalécarlie,grain,3045
+Leksand,Dalécarlie,iron,3030
+Äppelbo,Dalécarlie,grain,3028
+Visby,Götaland,coal,3021
+Farö,Götaland,grain,3030
+Sveg,Jämtland,wood,3030
+Ljusnedal,Jämtland,coal,3030
+Vemdalen,Jämtland,grain,3040
+Östersund,Jämtland,iron,3031
+Bräcke,Jämtland,grain,3029
+Kall,Jämtland,coal,3007
+Storlien,Jämtland,wood,6003
+Hammerdal,Jämtland,coal,6004
+Hernösand,Västernorrland,coal,6032
+Mellansel,Västernorrland,grain,3030
+Junsele,Västernorrland,wood,3010
+Sundsvall,Västernorrland,grain,3040
+Hundiksvall,Västernorrland,fish,6090
+Ljusdal,Västernorrland,coal,3023
+Bollnäs,Västernorrland,iron,3033
+Gävle,Västernorrland,fish,3008
+Umeå,Västerbotten,fish,3010
+Skellefteå,Västerbotten,grain,3041
+Jörn,Västerbotten,grain,6002
+Tärna,Tärna,grain,3010
+Stensele,Västerbotten,coal,3030
+Siksele,Västerbotten,iron,3004
+Gavsele,Västerbotten,grain,3010
+Gillesnele,Västerbotten,wood,6023
+Ornsjo,Västerbotten,wood,3005
+Silbojok,Tärna,oil,3031
+Frostviken,Tärna,grain,3033
+Luleå,Norrbotten,coal,3041
+Piteå,Norrbotten,coal,6041
+Norrbotton,Norrbotten,iron,3030
+Jokkmokk,Norrbotten,iron,3032
+Rödupp,Norrbotten,fish,3030
+Gällivare,Norrbotten,wood,3030
+Qvickjokk,Norrbotten,grain,6068
+Westerfälle,Norrbotten,coal,3010
+Narken,Lappland,wood,3030
+Mertajärvi,Lappland,coal,3022
+Vittangi,Lappland,grain,3048
+Nakerijarvi,Lappland,gas,3030
+Kristiansand,Kristiansand,fish,6045
+Flekkefjord,Kristiansand,oil,6010
+Stavanger,Kristiansand,wood,3020
+Skien,Kristiansand,iron,3003
+Nyland,Kristiansand,grain,3030
+Breitfond,Bergenhus,grain,3013
+Moland,Kristiansand,gas,3022
+Arendal,Kristiansand,fish,3028
+Frederikshald,Kristiania,fish,3032
+Kristiania,Kristiania,fish,3023
+Holmestrand,Kristiania,wood,3010
+Krøderen,Kristiania,grain,3010
+Gol,Kristiania,wood,3012
+Bremnäs,Bergenhus,coal,3030
+Odde,Bergenhus,wood,3001
+Bergen,Bergenhus,fish,3011
+Gudvangen,Bergenhus,coal,3029
+Lärdalsören,Bergenhus,coal,6033
+Dale,Bergenhus,fish,3014
+Volda,Bergenhus,grain,6070
+Kroken,Bergenhus,iron,3010
+Vatsaas,Nordland,wood,3031
+Hatfielddal,Nordland,gas,3010
+Strömmen,Nordland,grain,3007
+Hamer,Hamar,grain,6070
+Kongsvinger,Hamar,iron,3012
+Lillehammer,Hamar,wood,6001
+Strand,Hamar,wood,3021
+Mølmen,Hamar,grain,3043
+Jerkin,Hamar,oil,3030
+Kvikne,Hamar,coal,3030
+Hanestad,Hamar,coal,3023
+Molde,Trondheim,fish,3030
+Opdal,Trondheim,gas,6081
+Engen,Trondheim,wood,3023
+Röros,Trondheim,grain,3046
+Levanger,Trondheim,iron,3049
+Grong,Trondheim,grain,3045
+Namsos,Trondheim,iron,6000
+Moldjord,Nordland-Troms,coal,3030
+Trondheim,Trondheim,fish,3046
+Bodø,Nordland-Troms,iron,6091
+Hopen,Nordland-Troms,fish,6070
+Sortland,Nordland-Troms,wood,3030
+Rognan,Nordland-Troms,grain,3026
+Bardn,Nordland-Troms,coal,3032
+Tromsø,Nordland-Troms,grain,3045
+Kjostindane,Nordland-Troms,fish,3012
+Siebe,Finnmark,grain,3028
+Kárášjohka,Finnmark,wood,3010
+Joraholm,Finnmark,iron,3046
+Hammerfest,Finnmark,fish,3030
+Staburnes,Finnmark,coal,3026
+Korsnes,Finnmark,fish,3023
+Lebesby,Finnmark,gas,6030
+Vadsø,Finnmark,grain,6010
+Reykjavik,Islande orientale,wood,3030
+Thykvibar,Islande orientale,coal,6031
+Dyrholar,Islande orientale,fish,3010
+Eyrarbakki,Islande orientale,fish,3043
+Hagi,Islande occidentale,coal,3030
+Trollatunga,Islande occidentale,fish,3030
+Stadharholt,Islande occidentale,iron,3028
+Tingufell,Islande orientale,grain,6073
+Holar,Islande du nord,fish,3010
+Sauðárkrókur,Islande du nord,grain,3012
+Goddalir,Islande du nord,grain,3025
+Akreyri,Islande orientale,coal,3030
+Helgastadir,Islande orientale,grain,3028
+Prestholar,Islande orientale,wood,6031
+Askja,Islande orientale,coal,3043
+Kalafell,Islande orientale,grain,3007
+Mödrudalr,Islande orientale,fish,6050
+Kalfafellstadr,Islande orientale,iron,3043
+Djupivogr,Islande orientale,fish,3021
+Tanger,Tanger,fish,3020
+Wezzun,Tanger,grain,3040
+Melilla,Maroc du nord,oil,3026
+Maroantsetra,Madagascar du nord,fish,3022
+Rabat,Maroc du nord,fish,3010
+Fez,Maroc du nord,grain,3045
+Taza,Maroc du nord,grain,6010
+Matarko,Maroc du nord,iron,3010
+Ain Shair,Maroc du nord,coal,6045
+el Maksen,Maroc du nord,wood,3048
+Azrou,Maroc du nord,coal,3001
+Casablanca,Maroc du nord,fish,3009
+Marrakech,Maroc du sud,iron,6093
+Mogador,Maroc du sud,gas,3009
+Tarsa Marka,Maroc du sud,grain,3022
+Abuam,Maroc du sud,iron,3001
+Mimsina,Maroc du sud,grain,3027
+Tamegrut,Maroc du sud,oil,6045
+Oasis Tissint,Maroc du sud,wood,3027
+Agadir,Maroc du sud,gas,3009
+Oran,Algérie du nord,grain,3012
+Mecheria,Algérie du nord,coal,3010
+Orleansville,Algérie du nord,fish,3007
+Brezina,Algérie du nord,iron,3025
+Algiers,Algérie du nord,grain,6004
+Aflou,Algérie du nord,wood,3010
+Guerrara,Algérie du nord,coal,3030
+Setif,Algérie du nord,iron,6060
+Leia,Algérie du Sud,wood,3010
+Beshar,Algérie du Sud,gas,6054
+Guerzim,Algérie du Sud,grain,3033
+Metlili,Algérie du Sud,wood,3031
+El Golea,Algérie du Sud,iron,3030
+Ufran,Algérie du Sud,iron,3004
+El Benia,Algérie du Sud,grain,6013
+Ain Taiba,Algérie du Sud,grain,3005
+Constantine,Algérie Orientale,fish,3010
+Nafta,Algérie Orientale,coal,3013
+El Wad,Algérie Orientale,oil,3033
+El Hadjira,Algérie Orientale,grain,3028
+Ghadames,Algérie Orientale,wood,3023
+Tunis,Tunisie,fish,3031
+Borj El Khadra,Tunisie,grain,3003
+Bir Amir,Tunisie,wood,3014
+Feriana,Tunisie,iron,6024
+Sfax,Tunisie,grain,3030
+Gafsa,Tunisie,oil,6064
+Gabes,Tunisie,fish,3006
+Deuirat,Tunisie,fish,3030
+Kasr Ghurian,Libye du nord,iron,3001
+Tripoli,Libye du nord,oil,6043
+Tabonieh,Libye du nord,grain,3040
+Sinaun,Libye du nord,wood,3010
+Disan,Libye du nord,grain,3002
+Ghirsa,Libye du nord,fish,3000
+Zella,Libye du sud,grain,3042
+Wadan,Libye du nord,gas,6021
+Tacrift,Libye du nord,fish,3029
+Murzuk,Libye du sud,coal,3003
+Serdeles,Libye du sud,iron,6028
+Ederi,Libye du sud,wood,3033
+Temsawa,Libye du sud,grain,3030
+Fugha,Libye du sud,coal,3000
+Temissa,Libye du sud,wood,6070
+Wau-Kebir,Libye du sud,oil,3008
+Benghazi,Libye Orientale,fish,3021
+Beshir,Libye Orientale,oil,3045
+Ialo,Libye Orientale,grain,3046
+Bin Akroma,Libye Orientale,wood,3004
+Fialia,Libye Orientale,iron,3048
+Grennah,Libye Orientale,fish,6023
+Rabia,Égypte Orientale,fish,3020
+El Alamein,Égypte Orientale,gas,3005
+Siwah,Égypte Occidentale,wood,3007
+Garah,Égypte Orientale,coal,3028
+Wah el Bahrieh,Égypte Orientale,wood,6090
+Farafreh,Égypte Orientale,coal,3049
+Bauiti,Égypte Orientale,iron,3010
+Dakal Oasis,Égypte Orientale,grain,6069
+Alexandria,Égypte Orientale,fish,3030
+Cairo,Égypte Orientale,grain,3010
+Port Said,Égypte Orientale,gas,3030
+Melawi,Égypte Orientale,iron,6054
+Gharib,Égypte Orientale,coal,3009
+Girgeh,Égypte Orientale,grain,3022
+Aswan,Égypte Orientale,wood,3007
+Abu Simbel,Égypte Orientale,fish,6090
+Wadi Halfa,Désert de Nubie,grain,3030
+Dongola,Désert de Nubie,wood,3047
+Kuli,Désert de Nubie,wood,3005
+Shigre,Désert de Nubie,coal,3007
+Suakin,Désert de Nubie,wood,3025
+Amri,Soudan oriental,oil,3010
+Shendi,Soudan oriental,gas,6034
+Khartum,Soudan oriental,iron,3031
+Filik,Abyssinie du nord,wood,3010
+Doka,Abyssinie du nord,wood,3046
+Werkat,Soudan oriental,oil,3031
+Sennar,Soudan oriental,grain,3007
+El Obeid,Soudan oriental,grain,6082
+El Fasher,Darfour,wood,3010
+Demik,Darfour,wood,3010
+Shekka,Darfour,wood,3034
+Dango,Darfour,gas,3028
+Hoggana,Darfour,coal,3008
+Kobeh,Darfour,grain,6091
+Abiat,Darfour,coal,3041
+Hummi,Darfour,iron,6062
+Kodok,Soudan du Sud,coal,6029
+Janghe el Waj,Soudan du Sud,coal,3001
+Meshra el Rek,Soudan du Sud,iron,3029
+Gondu,Soudan du Sud,wood,3049
+Liffi,Soudan du Sud,grain,3001
+Wambek,Soudan du Sud,grain,3030
+Wandi,Soudan du Sud,coal,3044
+Rumbek,Soudan du Sud,grain,6073
+Eidarbeh,Érythrée italienne,fish,3025
+Massuah,Érythrée italienne,fish,3010
+Asmara,Érythrée italienne,coal,3030
+Bako,Abyssinie du nord,grain,6030
+Kaffa,Abyssinie du nord,oil,3030
+Kirin,Abyssinie du nord,wood,3023
+Guder,Abyssinie du nord,iron,6006
+Gondar,Abyssinie du nord,coal,3030
+Magdala,Abyssinie du nord,grain,3033
+Dire Dayah,Abyssinie du nord,iron,3002
+Chakata,Abyssinie du nord,coal,3045
+Addis Ababa,Abyssinie du sud,wood,6027
+Ginea,Abyssinie du sud,grain,6010
+Burji,Abyssinie du sud,coal,3045
+Bia Woraba,Abyssinie du sud,iron,3001
+Farfanyer,Abyssinie du sud,coal,3005
+Jerlogubi,Abyssinie du sud,iron,3007
+Ture,Abyssinie du sud,wood,3040
+Bodle,Abyssinie du sud,gas,3029
+Khat,Somalie britannique,iron,3020
+Berbera,Somalie britannique,fish,3030
+Djibouti,Somalie britannique,iron,3031
+Mogadishu,Somalie italienne,coal,3023
+Bardera,Somalie italienne,wood,3007
+Baad Ulgaras,Somalie italienne,iron,3014
+Itala,Somalie italienne,grain,6001
+Muding,Somalie italienne,oil,3001
+Obbia,Somalie italienne,fish,6028
+Mogal,Somalie italienne,fish,3024
+Beride,Somalie italienne,coal,3011
+Muk Buna,Kenya,wood,6051
+Kismayu,Kenya,oil,3046
+Mahindi,Kenya,coal,3010
+Mombasa,Kenya,fish,6066
+Nairobi,Kenya,fish,3021
+Marsabit,Kenya,grain,3034
+Kitale,Kenya,grain,3033
+Balarti,Kenya,iron,3024
+Komagul,Ouganda,grain,3034
+Obbo,Ouganda,wood,3046
+Entebbe,Ouganda,fish,3041
+Mruili,Ouganda,fish,3007
+Katoto,Tanganyika,fish,3020
+Ujombo,Tanganyika,fish,3021
+Kafuro,Tanganyika,grain,3044
+Ujiji,Tanganyika,coal,3030
+Ussure,Tanganyika,grain,3049
+Tabora,Tanganyika,iron,6010
+Bismarckbury,Tanganyika,fish,3046
+Kisiki,Tanganyika,wood,6082
+pare,Afrique orientale allemande,oil,3025
+Usambara,Afrique orientale allemande,gas,3041
+Dar es Salaam,Afrique orientale allemande,fish,6030
+Usugara,Afrique orientale allemande,grain,3047
+Mpwapwa,Afrique orientale allemande,wood,3029
+Mahenge,Afrique orientale allemande,iron,6063
+Amakita,Afrique orientale allemande,grain,3041
+Mohoro,Afrique orientale allemande,fish,3049
+Zomba,Nyassaland,fish,3031
+Mwasi,Nyassaland,fish,3010
+Unyango,Mozambique du nord,grain,3021
+Unde,Mozambique du nord,iron,3021
+Tanga,Mozambique du nord,fish,6044
+Mozambique,Mozambique du nord,coal,3022
+Motomono,Mozambique du nord,grain,3042
+Quilimane,Mozambique du nord,fish,3007
+Sena,Mozambique du nord,coal,3010
+Undi,Mozambique du nord,wood,6027
+Beira,Mozambique du sud,wood,3010
+Massa Kessi,Mozambique du sud,grain,3030
+Sofala,Mozambique du sud,iron,3048
+Sandava,Mozambique du sud,gas,3041
+Mazibi,Mozambique du sud,fish,6044
+Massangena,Mozambique du sud,iron,6025
+Inhambane,Mozambique du sud,fish,3021
+Lourenço Marques,Mozambique du sud,grain,3044
+Kalungwisii,Rhodésie du Nord-Est,fish,3026
+Kazembe,Rhodésie du Nord-Est,fish,6010
+Mwemba,Rhodésie du Nord-Est,wood,6090
+Kwakanyesha,Rhodésie du Nord-Est,iron,3011
+Serenje,Rhodésie du Nord-Est,iron,3006
+Meri,Rhodésie du Nord-Est,grain,3022
+Molilo,Rhodésie du Nord-Est,grain,3010
+Chikonta,Rhodésie du Nord-Est,coal,3029
+Mumpata Village,Rhodésie du Nord-Ouest,grain,3028
+Kansanshi,Rhodésie du Nord-Ouest,grain,6010
+Mashato,Rhodésie du Nord-Ouest,iron,3010
+Livingstone,Rhodésie du Nord-Ouest,oil,3029
+Sesheke Town,Rhodésie du Nord-Ouest,grain,3027
+Barotse,Rhodésie du Nord-Ouest,oil,3010
+Zambezi,Rhodésie du Nord-Ouest,wood,3009
+Kaionka,Rhodésie du Nord-Ouest,wood,6010
+Mamba,Rhodésie du Sud,wood,3047
+Wankie,Rhodésie du Sud,coal,6030
+Bulawayo,Rhodésie du Sud,grain,6024
+West Nicholson,Rhodésie du Sud,coal,3010
+Umvumi,Rhodésie du Sud,wood,3030
+Gwelo,Rhodésie du Sud,grain,3008
+Gokwe,Rhodésie du Sud,iron,3008
+Harare,Rhodésie du Sud,coal,3030
+Leydsdorp,Transvaal du nord,grain,3011
+Valdezia,Transvaal du sud,coal,3010
+Nylstroom,Transvaal du sud,wood,3010
+Pietersburg,Transvaal du sud,grain,3047
+Lydenburg,Transvaal du sud,grain,3030
+Pieter Retief,Transvaal du sud,fish,6024
+Emalahleni,Transvaal du sud,wood,6091
+Pretoria,Transvaal du sud,iron,3021
+Rustenburg,Transvaal du sud,wood,3044
+Pietermaritzburg,Natal,fish,3028
+Vryheid,Natal,fish,3013
+Ladysmith,Natal,fish,3041
+Hurrismith,Natal,iron,3023
+Kroonstud,Natal,grain,3024
+Winburg,Natal,wood,6004
+Smithfield,Natal,grain,3044
+Bloemfontein,Natal,gas,6042
+Maseru,Natal,grain,3024
+Palmerton,Cap oriental,fish,3021
+Burghersdorp,Cap oriental,gas,3030
+Aliswal,Cap oriental,iron,3030
+Butterworth,Cap oriental,gas,3021
+Richmond,Cap oriental,iron,6082
+Port Elizabeth,Cap oriental,wood,3032
+Cradock,Cap oriental,wood,3010
+East London,Cap oriental,grain,6065
+Melville,Cap occidental,oil,3032
+Riversdale,Cap occidental,wood,3003
+Cape Town,Cap occidental,grain,3027
+Springbok,Cap occidental,fish,6030
+Culvima,Cap occidental,fish,3012
+Kakamas,Cap occidental,iron,3020
+Britstown,Cap occidental,grain,6073
+Wilistomn,Cap occidental,wood,3041
+Mafeking,Cap du Nord,oil,3022
+Kimberley,Cap occidental,oil,3003
+Hope Town,Cap occidental,iron,6045
+Gripia Town,Cap occidental,coal,3044
+Karuman,Cap du Nord,grain,3022
+Bona-Bona,Cap du Nord,wood,3031
+Rietfontein,Cap du Nord,wood,6070
+Upington,Cap occidental,grain,3003
+Maivarano,Madagascar du nord,grain,3031
+Molopolole,Bechuanaland du sud,oil,3010
+Kanye,Bechuanaland du sud,gas,3030
+Motlokotloko,Bechuanaland du sud,wood,6034
+Mokopon,Bechuanaland du sud,coal,3010
+Kuis,Bechuanaland du sud,wood,3004
+Ukwi,Bechuanaland du sud,iron,3004
+Charles Hill,Bechuanaland du sud,grain,6043
+Takatokwane,Bechuanaland du sud,iron,3030
+Serowe,Bechuanaland du nord,grain,3045
+Ghanze,Bechuanaland du nord,gas,3006
+Pompi,Bechuanaland du nord,wood,3005
+Gouka,Bechuanaland du nord,oil,3008
+Linyanti,Bechuanaland du nord,iron,3010
+Noka Leche,Bechuanaland du nord,iron,6030
+Samayanga,Bechuanaland du nord,oil,3047
+Francistown,Bechuanaland du nord,grain,6030
+Daberas,Namaland,coal,3028
+Keetmannshoop,Namaland,wood,3043
+Karas Town,Namaland,iron,3025
+Libonta,Angola oriental,grain,6087
+Kalkfontein,Namaland,grain,3033
+Angra,Sud-Ouest africain allemand,fish,6090
+Lüderitz,Sud-Ouest africain allemand,grain,3010
+Nadah,Sud-Ouest africain allemand,grain,6027
+Swakopmund,Sud-Ouest africain allemand,wood,3041
+Windhoek,Sud-Ouest africain allemand,grain,3000
+Gobabis,Sud-Ouest africain allemand,coal,3028
+Maltahohe,Sud-Ouest africain allemand,iron,3023
+Hoakanas,Sud-Ouest africain allemand,coal,3010
+Okavarona,Damaraland,coal,3013
+Grootfontein,Damaraland,grain,3030
+Kangamba,Angola oriental,oil,3030
+Nkurenkuru,Damaraland,iron,3011
+Olukonda,Damaraland,grain,3043
+Otyozonjupa,Damaraland,oil,6082
+Nekhumbo,Damaraland,wood,3041
+Otavi,Damaraland,fish,3030
+Kaias,Damaraland,fish,6013
+Andara,Angola oriental,iron,3012
+Mpashi,Angola oriental,gas,3003
+Kangombe,Angola oriental,grain,3005
+Kinyama,Angola oriental,wood,3020
+Handa,Angola du sud,iron,3013
+Menonge,Angola du sud,wood,3004
+Kissembo,Angola du sud,gas,3045
+Moma,Angola du sud,grain,6001
+Benguela,Angola du sud,fish,3008
+Caconda,Angola du sud,oil,6045
+Moçâmedes,Angola du sud,fish,3032
+Kiteve,Angola du sud,coal,3033
+Hongolo,Angola du nord,wood,3001
+Kimbundu,Angola du nord,iron,3047
+Kanyika,Angola du nord,grain,3000
+Bumbo,Angola du nord,wood,3031
+Kabembo,Angola du nord,iron,6084
+Malange,Angola du nord,gas,6050
+St. Paul de Loanda,Angola du nord,fish,3023
+Bumba,Angola du nord,grain,3034
+Maye,Congo belge occidental,gas,3030
+Kikasa,Congo belge occidental,iron,6004
+Kananga,Congo belge occidental,grain,6090
+Basongo,Congo belge occidental,oil,3010
+Tangolata,Congo belge occidental,wood,3029
+Wamba,Congo belge occidental,oil,3030
+Eballi,Congo belge occidental,wood,3047
+Léopoldville,Congo belge occidental,wood,3043
+Élisabethville,Congo belge du sud,grain,3010
+Musumba,Congo belge du sud,coal,6031
+Upemba,Congo belge du sud,gas,6070
+Chitobo,Congo belge du sud,grain,3007
+Mpweto,Congo belge du sud,wood,3041
+Buli,Congo belge du sud,fish,3020
+Lukulunga,Congo belge oriental,iron,3030
+Kabambare,Congo belge du sud,iron,3021
+Boloko,Congo belge oriental,coal,3041
+Ponthierville,Congo belge oriental,grain,6070
+Kashi,Congo belge oriental,gas,3014
+Kavalli,Congo belge oriental,oil,3044
+Sanga,Congo belge oriental,gas,3044
+Ngerria,Congo belge oriental,iron,6028
+Ukungwele,Congo belge oriental,wood,3034
+Stanleyville,Congo belge oriental,wood,3010
+Makombe,Congo belge du nord,oil,3010
+Ibali,Congo belge du nord,wood,3044
+Coquilhatville,Congo belge du nord,iron,3007
+Kiri,Congo belge du nord,oil,3010
+Yalinanga,Congo belge du nord,coal,3030
+Yambinga,Congo belge du nord,iron,6084
+Banzyville,Congo belge du nord,grain,6080
+Ukaturaka,Congo belge du nord,grain,3030
+Bata,Rio Muni,fish,3001
+Libreville,Gabon,fish,3010
+Kombe,Gabon,grain,6066
+Malene,Gabon,wood,6085
+Likonda,Gabon,grain,3010
+Franceville,Gabon,wood,3003
+Dialhu,Gabon,coal,3023
+Olenda,Gabon,fish,3049
+Kitabi,Gabon,iron,3043
+Brazzaville,Congo français,fish,3010
+Diele,Congo français,grain,3024
+Village de Pêcheurs,Congo français,coal,3030
+Fort de Possel,Oubangui-Chari,iron,3001
+Yagussu,Oubangui-Chari,grain,6090
+Fort Archambault,Oubangui-Chari,oil,3010
+Akamdu,Oubangui-Chari,coal,3010
+Gribingui,Oubangui-Chari,wood,3010
+Pakuru,Oubangui-Chari,iron,3030
+Aja,Oubangui-Chari,gas,6081
+Jissa,Oubangui-Chari,grain,3040
+Kula,Tchad oriental,gas,3027
+Maô,Tchad du Sud,fish,3012
+Fort Lamy,Tchad du Sud,grain,3008
+Yao,Tchad du Sud,grain,3010
+Berega,Tchad du Sud,wood,6072
+Wara,Tchad du Sud,grain,6009
+Gundi,Tchad du Sud,coal,3030
+Olo,Tchad du Sud,wood,3026
+Modobo,Tchad du Sud,iron,3030
+Kibbo,Tchad du Nord,coal,3034
+Killori,Tchad du Nord,wood,6070
+Salado,Tchad du Nord,wood,3026
+Kidinga,Tchad du Nord,coal,3002
+Berai,Tchad du Nord,oil,6030
+Wanyanga Yoa,Tchad du Nord,iron,3031
+Turkeshi,Tchad du Nord,grain,3010
+Sabbo,Tchad du Nord,grain,3010
+Goko,Cameroun oriental allemand,grain,3030
+Yianba,Cameroun oriental allemand,iron,3030
+Dongo,Cameroun oriental allemand,coal,6010
+Bakunde,Cameroun oriental allemand,wood,3027
+Bania,Cameroun oriental allemand,iron,6034
+Fort Mailigali,Cameroun oriental allemand,grain,3032
+Kunde,Cameroun oriental allemand,grain,3010
+Tendira,Cameroun oriental allemand,wood,3010
+Jamba,Cameroun occidental allemand,wood,6083
+Makung,Cameroun occidental allemand,coal,3032
+Elunna,Cameroun occidental allemand,iron,3025
+Duala,Cameroun occidental allemand,fish,3042
+Calabar,Cameroun occidental allemand,gas,3033
+Baliburg,Cameroun occidental allemand,wood,3026
+Ngila,Cameroun occidental allemand,gas,3046
+Yoko,Cameroun occidental allemand,grain,6006
+Serti,Cameroun du nord allemand,grain,3010
+Tibati,Cameroun du nord allemand,wood,6090
+Mande,Cameroun du nord allemand,gas,3010
+Dalami,Cameroun du nord allemand,iron,6001
+Rei Buba,Cameroun du nord allemand,wood,3043
+Dogo,Cameroun du nord allemand,grain,3027
+Maroua,Cameroun du nord allemand,fish,3007
+Dolu,Cameroun du nord allemand,oil,3004
+Lagos,Nigeria du sud,fish,3008
+Ibadan,Nigeria du sud,iron,3020
+Oshogba,Nigeria du sud,coal,3000
+Addo,Nigeria du sud,oil,3005
+Onitsa,Nigeria du sud,coal,6023
+Enugu,Nigeria du sud,grain,6010
+Okrika,Nigeria du sud,wood,3020
+Benin City,Nigeria du sud,fish,3010
+Muri,Nigeria oriental,wood,3010
+Umburu,Nigeria oriental,gas,3012
+Akpama,Nigeria central,iron,3014
+Darroro,Nigeria central,oil,6084
+Gbebe,Nigeria central,wood,6030
+Ladi,Nigeria central,coal,3009
+Abuja,Nigeria central,grain,3007
+Diego Suarez,Madagascar du nord,wood,3049
+Zungeru,Nigeria central,wood,3009
+Gando,Nigeria central,iron,3030
+Dzafe,Nigeria central,grain,3004
+Kano,Nigeria du nord,coal,3028
+Zaria,Nigeria du nord,grain,3023
+Tebula,Nigeria du nord,iron,6061
+Fika,Nigeria du nord,wood,6030
+Mashena,Nigeria du nord,coal,3027
+Bauchi,Nigeria du nord,grain,3030
+Biu,Nigeria du nord,iron,3005
+Maifoni,Nigeria du nord,fish,3007
+Porto Novo,Dahomey français,fish,3010
+Nikki,Dahomey français,coal,3022
+Kirikri,Togoland allemand,wood,3024
+Lomé,Togoland allemand,fish,3002
+Bismarckburg,Togoland allemand,oil,3007
+Accra,Côte-de-l'Or britannique,fish,3009
+Tarkwa,Côte-de-l'Or britannique,wood,3008
+Coomassie,Côte-de-l'Or britannique,oil,6071
+Nkoransa,Côte-de-l'Or britannique,grain,3029
+Bole,Côte-de-l'Or britannique,gas,6063
+Salaga,Côte-de-l'Or britannique,grain,3029
+Wa,Côte-de-l'Or britannique,iron,3008
+Karanga,Côte-de-l'Or britannique,iron,3043
+Grand Bassam,Côte d'Ivoire,wood,6068
+Rocktown,Côte d'Ivoire,grain,3009
+Mango,Côte d'Ivoire,coal,3027
+Monero Town,Côte d'Ivoire,iron,6027
+Sanidugu Village,Côte d'Ivoire,oil,3029
+Gueleba,Côte d'Ivoire,grain,3030
+Kong,Côte d'Ivoire,gas,3046
+Bonduku,Côte d'Ivoire,wood,3030
+Sinu,Liberia,grain,3041
+Monrovia,Liberia,fish,3030
+Freetown,Sierra Leone,fish,3048
+Conarkry,Guinée française,coal,3030
+Yambering,Guinée française,wood,6011
+Bamako,Mali Occidental,gas,6012
+Teliko,Guinée française,grain,3008
+Dinguiray,Guinée française,iron,3049
+Moria,Guinée française,coal,6010
+Nelia,Guinée française,grain,3005
+Kouroussa,Guinée française,grain,3025
+Musardu,Guinée française,coal,3012
+Bissau,Guinée portugaise,coal,3011
+Bathurst,Guinée portugaise,coal,3009
+Fort Bullen,Sénégal,fish,3027
+Dakar,Sénégal,fish,3032
+Mataim,Sénégal,grain,3030
+Bakel,Sénégal,oil,6072
+Naye,Sénégal,iron,6091
+Goudiri,Sénégal,grain,3010
+Bady,Sénégal,wood,3041
+Kaolak,Sénégal,grain,3007
+Lismas,Montana oriental,wood,6044
+Tiururt,Mauritanie du sud,wood,3025
+Tiferez,Mauritanie du sud,coal,6010
+Shingeti,Mauritanie du sud,iron,6002
+Kifa,Mauritanie du sud,oil,3024
+El Hafeira,Mauritanie du sud,coal,3000
+Akaratin,Mauritanie du sud,grain,3041
+Bubaker,Mauritanie du sud,iron,3025
+Kasr el Barka,Mauritanie du sud,grain,3010
+Tourine,Mauritanie du nord,grain,3046
+Kiddu,Sahara espagnol,oil,6082
+Renaf,Mauritanie du nord,wood,3040
+El Hassi,Mauritanie du nord,iron,3023
+Bir Moghrein,Mauritanie du nord,wood,6030
+Tenduf,Mauritanie du nord,grain,3010
+Hamada Town,Mauritanie du nord,grain,3031
+Bin Anina,Mauritanie du nord,oil,6062
+El Eisly,Mauritanie du nord,wood,3010
+Tichla,Sahara espagnol,fish,6050
+Wudi,Sahara espagnol,wood,3028
+Villa Cisneros,Sahara espagnol,fish,3021
+Dumus,Sahara espagnol,iron,3047
+Simseru,Sahara espagnol,grain,3030
+Smara,Sahara espagnol,wood,3043
+Oum Dreyga,Sahara espagnol,grain,3046
+Kangaba,Mali du sud,wood,3044
+Tiola,Mali du sud,iron,3033
+Sikaso Ville,Mali du sud,oil,3047
+Lokhoso,Mali du sud,iron,3034
+Nyamina,Mali Occidental,iron,3028
+Krilikoro,Mali Occidental,grain,6060
+Gella,Mali Occidental,wood,3003
+Bakhuinit,Mali Occidental,iron,3011
+Kita,Mali Occidental,wood,3022
+Binaun,Mali Occidental,coal,3007
+Bafulabe,Mali Occidental,wood,3010
+Tergulawen,Niger oriental,iron,3024
+Timbuctu,Mali central,wood,3042
+Saraferé,Mali central,oil,6030
+Bandiagara,Mali central,gas,3010
+Taiserbo,Cyrénaïque occidentale,wood,3030
+Kutiala,Mali central,iron,6014
+Woninkoro,Mali central,coal,3030
+Sansanding,Mali central,grain,3001
+Bone,Mali central,wood,3009
+Kabara,Mali central,grain,3045
+Gona,Mali Oriental,iron,3030
+Imeliggisen,Mali Oriental,wood,3026
+Yako,Mali Oriental,grain,6020
+Boromo,Mali Oriental,gas,3022
+Pama,Mali Oriental,coal,3011
+Bilanga,Mali Oriental,gas,3006
+Sebba,Mali Oriental,wood,3027
+Diapaga,Mali Oriental,iron,6053
+Nema,Soudan français du sud,iron,3027
+Walata,Soudan français du sud,grain,3010
+Haseini,Soudan français du sud,wood,3023
+Bin Onan,Soudan français du sud,gas,3010
+El Joof Oasis,Soudan français du sud,coal,3043
+El Harib,Soudan français du nord,grain,3021
+Majara,Soudan français du nord,wood,3004
+El Gedea,Soudan français du nord,oil,3010
+Igiden,Soudan français du nord,iron,6085
+Sneissa,Soudan français du nord,coal,3030
+Uled Raffa,Soudan français du nord,iron,3001
+Tamentit,Soudan français du nord,grain,6063
+Reggane,Soudan français du nord,gas,3010
+Bin el Abbas,Soudan français central,oil,3042
+Marabuti,Soudan français central,coal,3040
+El Eglab,Soudan français central,gas,3012
+Tgaza,Soudan français central,gas,3040
+Ain Hamid,Bir el Malh,iron,3030
+Bin Tarmanant,Soudan français central,iron,3010
+Hassi Rajel Imrad,Soudan français central,grain,6081
+El Muksi,Soudan français central,wood,3010
+El Khamsi,Soudan français central,iron,6085
+Insalah,Soudan français oriental,wood,3010
+Akabli,Soudan français oriental,grain,3013
+Al Wallen,Soudan français oriental,grain,3010
+Hassi Asensen,Soudan français oriental,oil,6010
+El Mabruk,Soudan français oriental,coal,3004
+Tit,Soudan français oriental,iron,6048
+Timanghasset,Soudan français oriental,gas,3033
+In Tellabit,Soudan français oriental,iron,3028
+Terobar,Niger du sud-ouest,wood,6066
+Tabiliat,Niger du sud-ouest,iron,3005
+Timmia,Niger du sud-ouest,coal,6089
+Agredem,Niger du sud-ouest,grain,3013
+Garu,Niger du sud-ouest,oil,3012
+Agades,Niger du sud-ouest,wood,3030
+Dosso,Niger du sud-ouest,coal,3045
+Falenka,Niger du sud-ouest,grain,3009
+Tessaoua,Niger du sud-est,iron,3030
+Zinder,Niger du sud-est,coal,3012
+Gure,Niger du sud-est,grain,3001
+Barrua,Niger du sud-est,iron,3026
+Dibbela,Niger oriental,wood,3043
+Salando,Niger oriental,coal,3013
+Bilma Oasis,Niger oriental,coal,6010
+Jinninan,Niger oriental,grain,3008
+Mafaras,Niger oriental,iron,6021
+Anai,Niger oriental,coal,3000
+Ghat,Niger oriental,grain,3002
+Marraraba,Niger occidental,grain,3024
+Tagajit,Niger occidental,oil,6034
+Tasili wan Ahaggar,Niger occidental,wood,3013
+Ideles,Niger occidental,coal,3028
+Sarasua,Niger occidental,wood,6066
+Inzelman,Niger occidental,iron,3003
+Temassinin,Niger occidental,grain,3030
+Tajenut,Niger occidental,wood,3029
+Handak,Bir el Malh,grain,3000
+Tamiutin,Niger du Nord,wood,3026
+Sirsait,Niger du Nord,oil,3010
+Suiret,Niger du Nord,grain,3033
+Awidat,Niger du Nord,iron,3020
+Bir el Malh,Bir el Malh,iron,3031
+Siwah Oasis,Cyrénaïque orientale,oil,6030
+Erbehna,Cyrénaïque occidentale,grain,3030
+Buseima,Cyrénaïque occidentale,wood,3027
+Acheibesh,Cyrénaïque occidentale,oil,6024
+Sarfaya,Cyrénaïque occidentale,grain,3032
+Northern Oasis,Cyrénaïque occidentale,coal,3023
+Tekro,Cyrénaïque occidentale,grain,6085
+El Jawf,Cyrénaïque occidentale,iron,3045
+El Mukkeni,Cyrénaïque orientale,grain,3010
+Bishra,Cyrénaïque orientale,coal,3030
+Gebabo,Cyrénaïque orientale,iron,3013
+Sighen,Cyrénaïque orientale,grain,3046
+Oasis of Farafreh,Cyrénaïque orientale,iron,6032
+Halfaha,Cyrénaïque orientale,wood,3023
+Selimeh,Cyrénaïque orientale,coal,3009
+Antananarivo,Madagascar du sud,coal,3010
+Kingby,Madagascar du sud,grain,6054
+Belei,Madagascar du sud,fish,3010
+Isima,Madagascar du sud,fish,3030
+Mandongy,Madagascar du sud,coal,3031
+Tullear,Madagascar du sud,fish,3030
+Ikonyo,Madagascar du sud,iron,6086
+Andrahomana,Madagascar du sud,wood,3045
+Mount Vernon,Washington,fish,3030
+Colville,Washington,wood,3026
+Seattle,Washington,iron,6050
+Wilbur,Washington,grain,3007
+Spokane,Washington,coal,3010
+Walla Walla,Washington,gas,6040
+North Yakima,Washington,grain,3046
+Tacoma,Washington,coal,3049
+Coeur d'Alene,Cœur d'Alene,iron,3030
+Arrow,Cœur d'Alene,wood,3030
+Sherman,Cœur d'Alene,wood,3040
+Missoula,Montana du nord,iron,3011
+Dixon,Montana du nord,grain,3026
+Columbia Falls,Montana du nord,coal,6050
+Marias,Montana du nord,wood,3048
+Great Falls,Montana du nord,oil,6070
+Judith,Montana du nord,wood,3004
+Havre,Montana du nord,iron,3048
+Leedy,Montana du nord,grain,3010
+Mosby,Montana du sud,grain,3008
+Blair,Montana oriental,wood,3044
+Jordan,Montana oriental,coal,3040
+Glendive,Montana oriental,coal,3030
+Miles City,Montana oriental,oil,3021
+Conlin,Montana oriental,coal,3011
+Graham,Montana oriental,iron,3034
+Garland,Montana oriental,grain,3042
+Sanders,Montana du sud,iron,3006
+Dunmore,Montana du sud,coal,3046
+Livingston,Montana du sud,wood,3030
+Harlowtown,Montana du sud,wood,6020
+Neihart,Montana du sud,oil,3012
+Butte,Montana du sud,coal,6067
+Helena,Montana du sud,grain,3030
+Williston,Dakota du Nord,iron,3027
+Towner,Dakota du Nord,grain,3004
+Grafton,Dakota du Nord,wood,6063
+Medora,Dakota du Nord,grain,3010
+Sandcreek,Dakota du Nord,coal,6072
+Bismarck,Dakota du Nord,coal,3047
+McHenry,Dakota du Nord,wood,3013
+Casselton,Dakota du Nord,coal,3042
+Reva,Dakota du Sud,iron,3030
+Rapid City,Dakota du Sud,iron,3030
+Gettysburg,Dakota du Sud,wood,3023
+Redfield,Dakota du Sud,coal,6045
+Milbank,Dakota du Sud,grain,3010
+Huron,Dakota du Sud,wood,3007
+Philip,Dakota du Sud,grain,3021
+Pierre,Dakota du Sud,oil,6063
+Thief River,Moorhead,oil,3023
+Bemidji,Moorhead,wood,3010
+Crookston,Moorhead,iron,3009
+Moorhead,Moorhead,grain,3014
+Big Falls,Minnesota,grain,3009
+Allen Junction,Minnesota,fish,6046
+Carlton,Minnesota,gas,3010
+Walker,Minnesota,wood,3001
+Minneapolis,Minnesota,iron,3027
+Wheaton Valley,Minnesota,grain,3022
+Pipestone,Minnesota,oil,6050
+Mankato,Minnesota,iron,3010
+Marengo,Wisconsin,grain,3031
+Turtle Lake,Wisconsin,grain,3027
+Rhinelander,Wisconsin,iron,6064
+Green Bay,Wisconsin,fish,3030
+Marshfield,Wisconsin,iron,3010
+Sparta,Wisconsin,oil,6050
+Madison,Wisconsin,coal,3042
+Milwaukee,Wisconsin,wood,3004
+Houghton,Escanaba,iron,3005
+Escanaba,Escanaba,iron,3030
+Newberry,Escanaba,coal,3003
+Petoskey,Michigan,grain,3010
+Traverse City,Michigan,grain,3045
+Emery Junction,Michigan,fish,3031
+Walhalla,Michigan,fish,6073
+Saginaw,Michigan,iron,3012
+Kalamazoo,Michigan,coal,3002
+Lansing,Michigan,gas,3000
+Detroit,Michigan,wood,6010
+Findlay,Ohio,fish,3000
+Lorain,Ohio,grain,3030
+Youngstown,Ohio,fish,3002
+Columbus,Ohio,gas,6030
+Marietta,Ohio,wood,6007
+Wapakoneta,Ohio,grain,3030
+Cincinnati,Ohio,coal,3024
+Wellston,Ohio,iron,3043
+Erie,Pennsylvanie,grain,3008
+Pittsburg,Pennsylvanie,gas,3043
+Emporium,Pennsylvanie,coal,3004
+Williamsport,Pennsylvanie,oil,6030
+Scranton,Pennsylvanie,iron,3049
+Philadelphia,Pennsylvanie,fish,3014
+Harrisburg,Pennsylvanie,grain,3030
+Altoona,Pennsylvanie,wood,6092
+Trenton,New Jersey,fish,3000
+Rochester,New York,fish,3021
+Oswego,New York,grain,6030
+Watertown,New York,fish,3010
+Plattsburg,New York,grain,3048
+Concord,Vermont et New Hampshire,fish,3005
+New York City,New York,iron,6010
+Schenectady,New York,gas,3049
+Utica,New York,wood,3030
+Hancock,New York,oil,3030
+Hartford,Vermont et New Hampshire,gas,6026
+Woodsville,Vermont et New Hampshire,coal,3001
+Cambridge Junction,Vermont et New Hampshire,grain,3042
+Montpelier,Vermont et New Hampshire,grain,3004
+Rockingham,Vermont et New Hampshire,iron,3044
+Chicopee,Vermont et New Hampshire,wood,6070
+Hodeida,Vilayet du Yémen,oil,3030
+Boston,Vermont et New Hampshire,coal,3025
+Saco,Maine,fish,6085
+Augusta,Maine,fish,3026
+Ellsworth,Maine,coal,3010
+Rumford,Maine,iron,3005
+Greenville Junction,Maine,grain,3030
+Winterville,Maine,grain,3041
+Fort Fairfield,Maine,coal,3045
+Mattawamkeag,Maine,wood,6089
+Frederick,Virginie,grain,6050
+Baltimore,Virginie,iron,3021
+Bridgeville,Virginie,fish,3028
+Washington D.C.,Virginie,wood,6041
+Bigstone Gap,Virginie,gas,3013
+Lynchburg,Virginie,gas,3028
+Elkton,Virginie,wood,3007
+Westpoint,Virginie,fish,3049
+Belington,Virginie-Occidentale,iron,3010
+Fairmont,Virginie-Occidentale,wood,3011
+Burnsville,Virginie-Occidentale,grain,3012
+Charleston,Virginie-Occidentale,gas,3048
+Blackwater,Kentucky,wood,3047
+Lexington,Kentucky,grain,3048
+Frankfort,Kentucky,coal,3005
+Corbin,Kentucky,grain,6048
+Bartstown,Kentucky,coal,3010
+Elizabeth Town,Kentucky,coal,3041
+Hickman,Kentucky,iron,3024
+Scottsville,Kentucky,iron,6003
+Valparaiso,Indiana,fish,3040
+Fort Wayne,Indiana,grain,3010
+Veedersburg,Indiana,wood,3030
+Muncie,Indiana,oil,6093
+Indianapolis,Indiana,iron,3008
+Seymour,Indiana,coal,6085
+Princeton,Indiana,iron,3042
+Terre Haute,Indiana,grain,3010
+Chicago,Illinois,fish,3022
+Rockford,Illinois,iron,3012
+Galva,Illinois,iron,6086
+Kankakee,Illinois,grain,3010
+Beardstown,Illinois,coal,3046
+Springfield,Illinois,coal,3005
+Litchfield,Illinois,wood,3021
+Effingham,Illinois,grain,6050
+Olney,Belleville,iron,3041
+Belleville,Belleville,grain,3030
+Carbondale,Belleville,gas,3003
+New Hampton,Iowa,iron,3027
+Dubuque,Iowa,wood,6066
+Davenport,Iowa,grain,6065
+Burlington,Iowa,coal,3034
+Creston,Iowa,iron,3041
+Des Moines,Iowa,coal,3010
+Spencer,Iowa,wood,3010
+Mason City,Iowa,grain,3005
+La Plata,Missouri,oil,3002
+Pattonsberg,Missouri,wood,3013
+Carrollton,Missouri,iron,3030
+Mexico,Missouri,wood,3002
+St. Louis,Missouri,coal,6020
+Jefferson City,Missouri,grain,6007
+Aurora,Missouri,wood,3009
+Silva,Missouri,coal,3030
+St. Joseph,Omaha,grain,3044
+Omaha,Omaha,wood,3026
+Sioux City,Omaha,grain,3021
+Sioux Falls,Sioux Falls,gas,3021
+Randolph,Sioux Falls,oil,3029
+Fremont,Nebraska,wood,3021
+Hastings,Nebraska,coal,3005
+Gothenburg,Nebraska,oil,3010
+Imperial,Nebraska,iron,3029
+Crawford,Nebraska,wood,3043
+Wood Lake,Nebraska,coal,6010
+O'Neill,Nebraska,grain,6050
+Plainview,Nebraska,iron,3011
+Topeka,Kansas,coal,3030
+Eureka,Kansas,grain,3031
+Wichita,Kansas,grain,3040
+Concordia,Kansas,coal,3009
+Stockton,Kansas,gas,3030
+Colby,Kansas,iron,6054
+Garden City,Kansas,wood,3028
+Stafford,Kansas,wood,6046
+Sundance,Wyoming,iron,3044
+Buffalo,Wyoming,wood,6070
+Sunshine,Wyoming,iron,3006
+Yellowstone,Wyoming,grain,3010
+Ball,Wyoming,coal,6027
+Cheyenne,Wyoming,grain,3030
+Walcott,Wyoming,gas,3001
+Thayer,Wyoming,coal,3034
+Schramm,Colorado,gas,3031
+Galatea,Colorado,iron,3024
+Pueblo,Colorado,grain,3027
+Cortez,Colorado,coal,6070
+Denver,Colorado,wood,6064
+Colorado Springs,Colorado,wood,3021
+Steamboat Springs,Colorado,grain,3009
+Glenwood Springs,Colorado,iron,3045
+Grand Junction,Grand Junction,grain,3010
+Ouray,Grand Junction,iron,3010
+Leroy,Grand Junction,gas,3031
+Bluff,Utah,grain,3030
+Hite,Utah,iron,6013
+Sphinx,Utah,oil,3010
+Sahara,Utah,coal,3045
+Manti,Utah,grain,3034
+Ibex,Utah,grain,6066
+Salt Lake City,Utah,iron,3047
+Ogden,Utah,wood,3014
+Pocatello,Idaho,iron,3010
+Kimama,Idaho,iron,6090
+Silver City,Idaho,wood,3027
+Bassett,Idaho,gas,3014
+Mackay,Idaho,grain,3011
+Boise,Idaho,coal,6040
+Challis,Idaho,gas,3026
+Council,Idaho,grain,3012
+La Grande,Oregon,coal,6087
+Clem,Oregon,grain,3023
+Eugene,Oregon,iron,3021
+Portland,Oregon,wood,3010
+Port Orford,Oregon,fish,6049
+Medford,Oregon,grain,3010
+Burns,Oregon,coal,3000
+Diamond,Oregon,wood,3023
+Maracaibo,Venezuela de l'ouest,wood,3045
+Bartle,Californie du Nord,wood,6088
+Yreka,Californie du Nord,wood,3028
+Leggett,Californie du Nord,coal,6010
+Hamilton City,Californie du Nord,oil,3048
+Sacramento,Californie du Nord,grain,3010
+San Francisco,Californie du Nord,coal,3007
+Merced,Californie du Nord,iron,3048
+El Portal,Californie du Nord,grain,3003
+Mount Whitney,Californie du Sud,coal,3001
+Fresno,Californie du Sud,grain,3004
+Hot Springs,Californie du Sud,iron,3026
+Gosford,Californie du Sud,fish,3010
+Randsburg,Californie du Sud,grain,3047
+Crucero,Californie du Sud,wood,6050
+Los Angeles,Californie du Sud,fish,6042
+Camp Rocherster,Californie du Sud,coal,3014
+Rebel Creek,Nevada,coal,3011
+Carson City,Nevada,wood,6021
+Mountain City,Nevada,grain,3048
+Cobre,Nevada,coal,3030
+Ravenswood,Nevada,grain,6050
+Goldfield Junction,Vice,coal,3009
+Sunnyside,Nevada,gas,3030
+Middlegate,Nevada,iron,3029
+Ely,Nevada,oil,3010
+Morristown,Vice,iron,3047
+Beatty,Vice,grain,3044
+Las Vegas,Vice,wood,3030
+San Diego,San Diego,fish,3030
+Grand Canyon,Arizona,grain,3044
+Prescott,Arizona,oil,6065
+Yuma,Arizona,iron,3049
+Tuba,Arizona,wood,3013
+Holbrook,Arizona,grain,3034
+Phoenix,Arizona,grain,3000
+Red Rock,Arizona,coal,6048
+Benson,Arizona,wood,3010
+Putnam,Nouveau Mexique,grain,3003
+Santa Fé,Nouveau Mexique,wood,3010
+Tucemcari,Nouveau Mexique,grain,3030
+Campbell,Nouveau Mexique,coal,6086
+Willard,Nouveau Mexique,wood,3010
+Capitan,Nouveau Mexique,oil,6065
+Pinoville,Nouveau Mexique,iron,3030
+White Water,Nouveau Mexique,iron,3044
+Las Cruces,Las Cruces,coal,3000
+Carlsbad,Las Cruces,grain,3047
+Guymon,Oklahoma,iron,3022
+Sayre,Oklahoma,wood,3008
+Cherokee,Oklahoma,iron,6007
+Tulsa,Oklahoma,gas,6071
+Grove,Oklahoma,grain,3004
+Oklahoma,Oklahoma,grain,3041
+Durant,Oklahoma,wood,3024
+Wilburton,Oklahoma,coal,3023
+Dalhart,Amarillo,wood,3010
+Washburn,Amarillo,coal,3046
+Amarillo,Amarillo,grain,3030
+Silverton,Amarillo,gas,3032
+Lubbock,Texas central,oil,3030
+Emerson,Texas central,iron,3007
+Colorado City,Texas central,coal,6086
+Fort Worth,Texas central,iron,3010
+Dallas,Texas central,grain,3046
+Waco,Texas central,grain,3006
+Lampasas,Texas central,iron,3023
+San Angelo,Texas central,wood,6007
+Pecos,El Paso,gas,3041
+El Paso,El Paso,oil,3010
+Paisano,El Paso,coal,3001
+Austin,Texas du sud,iron,3046
+Port Lavaca,Texas du sud,fish,3010
+San Antonio,Texas du sud,grain,3043
+Eagle Lake,Texas du sud,grain,3023
+Comstock,Texas du sud,wood,6061
+Sabinal,Texas du sud,gas,6091
+Corpus Christi,Texas du sud,fish,3030
+Cotulla,Texas du sud,fish,3030
+Sulphur Springs,Winsboro,iron,3026
+Mount Plesant,Winsboro,grain,3046
+Winsboro,Winsboro,oil,3030
+Mabank,Texas de l'Est,grain,3006
+Tyler,Texas de l'Est,grain,3002
+Timpson,Texas de l'Est,gas,6070
+Palestine,Texas de l'Est,wood,3026
+Houston,Texas de l'Est,oil,6022
+Galveston,Texas de l'Est,grain,3045
+Sabine,Texas de l'Est,iron,3032
+Corrigan,Texas de l'Est,iron,3043
+Fort Smith,Arkansas,oil,3005
+Mointain Home,Arkansas,wood,3025
+Paragould,Arkansas,wood,3006
+Cabanatuan,Luzon,grain,6070
+Hope,Arkansas,grain,3048
+Pritchard,Arkansas,iron,3010
+Arkansas City,Arkansas,coal,6087
+Brinkley,Arkansas,grain,6012
+Little Rock,Arkansas,iron,3023
+Greensboro,Caroline du Nord,wood,3005
+Collinston,Louisiane,iron,3030
+Ruston,Louisiane,grain,3028
+Shreveport,Louisiane,gas,3027
+Clayton Junction,Louisiane,coal,3022
+Natchitoches,Louisiane,grain,3025
+Lake Charles,Louisiane,fish,6001
+Baton Rouge,Louisiane,wood,6021
+Baldwin,Louisiane,wood,3031
+New Orleans,La Nouvelle-Orléans,coal,3030
+Gulfport,Mississippi,grain,3006
+Brookhaven,Mississippi,iron,6030
+Laurel,Mississippi,gas,3044
+Jackson,Mississippi,coal,6010
+Kelso,Mississippi,gas,3049
+Claksdale,Mississippi,iron,3010
+Ackerman,Mississippi,grain,3013
+Basic,Mississippi,wood,3010
+Memphis,Memphis,gas,3024
+Allens Creek,Tennessee,grain,6080
+Martin,Tennessee,gas,3021
+Clarcksville,Tennessee,wood,3033
+Nashville,Tennessee,iron,3023
+Charlotte,Caroline du Nord,grain,3010
+Tullahoma,Tennessee,grain,3028
+Cookville,Tennessee,gas,3005
+Knoxville,Tennessee,wood,3010
+Johnson City,Tennessee,iron,6070
+Cambria,Asheville,grain,3010
+Asheville,Asheville,grain,3030
+Statesville,Asheville,coal,3025
+Durham,Caroline du Nord,coal,3002
+Hobgood,Caroline du Nord,coal,6086
+San Cristobal,Venezuela de l'ouest,fish,3028
+Fayetteville,Caroline du Nord,iron,6003
+Barinas,Venezuela de l'ouest,grain,5902
+Raleigh,Caroline du Nord,coal,3048
+Greenville,Caroline du Nord,grain,3013
+Wilmington,Caroline du Nord,fish,3034
+Rockhill,Caroline du Sud,iron,6049
+Seneca,Caroline du Sud,grain,3027
+Aiken,Caroline du Sud,grain,3028
+Columbia,Caroline du Sud,wood,6012
+Camden,Caroline du Sud,wood,3030
+Myrtle Beach,Caroline du Sud,grain,3024
+Branchville,Caroline du Sud,grain,3010
+North Charleston,Caroline du Sud,coal,3011
+Cartersville,Géorgie,wood,3005
+Lula,Géorgie,iron,3010
+Atlanta,Géorgie,wood,6032
+Unionpoint,Géorgie,grain,3031
+Wadley,Géorgie,iron,3030
+Macon,Géorgie,gas,3033
+Savannah,Géorgie,oil,6050
+Albany,Géorgie,grain,3010
+Huntsville,Alabama,oil,3030
+Russelville,Alabama,grain,3021
+Tuscaloosa,Alabama,coal,3002
+Talladega,Alabama,iron,6010
+Myrtlewood,Alabama,wood,3047
+Montgomery,Alabama,grain,3012
+Oneida,Alabama,coal,3005
+Mobile,Alabama,wood,6067
+Sitka,Sitka,wood,3005
+Pensacola,Pensacola,grain,3010
+Apalachicola,Pensacola,oil,3030
+Tallahassee,Floride,wood,6068
+Jacksonville,Floride,fish,3012
+High Springs,Floride,iron,3031
+Orlando,Floride,fish,3010
+Tampa,Floride,fish,3007
+Kissimmee,Floride,grain,3000
+West Palm Beach,Floride,gas,6014
+Fruitville,Floride,grain,3022
+Fort Lauderdale,Miami,iron,3031
+Fort Myers,Miami,fish,3048
+Miami,Miami,coal,3012
+Klawak,Sitka,grain,3030
+Chilkat Village,Alaska central,gas,3023
+Orca,Alaska central,wood,6065
+Anchorage,Alaska central,wood,3030
+Tyoonok,Alaska central,grain,3030
+Kakhonak,Îles Aléoutiennes,iron,3030
+Fort Hamlin,Alaska central,iron,3010
+Falls,Alaska central,grain,6066
+Circle,Alaska central,wood,3042
+Chicken,Alaska central,coal,3021
+Katmai,Îles Aléoutiennes,grain,3034
+Sandpoint,Îles Aléoutiennes,iron,3028
+Kodiak,Îles Aléoutiennes,wood,3046
+Redoubt Kolmakof,Alaska occidental,wood,3024
+Fort Alexander,Alaska occidental,fish,6070
+Odgovigamut,Alaska occidental,grain,6072
+Tununak,Alaska occidental,fish,3024
+St. Michaels,Alaska occidental,coal,3030
+Koyukuk,Alaska occidental,iron,3010
+Attemut,Alaska occidental,grain,3004
+Nome,Alaska occidental,gas,3028
+Kalla,Alaska du nord-ouest,iron,3046
+Fort Morton,Alaska du nord-ouest,gas,6081
+Initkilly,Alaska du nord-ouest,fish,3045
+Corwin Coal,Alaska du nord-ouest,wood,3000
+Barrow,Alaska du nord-ouest,fish,3029
+Hot Spring,Alaska du nord-ouest,grain,3045
+Weare,Alaska du nord-est,grain,6028
+Arctic City,Alaska du nord-est,iron,6000
+Beaver City,Alaska du nord-est,coal,3046
+Nuiqsut,Alaska du nord-est,oil,3024
+Romanzof Mountain,Alaska du nord-est,wood,3046
+Tramway Bar,Alaska du nord-est,coal,3002
+Dall City,Alaska du nord-est,wood,3002
+Fort Yukon,Alaska du nord-est,coal,3034
+Fort Yuma,San Diego,iron,3014
+Tijuana,Basse Californie,fish,3009
+Mexicali,Basse Californie,iron,3030
+Ensenada de Todos Santos,Basse Californie,gas,3004
+San Felipe,Basse Californie,fish,6062
+Cerralvo,Nuevo León,coal,3044
+San Quintin,Basse Californie,wood,3030
+Tubay,Basse Californie,coal,3030
+San Borja,Basse Californie,grain,6047
+Rosarito,Basse Californie,gas,3021
+San Maria,Basse Californie du Sud,wood,6030
+San Gertrudis,Basse Californie du Sud,grain,3046
+Mulege,Basse Californie du Sud,fish,3003
+San Juanico,Basse Californie du Sud,coal,6048
+San Evaristo,Basse Californie du Sud,iron,3010
+Soledad,Basse Californie du Sud,grain,3031
+La Páz,Basse Californie du Sud,fish,3022
+San Lucas Cabo,Basse Californie du Sud,fish,3046
+Puerto Isabel,Sonora,fish,3012
+Aquimuri,Sonora,gas,6072
+Fortuna,Sonora,wood,3006
+Cieneguilla,Sonora,fish,3047
+Esperanza,Sonora,fish,3048
+Sahuaripa,Sonora,grain,6010
+Hermosillo,Sonora,grain,3022
+Guaymas,Sonora,iron,3012
+Janos,Chihuahua du nord,oil,3030
+Rodriguez,Nuevo León,wood,3007
+Ciudad Juarez,Chihuahua du nord,wood,6000
+Ojo Caliente,Chihuahua du nord,iron,6049
+Benito Juárez,Chihuahua du nord,iron,3030
+Madera,Chihuahua du nord,grain,3026
+Concepcion,Chihuahua du nord,grain,3010
+Chihuahua,Chihuahua du nord,gas,3030
+Presidio del Norte,Chihuahua du nord,oil,3010
+Santa Cruz de Rosales,Chihuahua du sud,iron,3043
+Jimenez,Chihuahua du sud,oil,3003
+Satevo,Chihuahua du sud,wood,3027
+Bocoyna,Chihuahua du sud,grain,3029
+Parral,Chihuahua du sud,coal,3046
+Los Monos,Coahuila,wood,3010
+San Jose de Piedras,Coahuila,grain,3026
+Ciudad Porfirio Diaz,Coahuila,grain,3030
+Santa Rosa de Musquiz,Coahuila,iron,3030
+Rincon,Coahuila,coal,6060
+Monclova,Coahuila,oil,3030
+San Pedro,Coahuila,wood,6050
+Satillo,Coahuila,coal,3000
+Fuerte,Sinaloa,wood,3031
+Altamora,Sinaloa,grain,3020
+Culiacan,Sinaloa,fish,3001
+Culiacán Rosales,Sinaloa,fish,3012
+Consejos,Durango,iron,3005
+El Oro,Durango,coal,3034
+Topia,Durango,coal,3013
+Huichapan,Durango,wood,3010
+Lerdo,Durango,iron,3010
+San Bartolo,Durango,grain,6026
+Durango,Durango,gas,6070
+Nombre de Dios,Durango,iron,3030
+Monterey,Nuevo León,coal,3010
+Linares,Nuevo León,grain,3010
+Canelo,Nuevo León,coal,3030
+Miguel,Tamaulipas,oil,3007
+Matamoros,Tamaulipas,coal,3025
+San José,Tamaulipas,grain,6000
+Casas,Tamaulipas,fish,3042
+Soto la Marina,Tamaulipas,fish,3012
+Ciudad Victoria,Tamaulipas,iron,6027
+San Luis Potosi,Tamaulipas,iron,3012
+Matehuala,Tamaulipas,wood,3010
+Guzman,Zacatecas,wood,3030
+Sombrerete,Zacatecas,wood,3041
+Fresnillo,Zacatecas,gas,3003
+Zacatecas,Zacatecas,wood,3002
+Pinos,Zacatecas,grain,3030
+Mexico City,Michoacán,grain,3044
+Mezquitie,Estados del Pacífico,grain,3027
+Mezcaltitla,Estados del Pacífico,grain,3030
+Chimaltitlan,Estados del Pacífico,gas,3041
+Tepic,Estados del Pacífico,fish,3026
+Copala,Estados del Pacífico,iron,3010
+Guadalajára,Estados del Pacífico,oil,6010
+Clima,Estados del Pacífico,fish,6068
+Autlan,Estados del Pacífico,wood,3003
+San Luiz de la Paz,Michoacán,wood,6073
+Lagos de Moreno,Michoacán,grain,3010
+Guanajuato,Michoacán,coal,6092
+Celaya,Michoacán,iron,3007
+La Barca,Michoacán,grain,3010
+Morelia,Michoacán,coal,3040
+Caracuaro,Michoacán,grain,3044
+Aguililla,Michoacán,coal,3046
+Iguala,Guerrero,wood,3027
+Chilpancingo,Guerrero,wood,3006
+Chilapa,Guerrero,gas,3009
+Ozoluama,Estados del Atlántico,fish,6022
+Taxco,Estados del Atlántico,oil,3023
+Pachuca,Estados del Atlántico,grain,6009
+Tuxpan,Estados del Atlántico,fish,3026
+Tlaxcala,Estados del Atlántico,iron,3010
+Puebla,Estados del Atlántico,wood,3026
+Jalapa,Estados del Atlántico,gas,3022
+Orizaba,Estados del Atlántico,grain,3030
+Vera Cruz,Vera Cruz,coal,3045
+Xoliapan,Vera Cruz,coal,3032
+Tamazola,Oaxaca,grain,3031
+Tuxtepec,Oaxaca,grain,3008
+Oaxaca,Oaxaca,iron,3025
+Pinotepa del Estado,Oaxaca,coal,6060
+Hidalgo,Oaxaca,wood,6027
+Mogone,Oaxaca,coal,3014
+Tehuantepec,Oaxaca,coal,3000
+Juchitan,Oaxaca,iron,3027
+Carmen,Yucatán,iron,6050
+Chuncruz,Yucatán,gas,6090
+Yacaiche,Yucatán,wood,3008
+Baradero,Yucatán,grain,3030
+Tzucox,Yucatán,grain,3030
+Ticul,Yucatán,fish,3030
+Mérida,Yucatán,fish,3002
+Cancún,Yucatán,coal,3027
+Flores,Guatemala,coal,3034
+La Libertad,Guatemala,oil,6088
+Dolores,Guatemala,wood,6020
+Puerto Barrios,Guatemala,fish,3010
+Coban,Guatemala,coal,3048
+Santa Cruz del Quiche,Guatemala,iron,3032
+Solola,Guatemala,grain,3008
+Guatemala-City,Guatemala,grain,3032
+San Esteban,Honduras britannique,iron,3010
+Belize,Honduras britannique,iron,3010
+San Ignacio,Honduras britannique,grain,3027
+Punta Gorda,Honduras britannique,wood,3005
+San Salvador,Salvador,oil,3040
+Gracias,Honduras,iron,3025
+Yojoa,Honduras,wood,3029
+Choluteca,Honduras,fish,6010
+Comayagua,Honduras,coal,3040
+Tegucigalpa,Honduras,grain,3033
+La Ceiba,Honduras,iron,6030
+Paso Real,Honduras,grain,3025
+Juticalpa,Honduras,fish,3049
+Chinandega,Nicaragua,iron,3033
+Esteli,Nicaragua,gas,3030
+Metapa,Nicaragua,fish,6090
+Managua,Nicaragua,oil,3028
+Juigalpa,Nicaragua,grain,6054
+Blewfields,Nicaragua,fish,3026
+Yapaunla,Nicaragua,gas,3049
+Bilwi,Nicaragua,wood,3027
+Areunas,Costa Rica,fish,3023
+San Jose,Costa Rica,fish,3014
+Guácimo,Costa Rica,grain,3024
+Terraba,Costa Rica,wood,3009
+David,Panama,oil,3029
+San Felix,Panama,fish,6005
+Pesé,Panama,oil,3010
+Santiago,Panama,grain,3013
+Penonomé,Panama,grain,3014
+Panama,Panama,iron,3023
+Chepo,Panama,grain,6000
+Chepigana,Panama,wood,3010
+Cheongju,Corée du Sud,gas,2983
+Kailua-Kona,Hawaï,fish,3002
+Kahului,Hawaï,grain,3049
+Ho'olehua,Hawaï,fish,3033
+Honolulu,Hawaï,wood,3025
+Kapaa,Hawaï,fish,3010
+Victoria,Victoria,wood,6000
+Fort Rupert,Victoria,fish,3042
+Vancouver,Victoria,iron,3024
+Port Essington,Victoria,grain,3013
+Port Moody,Point Moody,wood,3006
+Hawkesbury Ville,Victoria,coal,3000
+Fort St. James,Victoria,iron,3022
+Fort Branch,Victoria,grain,3002
+Nasse,Victoria,fish,6026
+Jervis,Point Moody,iron,6030
+Setonville,Point Moody,coal,6009
+Clinton,Point Moody,coal,3044
+Lytton,Point Moody,gas,3027
+Fort Adams,Point Moody,grain,3031
+Kamloops,Point Moody,iron,3042
+Princton,Point Moody,grain,3012
+Siccamoose,Arrowhead,oil,3026
+Vernon,Arrowhead,iron,6028
+Penticton,Arrowhead,wood,3030
+Arrowhead,Arrowhead,grain,3030
+Naksup,Arrowhead,oil,3010
+Kaslo,Arrowhead,grain,3030
+Robson,Arrowhead,grain,6025
+Fort Steele,Arrowhead,iron,3001
+Fort McLeod,Fort Macleod,wood,3010
+Fort Fraser,Fort Macleod,grain,3010
+Prince George,Fort Macleod,wood,3010
+Fort Pine,Fort Macleod,coal,3020
+Fort Ida,Fort Macleod,iron,3028
+Aden,Vilayet du Yémen,fish,3030
+Fort St. John,Chillkat,wood,3034
+Fort Connelly,Chillkat,oil,3024
+Stewart,Chillkat,coal,3010
+Chillkat,Chillkat,iron,6069
+Glenora,Chillkat,iron,3031
+Dease Lake,Chillkat,grain,6010
+Rapids,Chillkat,wood,3010
+Fort Nelson,Chillkat,coal,3030
+Fitzgerald,Fort Chipewyan,wood,3005
+Birch Mountains,Fort Chipewyan,coal,3003
+Fort Chipewyan,Fort Chipewyan,grain,6070
+Fort Lond du Lac,Beaver,grain,3041
+Great Black,Beaver,grain,6050
+Valera,Venezuela de l'ouest,iron,3048
+Reindeer Mining,Fort Chipewyan,grain,3029
+Little Red River Fort,Fort Chipewyan,iron,3030
+Forest Village,Fort Chipewyan,wood,3010
+Fort Vermilion,Athabasca Landing,grain,3010
+Dirt Village,Athabasca Landing,gas,3001
+Dunvegan,Athabasca Landing,iron,6013
+Jasper,Athabasca Landing,wood,6009
+Lesser Slave,Athabasca Landing,iron,3046
+Athabasca Landing,Athabasca Landing,oil,3044
+Fort Assiniboine,Athabasca Landing,oil,3030
+Smoky Lake,Athabasca Landing,grain,3001
+Banff,Edmonton,grain,3040
+Porcupineton,Edmonton,oil,3022
+Fort MacLeod,Edmonton,iron,3042
+Calgary,Edmonton,grain,3030
+Edmonton,Edmonton,wood,6041
+Sullivanton,Edmonton,gas,3010
+Lethbridge,Edmonton,wood,3001
+Medicine Hat,Edmonton,grain,6010
+Hardisty,Beaver,grain,3045
+Black Lake Village,Beaver,iron,6052
+R. C. Mission,Beaver,wood,3008
+Reindeer,Beaver,fish,3004
+Hatcheton,Beaver,gas,3028
+Beaver,Beaver,coal,3000
+Fort La Crosse,Saskatoon,gas,3023
+Churchill River Camp,Saskatoon,wood,3000
+Saskatoon,Saskatoon,iron,3010
+Battleford,Saskatoon,coal,3049
+Eagle Hills Mining,Saskatoon,grain,3010
+Cypress Hat,Saskatoon,grain,6048
+Prince Albert,Regina,coal,3043
+Cumberland House,Regina,oil,6069
+Humboldt,Regina,gas,3004
+Kamsack,Regina,iron,3030
+Broad View,Regina,grain,3030
+Qu Appelle Fort,Regina,iron,3010
+Regina,Regina,grain,3030
+Fort Walsh,Regina,wood,6065
+Winnipeg,Winnipeg,grain,3010
+Littleton,Winnipeg,coal,3000
+Brandon,Winnipeg,iron,3007
+Swan River,Winnipeg,iron,3032
+Shoal House,Winnipeg,wood,6086
+Gladstone,Winnipeg,iron,3030
+Beerens Fort,Winnipeg,fish,6089
+Fairford House,Winnipeg,grain,3025
+Norway House,Rossville,gas,3030
+Pas,Rossville,iron,3020
+Lac Brochet,Rossville,grain,3001
+Tatowaycho,Rossville,iron,3047
+Split Fort,Rossville,wood,3046
+God's House,Garden Hill,fish,3048
+Oxford House,Garden Hill,oil,3030
+Island Lake,Garden Hill,grain,3026
+Garden Hill,Garden Hill,iron,3032
+Fort York,Fort Churchill,fish,6065
+Shamattawa,Fort Churchill,grain,3010
+Whitefish,Fort Churchill,coal,3000
+Webequie,Fort Albany,iron,3033
+Fort Churchill,Fort Churchill,coal,6065
+Sealton,Fort Churchill,iron,3008
+Sayisi Dene,Fort Churchill,oil,3041
+Great Island,Fort Churchill,wood,3011
+Little Fish,Fort Churchill,grain,3010
+Fort Severen,Fort Severn,coal,3043
+Fawn Ville,Fort Severn,wood,3003
+Sachigo,Fort Severn,iron,3012
+Kitchenuhmaykoosib,Fort Severn,grain,3047
+Echoing,Fort Severn,grain,3043
+Winisk,Fort Albany,grain,3025
+Attawapiskat,Fort Albany,wood,3030
+Mining Outpost,Fort Albany,gas,6046
+Kasabonika,Fort Albany,iron,3005
+Ogoki,Fort Albany,grain,3041
+Chapleau,Algoma,fish,3029
+Fort Albany,Fort Albany,coal,6001
+Fort Relief,Fort Albany,fish,3030
+Muskrat Dam,Port Arthur,wood,3010
+Big Beaver House,Port Arthur,gas,6032
+Osnaburgh House,Port Arthur,grain,3041
+Weagamow,Port Arthur,coal,6064
+Slate Falls,Port Arthur,wood,3002
+Nipigon,Port Arthur,grain,3047
+Port Arthur,Port Arthur,wood,3010
+Lac des Mille Lacs,Port Arthur,iron,3030
+Opasquia Ville,Kenora,wood,3028
+Sandy Lake,Kenora,iron,3005
+Kenora Frontier,Kenora,wood,6070
+Three Corners,Kenora,coal,3014
+Superior,Kenora,gas,6081
+Kenora,Kenora,grain,3033
+Atikokan,Kenora,grain,3045
+Sioux Lookout,Kenora,iron,3030
+Schreiber,Heron Bay,fish,3047
+Heron Bay,Heron Bay,fish,3030
+Hobin,Heron Bay,wood,3009
+Hearst,Heron Bay,wood,6010
+MacPherson,Algoma,iron,3004
+Long Lake,Heron Bay,coal,3030
+Armstrong Station,Heron Bay,iron,6048
+Ombabika,Heron Bay,grain,3046
+Fort Missinaibi,Heron Bay,grain,3001
+Saulte Ste. Marie,Algoma,fish,3030
+Algoma,Algoma,wood,3044
+Biskotasing,Algoma,coal,6094
+Cochrane,Algoma,grain,3043
+Moosonee,Algoma,fish,3043
+Webbwood,Toronto,grain,3012
+Parry Sound,Toronto,iron,6027
+Midland,Toronto,fish,3000
+Peterborough,Toronto,wood,3010
+Toronto,Toronto,coal,3028
+Stratford,Toronto,grain,3029
+Chatham,Toronto,oil,6070
+Brantford,Toronto,fish,3040
+Haileybury,Ottawa,grain,3005
+Sudbury,Ottawa,iron,3034
+North Bay,Ottawa,wood,3042
+Deens,Ottawa,oil,6011
+Pembroke,Ottawa,wood,3030
+Canoe Lake,Ottawa,iron,3009
+Ottawa,Ottawa,coal,6041
+Kingston,Ottawa,grain,3049
+Farnham,Sherbrooke,wood,3032
+Sherbrooke,Sherbrooke,iron,3027
+Victoriaville,Sherbrooke,grain,3030
+Montreal,Montréal,coal,3004
+Three Rivers,Montréal,grain,3030
+Mont Laurier,Montréal,oil,3049
+Maniwakie,Montréal,wood,3008
+Dumoine River,Montréal,grain,3010
+Kipawa,Montréal,coal,3014
+Kakabonga Lake,Montréal,wood,6033
+Fort Clear Lake,Montréal,iron,6051
+Québec,Québec,fish,6012
+Chicoutimi,Québec,iron,3025
+Roberval,Québec,grain,3011
+Fitzpatrick,Québec,gas,3044
+Tarrien,Québec,wood,3025
+Amos,Québec,iron,6090
+Doucet,Québec,coal,3014
+Doda Lake,Québec,grain,3010
+Beatriceville,Sherbrooke,fish,3002
+Holliday,Sherbrooke,fish,3042
+Rimouski,Nouveau-Brunswick,iron,3002
+Matane,Nouveau-Brunswick,iron,3003
+Gaspé,Gaspé,fish,3013
+Edmondston,Nouveau-Brunswick,coal,3011
+Campbellton,Nouveau-Brunswick,fish,3024
+Tracadie-Sheila,Nouveau-Brunswick,iron,3023
+Perth-Andover,Nouveau-Brunswick,coal,6024
+Richibucto,Nouveau-Brunswick,wood,6014
+Woodstock,Nouveau-Brunswick,grain,3003
+Fredericton,Nouveau-Brunswick,grain,3034
+Moncton,Nouveau-Brunswick,fish,3021
+Charlottetown,Île-du-Prince-Édouard,fish,3028
+Yarmouth,Nouvelle-Écosse,iron,3020
+Annapolis,Nouvelle-Écosse,grain,3043
+New Germany,Nouvelle-Écosse,fish,6086
+Halifax,Nouvelle-Écosse,fish,3010
+Amherst,Nouvelle-Écosse,grain,3023
+New Glasgow,Nouvelle-Écosse,iron,6070
+Port Mulgrave,Nouvelle-Écosse,coal,3011
+Baddeck,Nouvelle-Écosse,wood,3008
+Robinson's,Terre-Neuve,grain,3030
+Humbermouth,Terre-Neuve,fish,3009
+Castor's Harbor,Terre-Neuve,iron,3032
+Millertown,Terre-Neuve,coal,3030
+Catalina Harbor,Terre-Neuve,grain,3010
+Portland Point,Portland Point,fish,6014
+Burgeo,Terre-Neuve,fish,6090
+Fortune,Terre-Neuve,coal,6047
+St. Johns,Terre-Neuve,wood,3010
+Fort George,Fort George,fish,3008
+Rupert House,Fort George,fish,3011
+Broken Paddle,Fort George,wood,3027
+Popiskagami,Fort George,grain,3043
+Kingwa,Portland Point,fish,3002
+Minto Lake,Portland Point,coal,3030
+Stillwater,Portland Point,grain,6030
+Upper Seal Lake,Portland Point,grain,3030
+Nitchequon,Portland Point,iron,3021
+Baie-James,Portland Point,wood,3021
+White Winter Lake,Portland Point,coal,3010
+Erik Cove,Fort Chimo,iron,3011
+Douglas Harbor,Fort Chimo,wood,6066
+Payne Lake,Fort Chimo,iron,3006
+Tuvalik,Fort Chimo,oil,6023
+Fort Chimo,Fort Chimo,fish,3021
+Big Otter Lake,Fort Chimo,grain,3033
+Great Long Lake,Fort Chimo,grain,3041
+Kaniapiskau Lake,Fort Chimo,coal,3032
+Killinek,Nain,iron,3012
+Nain,Nain,gas,3030
+Manuan,Nain,grain,3010
+Mishikamau Lake,Nain,wood,3034
+Hopedale,Nain,fish,3010
+Manutan Lake,Mingan,grain,3030
+Sept-Îles,Mingan,fish,3012
+Relais-Gabriel,Mingan,grain,3022
+Mingan,Mingan,wood,3030
+Klokol Lake,Fort Reliance,wood,3011
+Burnt Lake,Mingan,coal,3002
+Romaine,Mingan,iron,3040
+Mekattina,Mingan,fish,6051
+Point Charles,Mingan,gas,6086
+Amadjuak,Baffin,fish,6068
+Pangnirtung,Baffin,coal,3028
+Iglungayut,Baffin,coal,3034
+Clyde River,Baffin,fish,3006
+Lake Harbour,Baffin,iron,3010
+Arctic Bay,Baffin,grain,6090
+Kivitoo,Baffin,oil,3046
+Whaling Inlet,Baffin,wood,3021
+Port Leopold,Somerset,fish,3033
+Igloolik,Fort Hope,wood,3023
+Fort Hope,Fort Hope,grain,3010
+Kugaaruk,Fort Hope,fish,3028
+Taloyoak,Fort Hope,fish,6029
+Chesterfield Inlet,Fort Hope,oil,3033
+Gjoa Inlet,Fort Hope,grain,3029
+Wilmot Harbor,Fort Hope,coal,3024
+Baker Lake,Fort Hope,iron,6010
+Cambridge Bay,Îles Victoria,grain,3010
+Holman,Îles Victoria,coal,3032
+Whale Cove,Eskimo Point,fish,3034
+Eskimo Point,Eskimo Point,wood,3020
+Nueltin Lake,Eskimo Point,oil,6030
+Angikuni Lake,Eskimo Point,iron,3043
+Mackey Bluff,Eskimo Point,fish,3007
+Backs River,Eskimo Point,grain,3025
+Johnson Point,Eskimo Point,grain,3026
+Ennadai Lake,Eskimo Point,gas,6069
+Wholdaia Lake,Fort Reliance,grain,3032
+Artillery Lake,Fort Reliance,gas,6000
+Chamberlin River,Fort Reliance,grain,3000
+Lake Pelly,Fort Reliance,fish,6050
+Thelon River,Fort Reliance,coal,3009
+O'Reilly Point,Fort Reliance,oil,3030
+Melbourne Cove,Fort Reliance,iron,3006
+Make Point,Îles Victoria,grain,3010
+Scott Lake Village,Alberta du Nord,coal,6085
+Fort Reliance,Alberta du Nord,grain,3030
+Lake Mackay,Alberta du Nord,fish,6063
+Hay River,Alberta du Nord,wood,3012
+Birch Lake,Alberta du Nord,fish,3001
+Fort Rae,Alberta du Nord,gas,3005
+Fort Providence,Alberta du Nord,grain,3011
+Dawsonecha Lake,Alberta du Nord,iron,3029
+Kent Point,Fort Enterprise,fish,3048
+Cape Barrow,Fort Enterprise,grain,6094
+Lake Paul,Fort Enterprise,oil,3010
+Contwoyto Lake,Fort Enterprise,wood,3031
+Coppermine,Fort Enterprise,grain,3005
+Fort Enterprise,Fort Enterprise,gas,3045
+Theres,Fort Enterprise,grain,3030
+Cape Krusenstern,Fort Enterprise,iron,6068
+Fort Confidence,Fort Confidence,iron,3029
+Davy Hill,Fort Confidence,fish,3023
+Paulatuk,Fort Confidence,fish,6023
+Hottaw Lake,Fort Confidence,wood,3030
+Timber Lake,Fort Confidence,coal,3001
+Point Lake,Fort Confidence,coal,3020
+Cape Lyon,Fort Confidence,grain,3044
+Salmon Bay,Aklavik,fish,3005
+Franklin Bay,Aklavik,iron,3030
+Fort Good Hope,Aklavik,grain,3040
+Red River,Aklavik,oil,6072
+Cape Bathurst,Aklavik,wood,6010
+Anderson River,Aklavik,grain,3027
+Tsiigehtchic,Aklavik,fish,3004
+Aklavik,Aklavik,fish,3003
+Deline,Fort Norman,fish,3010
+McVicar Bay,Fort Norman,fish,3044
+Lake la Matre,Fort Norman,gas,3041
+Fort Simpson,Fort Norman,wood,6064
+Fort Liard,Fort Norman,grain,3048
+Fort Wrigley,Fort Norman,grain,3049
+Fort Norman,Fort Norman,coal,3022
+Rocky Mountains,Fort Norman,iron,6064
+Old Crow,Old Crow,oil,3000
+Shingle Point,Old Crow,grain,3031
+Rampart House,Old Crow,iron,3010
+Lapierre House,Old Crow,wood,3010
+Mayo Lake,Dawson,iron,3041
+Dawson,Dawson,gas,3026
+Aishihik Village,Dawson,wood,6084
+Fort Selkirk,Dawson,iron,3020
+White Horse,Dawson,grain,3000
+Taungoo,Birmanie,iron,3032
+Selwyn Town,Dawson,iron,3003
+Fort Pelly,Dawson,grain,6012
+Fort Frances,Dawson,oil,3030
+Santa Marta,Colombie du nord,iron,3028
+Mompoz,Colombie du nord,oil,3023
+Cartagena de Indias,Colombie du nord,gas,3030
+Caceres,Colombie du nord,gas,3000
+Bucaramanga,Colombie du nord,grain,6045
+Medellín,Colombie du nord,grain,3000
+Popayan,Colombie du nord,fish,6033
+Ibaque,Colombie du nord,wood,3040
+Bogota,Bogota,iron,3033
+Tunya,Venezuela de l'ouest,wood,3030
+Arauca,Venezuela de l'ouest,gas,3043
+Pasto,Colombie centrale,iron,3023
+Putumayo,Colombie centrale,grain,3023
+Neiva,Colombie centrale,grain,6090
+Villa Vicencio,Colombie centrale,coal,3000
+Iraca,Colombie centrale,oil,3048
+Sabana,Colombie centrale,iron,3026
+Guaturiva,Colombie centrale,gas,6049
+Mituas,Colombie centrale,wood,3010
+Victorino,Caquetá,wood,3013
+Hipolito,Caquetá,gas,6023
+Mambuiro,Caquetá,wood,6060
+Villa Yapura,Caquetá,iron,3030
+El Dorado,Caquetá,coal,3030
+Guacamayo,Caquetá,grain,3033
+Arano,Caquetá,oil,3000
+Solano,Caquetá,grain,3005
+Coro,Venezuela de l'ouest,fish,3011
+Caracas,Bolívar,oil,6025
+San Fernando de Apure,Venezuela de l'ouest,grain,3010
+Casa Mato,Bolívar,coal,3030
+Puerto La Cruz,Bolívar,fish,3030
+Carúpano,Bolívar,grain,3027
+Atures,Amazone du Venezuela,oil,3021
+Cuneya Mining Camp,Amazone du Venezuela,coal,3024
+San Fernándo,Amazone du Venezuela,wood,6025
+Santa Maraguaca Outpost,Amazone du Venezuela,gas,3041
+Maroa,Amazone du Venezuela,coal,3041
+Esmeraldas,Amazone du Venezuela,iron,6070
+Santa Rosa,Amazone du Venezuela,grain,3030
+Rio Castamo,Amazone du Venezuela,grain,3023
+Achagna,Bolívar,oil,3040
+San Rafael,Bolívar,wood,3010
+San Vincente,Bolívar,iron,3026
+Caroni River,Bolívar,grain,6001
+Isla de Cabellas,Uruguay,grain,3025
+Cura,Bolívar,iron,6023
+Ciudad Bolivar,Bolívar,coal,3030
+Upata,Bolívar,fish,3024
+Guacipati,Bolívar,fish,3030
+Quinindé,Équateur occidental,oil,3025
+Ibarra,Équateur occidental,gas,6050
+Puertoviejo,Équateur occidental,fish,3011
+Quito,Équateur occidental,grain,3045
+Guayaquil,Équateur occidental,iron,6014
+Chimborazo,Équateur occidental,iron,3045
+Machala,Équateur occidental,wood,3008
+Rosario,Équateur occidental,grain,3045
+Archidona,Équateur de l'Orient,grain,3023
+Tarapoa,Équateur de l'Orient,coal,3030
+Sara-yacu,Équateur de l'Orient,iron,3010
+Pinches,Équateur de l'Orient,coal,3040
+Border Outpost,Équateur de l'Orient,wood,3009
+Auaparie,Guyane britannique,fish,6090
+Sowarti,Guyane britannique,grain,3009
+Georgetown,Guyane britannique,wood,3042
+Taiepong,Guyane britannique,iron,3007
+Aputerie,Guyane britannique,coal,6006
+Tenette,Guyane britannique,grain,3010
+Ayupa,Guyane britannique,oil,3026
+Red Cliff,Guyane britannique,coal,3012
+Burnside,Surinam,fish,3025
+Paramaribo,Surinam,fish,3030
+Tomatai,Surinam,coal,6087
+Parnassus,Surinam,wood,3030
+Pokigron,Surinam,grain,3026
+Point Rightabout,Surinam,grain,3010
+Magali,Surinam,iron,3030
+Yamaike,Surinam,gas,6090
+Sinnanmary,Guyane française,fish,3009
+Cayenne,Guyane française,grain,3005
+Cormontibo,Guyane française,wood,3030
+Yary Philemon,Guyane française,oil,3009
+Pililipou,Guyane française,gas,3030
+Piura,Pérou occidental,wood,3046
+Jaen,Pérou occidental,coal,3010
+Chiclayo,Pérou occidental,oil,6090
+Chachapoyas,Pérou occidental,grain,6023
+Trujíllo,Pérou occidental,fish,3001
+Huaras,Pérou occidental,iron,3010
+Huanuco,Pérou occidental,fish,3026
+Lima,Pérou occidental,coal,3000
+Cahuapanas,Loreto,oil,3030
+Moyobamba,Loreto,iron,3000
+Pachixa,Loreto,grain,6070
+Urarinas,Loreto,grain,3025
+Iquitos,Loreto,oil,3034
+Pebas,Loreto,wood,6021
+Peguas,Loreto,grain,3030
+Loreto,Loreto,coal,3028
+Pucallpa,Ucayali,oil,3048
+Alegro Mining Camp,Ucayali,iron,3008
+Paruitcha,Ucayali,iron,3030
+Ica,Pérou du sud,gas,6062
+Acan,Pérou du sud,wood,6041
+Arequipa,Pérou du sud,fish,3043
+Puno,Pérou du sud,grain,3009
+Abancay,Pérou du sud,coal,3024
+Ayacucho,Pérou du sud,iron,3040
+Vilcabamba,Pérou du sud,grain,3031
+Loboyacu,Pérou du sud,oil,3030
+Ethea,Beni,wood,3000
+Riveralta,Beni,wood,3031
+Ixiamas,Beni,coal,6046
+Apolo,Beni,wood,3010
+Trinidad,Beni,coal,3048
+Concépcion,Beni,gas,3046
+El Carmen,Beni,grain,6012
+Palmira,Beni,iron,3014
+San Miguel,Santa Cruz,gas,3004
+Santa Cruz,Santa Cruz,wood,3030
+Chiquitos,Santa Cruz,gas,3004
+Castello San Miguel,Santa Cruz,grain,3001
+Parapiti,Santa Cruz,iron,3030
+La Paz,Bolivie du sud,gas,3030
+Cochabamba,Bolivie du sud,wood,3047
+Oruro,Bolivie du sud,oil,3013
+Potosi,Bolivie du sud,grain,6048
+Sucre,Bolivie du sud,iron,6027
+Tarija,Bolivie du sud,grain,3049
+San Francísco,Bolivie du sud,coal,3005
+Vallegrande,Bolivie du sud,wood,3023
+Tacna,Tarapacá,fish,3010
+Tarapacá,Tarapacá,grain,3014
+Iquique,Tarapacá,iron,3041
+Cobija,Tarapacá,fish,3030
+Toconao,Metropolitana de Chile,coal,6033
+Taltal,Metropolitana de Chile,fish,3044
+Vallenar,Metropolitana de Chile,coal,3042
+Serena,Metropolitana de Chile,fish,3034
+Antofagasta,Metropolitana de Chile,wood,3049
+Copiap,Metropolitana de Chile,grain,3024
+Illapel,Metropolitana de Chile,grain,3025
+Santiago de Chile,Metropolitana de Chile,iron,6064
+Rancagua,Aisén,fish,3028
+La Concepcion,Aisén,coal,3025
+Temuco,Aisén,fish,3010
+Valdivia,Aisén,wood,3000
+Ville Corcovado,Aisén,gas,3004
+San Carlos,Aisén,iron,3025
+San Magdalena,Aisén,fish,3047
+San Valenon,Aisén,grain,6007
+Camp Fitzroy,Magallanes,grain,3046
+Staines Inlet,Magallanes,fish,3021
+Point Delgada,Magallanes,wood,3012
+Punta Arenas,Magallanes,oil,3041
+Cape Horn,Magallanes,iron,3010
+Tayasuyania,Paraguay,gas,3041
+Apatudia,Paraguay,iron,3010
+San Pédro,Paraguay,wood,3010
+La Concépcion,Paraguay,iron,3025
+San Estanislao,Paraguay,grain,6050
+Padang Sidempuan,Aceh,fish,3045
+Ybitiracay,Paraguay,grain,3030
+Asunción,Paraguay,oil,6027
+San Pedro de Bobi,Paraguay,gas,3009
+Cunapura,Uruguay,wood,6014
+Salto,Uruguay,coal,6050
+Indepedencia,Uruguay,wood,3010
+Colonia,Uruguay,iron,3045
+Nico Perez,Uruguay,oil,3030
+Montevideo,Uruguay,grain,3013
+Cerro Largo,Uruguay,fish,3026
+Rinconada,Chaco et Salta,grain,3009
+Nazareno,Chaco et Salta,grain,3040
+Jujuy,Chaco et Salta,wood,3026
+Meñiques,Chaco et Salta,coal,6030
+Mayor Alegre,Chaco et Salta,grain,6005
+Santa Barbara,Chaco et Salta,gas,3012
+Belle Ville,Chaco et Salta,gas,3026
+Formosa,Chaco et Salta,iron,3046
+Candelaria,Entrerlos y Corrientes,oil,3045
+Corrientes,Entrerlos y Corrientes,wood,3023
+Mercedes,Entrerlos y Corrientes,grain,3043
+Parana,Entrerlos y Corrientes,gas,3023
+Santa Fe,Santiago del Estero,coal,6090
+Elisa,Santiago del Estero,wood,3042
+Vera,Santiago del Estero,iron,6090
+Resistencia,Santiago del Estero,grain,3026
+Fort Arias,Santiago del Estero,iron,3014
+Miraflores,Santiago del Estero,grain,3021
+Macapilla,Santiago del Estero,grain,3007
+Santiago de Argentina,Santiago del Estero,gas,3042
+Santa Maria,Los Andes,iron,3030
+Fiamballa,Los Andes,oil,3011
+Rioja,Los Andes,grain,3010
+San Juan,Mendoza,oil,3048
+Mendoza,Mendoza,wood,3003
+Cordoba,Mendoza,wood,3046
+San Luis,Mendoza,coal,3007
+Buena Esperanza,Mendoza,wood,6010
+San Rafaél,Mendoza,grain,6005
+Victorica,Mendoza,gas,3026
+Chos Malal,Mendoza,iron,3003
+Pergamino,Buenos Aires,fish,3010
+General Pinto,Buenos Aires,iron,3030
+Trenque Lauquen,Buenos Aires,gas,3048
+Bahía Blanca,Buenos Aires,wood,3030
+Mercedés,Buenos Aires,coal,6050
+Tres Arroyos,Buenos Aires,grain,6030
+Maipu,Buenos Aires,iron,3013
+Buenos Aires,Buenos Aires,fish,3005
+Fort Viejo,Río Negro,wood,3048
+Neuquen,Río Negro,grain,3010
+Viedma,Río Negro,fish,3026
+Nahuel Nieu,Río Negro,fish,3030
+Puélo,Chubut,oil,3010
+Ichueguin,Chubut,coal,6066
+Puerto Pirámides,Chubut,wood,6050
+Rawson,Chubut,fish,3030
+Valle des las Plumas,Chubut,iron,3025
+Casa de Botello,Chubut,grain,3002
+Steincamp,Chubut,grain,3045
+La Pampa,Chubut,wood,3030
+Rivadavia,Santa Cruz,fish,3042
+La Vacuidad,Santa Cruz,iron,3030
+Mutum,Amazonas occidentales,coal,3001
+Cape Tres Puntas,Santa Cruz,oil,3048
+Ville Salado,Santa Cruz,grain,6010
+Santa Crúz,Santa Cruz,gas,3005
+Orrkaiken,Santa Cruz,grain,3041
+Gallegos,Santa Cruz,wood,3030
+Ushuaia,Santa Cruz,fish,6070
+Port Stanley,Malouines,fish,3030
+Port Acre,Acre,wood,3042
+Villa Feijo,Acre,oil,3007
+Boa-Fé,Acre,iron,3040
+Fonte del Rio Curene,Amazonas occidentales,wood,3029
+Saudades,Amazonas occidentales,wood,3040
+Pacoval,Amazonas occidentales,grain,3045
+Tabatinga,Amazonas occidentales,wood,3010
+Quica,Amazonas occidentales,iron,6029
+Jaffa,Levante,oil,3028
+Pederneira,Amazonas occidentales,grain,6050
+Rio Manghutery,Amazonas occidentales,gas,3003
+Jerusalem,Levante,iron,3030
+Balsamao,Amazonas centrales,iron,3028
+Canotoma,Amazonas centrales,wood,3010
+Rio Tapaua,Amazonas centrales,grain,3020
+Matura,Amazonas centrales,gas,6013
+Teffe,Amazonas centrales,grain,3005
+Taboca,Amazonas centrales,iron,3010
+January,Amazonas centrales,coal,6003
+Santa María,Amazonas centrales,grain,3030
+Marcellino,Amazonas du nord,gas,3041
+javarete,Amazonas du nord,wood,3008
+Uraricuera,Roraima,wood,3001
+Gerenaldo,Roraima,wood,3043
+Boa Vista,Roraima,grain,3010
+Rio Mapwerri,Roraima,wood,3010
+Porto Iatuman,Roraima,iron,3021
+Manos,Amazonas orientales,iron,3042
+Uracará,Amazonas orientales,iron,3034
+Parieatuba,Amazonas orientales,gas,6005
+Borba,Amazonas orientales,grain,3049
+Crato,Amazonas orientales,wood,3011
+Serra de Matamata,Amazonas orientales,grain,3011
+Remanso Grande,Amazonas orientales,coal,6090
+Tapajos Falls,Amazonas orientales,wood,3048
+Counani,Amapá,grain,3021
+Matauale,Amapá,iron,3027
+Macapá,Amapá,fish,6052
+Monte Dourado,Amapá,wood,3048
+Gurupa,Amapá,wood,3029
+Muana,Amapá,fish,3034
+Zurumata,Pará de l'ouest,coal,3030
+Asauri,Pará de l'ouest,oil,6005
+Obidos,Pará de l'ouest,iron,3010
+Porto Victoria,Pará de l'ouest,fish,6050
+Santa Julia,Pará de l'ouest,grain,3025
+Brazilia Legal,Pará de l'ouest,coal,3027
+Bacabal,Pará de l'ouest,wood,3028
+Tucumary,Pará de l'ouest,grain,3003
+Cameta,Pará de l'est,fish,3023
+Belém,Pará de l'est,fish,6030
+Uruhain,Pará de l'est,gas,6012
+Aldea,Pará de l'est,grain,3043
+Alcobaca,Pará de l'est,grain,3014
+Rio Fresco,Pará de l'est,coal,3028
+Yuruna Villa,Mato Grosso du nord,gas,3010
+San João do Aragwaya,Pará de l'est,iron,3022
+Imeratriz,Pará de l'est,wood,3000
+Fort San Antonio,Rondônia,wood,3014
+Fort do Principe da Beira,Rondônia,grain,3045
+Joaquim Antonio,Rondônia,coal,3002
+Vilhena,Rondônia,iron,3010
+Taguaralzinho,Mato Grosso occidental,wood,6001
+Vila Serra Moreha,Mato Grosso occidental,iron,3006
+Redenção,Mato Grosso occidental,grain,3020
+Pouso Alegre,Mato Grosso occidental,wood,3022
+Mato Grosso,Mato Grosso occidental,coal,3007
+Diamantino,Mato Grosso occidental,gas,6061
+Cuiabá,Mato Grosso occidental,iron,3006
+General Carneiro,Mato Grosso occidental,grain,3047
+Martius,Mato Grosso du nord,coal,3020
+Rio Alvar,Mato Grosso du nord,grain,3005
+Cachoeira dos Tres Ilhas,Mato Grosso du nord,wood,3033
+Santa Anna,Mato Grosso oriental,iron,3011
+Rio Tapirape,Mato Grosso oriental,grain,3030
+National,Mato Grosso oriental,iron,3007
+Rio Xingu,Mato Grosso oriental,iron,3030
+Peixe,Mato Grosso oriental,coal,6022
+Cavalcante,Mato Grosso oriental,gas,6052
+São Antonio,Mato Grosso oriental,grain,3023
+Rondonópolis,Mato Grosso oriental,wood,3010
+Alcantara,Maranhão,grain,6071
+San Luiz,Maranhão,fish,3004
+Caxias,Maranhão,wood,6001
+Leopoldina,Maranhão,grain,3032
+Palmeira,Maranhão,iron,3030
+Picos,Maranhão,gas,3010
+Parnagua,Maranhão,gas,3007
+Santa Philomena,Maranhão,grain,3030
+Parnahyba,Piauí,fish,3046
+Therezina,Piauí,grain,6022
+Marvao,Piauí,iron,3020
+Juramenha,Piauí,iron,3007
+Oeiras,Piauí,wood,3030
+Paulista,Piauí,coal,3030
+Fortaleza,Nordeste,wood,3011
+Quixeramobim,Nordeste,iron,3049
+Macau,Nordeste,wood,3021
+Natal,Nordeste,fish,3030
+Salguero,Nordeste,wood,3006
+Recife,Nordeste,fish,6026
+Maceió,Nordeste,grain,6089
+Aracaju,Nordeste,coal,3021
+Araguaína,Tocatins,wood,3004
+Santa Mária,Tocatins,iron,3026
+Limoeiro,Tocatins,iron,3029
+Bahia,Bahia,fish,3041
+Sahy,Bahia,grain,3011
+Marahú,Bahia,iron,3030
+Morro do Fogo,Bahia,wood,6007
+Barra,Bahia,gas,6090
+Carinhanha,Bahia,coal,3030
+Jardim,Bahia,coal,3047
+Duro,Bahia,grain,3000
+Mara Rosa,Goiás du nord,grain,3005
+Salgado,Goiás du nord,wood,3047
+Rubiataba,Goiás du nord,grain,3023
+Paracatu,Goiás du sud,wood,3040
+Goiás,Goiás du sud,coal,3010
+Impamery,Goiás du sud,oil,3010
+Morrinhos,Goiás du sud,grain,3028
+Rio Verde,Mato Grosso do Sul,oil,3012
+Santa Cruz Cabrália,Rio de Janeiro,wood,3030
+Pointo de Santa Anna,Mato Grosso do Sul,grain,3010
+Jupia,Mato Grosso do Sul,grain,6086
+Ivinheima,Mato Grosso do Sul,coal,3000
+Campo Grande,Mato Grosso do Sul,iron,3010
+Miranda,Mato Grosso do Sul,wood,3002
+Anhumas,Mato Grosso do Sul,iron,6000
+Corumba,Mato Grosso do Sul,oil,3006
+Caravellas,Minas Gerais du nord,fish,3010
+São Matheus,Minas Gerais du nord,grain,3048
+Figueira,Minas Gerais du nord,oil,3010
+Diamantina,Minas Gerais du nord,gas,3030
+Minas Novas,Minas Gerais du nord,iron,6010
+Estrema,Minas Gerais du nord,grain,3000
+Januaria,Minas Gerais du nord,wood,6050
+San Sebastiao,Minas Gerais du nord,coal,3022
+Vitória,Rio de Janeiro,grain,3007
+Rio de Janeiro,Rio de Janeiro,iron,3000
+Belo Horizonte,Rio de Janeiro,grain,3010
+Paraopeba,Rio de Janeiro,iron,3008
+Patrocínio,Rio de Janeiro,coal,6026
+Uberaba,Rio de Janeiro,wood,6024
+Dores do Indaia,Rio de Janeiro,gas,3008
+Ubatuba,São Paolo,fish,3012
+São Paulo,São Paolo,grain,3030
+Campanha,São Paolo,wood,6087
+São Simão,São Paolo,gas,3041
+Franca,São Paolo,oil,3010
+Corregos,São Paolo,grain,3010
+Avanhadandava,São Paolo,coal,6050
+Taciba,São Paolo,iron,3043
+Villa Iguapé,Paraná,grain,3048
+Jaguariahyba,Paraná,oil,3005
+Vila Rica,Paraná,coal,3028
+Porta da União,Paraná,iron,3003
+Curitiba,Paraná,coal,6090
+Paranaguá,Paraná,wood,3002
+Encruzilhada,Rio Grande do Sul,fish,3032
+Florianópolis,Rio Grande do Sul,fish,6070
+Campos Novos,Rio Grande do Sul,iron,3045
+São Miguel,Rio Grande do Sul,coal,3001
+Porto Alegre,Rio Grande do Sul,wood,3004
+São Gabriel,Rio Grande do Sul,coal,3021
+Rio Grande,Rio Grande do Sul,fish,3047
+Alegrete,Rio Grande do Sul,grain,3027
+Nagano,Honshu du nord,coal,3047
+Miyako,Honshu du nord,coal,3004
+Kyoto,Honshu du sud,iron,3043
+Okayama,Honshu du sud,iron,3004
+Hiroshima,Honshu du sud,gas,3022
+Wakkanai,Hokkaido,grain,3041
+Kushiro,Hokkaido,grain,3022
+Fukuyama,Hokkaido,wood,3029
+Sorachi,Hokkaido,gas,3010
+Nayoro,Hokkaido,fish,3045
+Urakawa,Hokkaido,iron,3010
+Sapporo,Hokkaido,fish,6070
+Obihiro,Hokkaido,oil,6050
+Tokyo,Honshu du nord,iron,3030
+Sendai,Honshu du nord,grain,6050
+Akita,Honshu du nord,fish,3027
+Niigita,Honshu du nord,wood,6050
+Kanazawa,Honshu du nord,fish,3033
+Hamamatsu,Honshu du nord,fish,3010
+Kota Radja,Aceh,grain,3006
+Kharifot,Oman,gas,6070
+Sana'a,Vilayet du Yémen,gas,3032
+Bir Meloza,Al-Rashīd du nord,oil,3005
+El Hamed,Al-Rashīd du nord,wood,3030
+Dhaya,Al-Rashīd du nord,grain,3000
+El Udian,Al-Rashīd du nord,grain,3033
+Wadi Khar,Al-Rashīd du nord,coal,3010
+Etseri,Al-Rashīd de l'ouest,iron,3010
+El Fih,Al-Rashīd de l'ouest,grain,3003
+Dar el Haj,Al-Rashīd de l'ouest,oil,3049
+Teima,Al-Rashīd de l'ouest,oil,3030
+El Ala,Al-Rashīd de l'ouest,wood,3034
+Henakiya,Al-Rashīd du sud-ouest,grain,3046
+El Hayath,Al-Rashīd du sud-ouest,gas,3040
+El Mueh,Hedjaz du sud,iron,3029
+Khurma,Hedjaz du sud,grain,6021
+Taraba,Hedjaz du sud,wood,3005
+Hefa,Al-Rashīd du sud-ouest,iron,3012
+Skaka,Al-Rashīd central,gas,3030
+Felk Alem,Al-Rashīd central,grain,3010
+Jemeina,Al-Rashīd central,iron,6010
+Haman,Al-Rashīd central,coal,3030
+El Asak,Al-Rashīd central,oil,3010
+Bir Wubra,Al-Rashīd central,grain,3027
+Hail,Al-Rashīd central,wood,3002
+Haiyannieh,Al-Rashīd central,grain,6090
+Kuweit City,Al-Rashīd central,fish,3005
+Legait,Al-Rashīd central,iron,3013
+Wadi Ghreneim,Al-Rashīd du sud,wood,3046
+Aneysa,Al-Rashīd du sud,coal,3026
+El Katif,Al-Hassa,oil,3025
+Sobrom,Al-Rashīd du sud,grain,3028
+Riyadh,Al-Rashīd du sud,grain,6009
+Dohah,Al-Rashīd du sud,fish,3005
+Mishrif,Al-Rashīd du sud,grain,3030
+Laila,Al-Rashīd du sud,iron,3004
+El Hauta,Al-Rashīd du sud,wood,3045
+Hofuf,Al-Hassa,fish,3011
+El Katan,Côte des Pirates,fish,3012
+Sharja,Côte des Pirates,iron,3003
+Shugra,Hadramaout,grain,6074
+Ikra,Hadramaout,oil,3032
+Al Mukalla,Hadramaout,fish,6046
+Darfut,Hadramaout,iron,3047
+Herut,Hadramaout,iron,3030
+Rumah,Hadramaout,gas,3046
+Tarim,Hadramaout,wood,3030
+Nisab,Hadramaout,oil,3004
+Mirbat,Oman,coal,3030
+Jazir,Oman,wood,3013
+Masirah,Oman,wood,3024
+El Ashkara,Oman,coal,3026
+Wadi Halfein,Oman,iron,3041
+Muscat,Oman,grain,6066
+El Khaburah,Oman,fish,3010
+Ardah,Grand désert de sable,coal,3041
+Al Obailah,Grand désert de sable,coal,3031
+Ash Shalfa,Grand désert de sable,grain,3009
+Al Kharkhir,Grand désert de sable,grain,6032
+Wadi Aldwasir,Grand désert de sable,gas,3009
+Sharorah,Grand désert de sable,iron,3028
+Rayda,Grand désert de sable,wood,3010
+Medan,Aceh,wood,3041
+Gunungsitoli,Aceh,fish,3005
+Pangal Pinang,Palembang,grain,3044
+Tanjungkarang-Telukbetung,Palembang,iron,3020
+Bengkulu,Palembang,wood,3001
+Palembang,Palembang,fish,6024
+Padang,Palembang,grain,3006
+Penarik,Palembang,wood,6028
+Tembilahan,Palembang,oil,3010
+Jambi,Palembang,fish,3002
+Malakka,Singapour,iron,3030
+Singapore,Singapour,grain,3027
+Batam,Singapour,iron,3010
+Chumphon,Malais,grain,3034
+Phuket,Malais,fish,6028
+Khok Sa-Met Choon,Malais,wood,3005
+Kuantan,Malais,iron,3049
+Kuala Lumpur,Malais,grain,3007
+Taiping,Malais,fish,3020
+Dungun,Malais,coal,6027
+Batu Gajah,Malais,coal,3025
+Chiang Mai,Siam,wood,6092
+Prachuap Khiri Khan,Siam,iron,3046
+Bangkok,Siam,fish,3032
+Sukhothai,Siam,coal,3002
+Phitsanulok,Siam,wood,3004
+Nong Khai,Siam,gas,3001
+Khorat,Siam,coal,3004
+Nakhon Sawan,Siam,grain,6050
+Piotrokov,Pologne,wood,3010
+Plock,Pologne,iron,6023
+Kielce,Pologne,coal,3021
+Warsaw,Pologne,oil,3010
+Lublin,Pologne,wood,3004
+Zamosc,Pologne,grain,3043
+Ostrów Mazowiecka,Pologne,iron,3010
+Suwalka,Pologne,grain,6085
+Grodno,Grodno et Volhynie,coal,3021
+Bialystoko,Grodno et Volhynie,wood,3041
+Brest Eilowski,Grodno et Volhynie,coal,3001
+Kovel,Grodno et Volhynie,wood,6028
+Dubno,Grodno et Volhynie,gas,3010
+Bovno,Grodno et Volhynie,grain,3010
+Ovrustsh,Grodno et Volhynie,iron,3020
+Berditchew,Grodno et Volhynie,oil,3023
+Libau,Vilnius,wood,3023
+Mitau,Vilnius,grain,3006
+Rossieny,Vilnius,gas,6042
+Kovno,Vilnius,iron,3021
+Novo Alexandrowsk,Vilnius,iron,3010
+Vilnius,Vilnius,grain,3013
+Sventziany,Vilnius,coal,6050
+Disna Polotsk,Vilnius,iron,3048
+Riga,Livonia et Estonie,iron,3005
+Wenden,Livonia et Estonie,grain,3002
+Narva,St. Petersbourg,fish,3014
+Wall,Livonia et Estonie,fish,6086
+Dorpat,Livonia et Estonie,wood,3007
+Wesenberg,Livonia et Estonie,fish,3043
+Reval,Livonia et Estonie,fish,3027
+Pernau,Livonia et Estonie,fish,3000
+St. Petersburg,St. Petersbourg,fish,3006
+Duga,St. Petersbourg,grain,6021
+Pskov,St. Petersbourg,iron,3030
+Porkhov,St. Petersbourg,gas,3008
+Drissa,St. Petersbourg,wood,3000
+Vitebsk,St. Petersbourg,coal,3023
+Dünaburg,St. Petersbourg,wood,6030
+Minsk,Minsk,coal,3022
+Slonim,Minsk,oil,6050
+Pinsk,Minsk,iron,6061
+Mazyr,Minsk,grain,3004
+Gomet,Minsk,fish,3030
+Bobrgisk,Minsk,grain,3030
+Borisov,Minsk,wood,3045
+Tgumen,Minsk,coal,3004
+Sienno,Mogilev,gas,3011
+Mogilev,Mogilev,grain,3013
+Tcherikov,Mogilev,wood,3040
+Rogatchiev,Mogilev,oil,3006
+Terjoki,Vyborg,fish,6030
+Vuoksen,Vyborg,iron,3048
+Viipuri,Vyborg,wood,3025
+Hamina,Vyborg,wood,6010
+Kouvola,Vyborg,fish,3013
+Lappeenranta,Vyborg,grain,3023
+Saimona,Vyborg,coal,3004
+Käkisalmi,Vyborg,grain,3010
+Loviisa,Uusimaa,oil,6050
+Porvoo,Uusimaa,grain,3024
+Helsinki,Uusimaa,fish,6069
+Turku,Uusimaa,wood,3010
+Tampere,Uusimaa,iron,3040
+Uusikaupunki,Uusimaa,coal,3031
+Biornebo,Uusimaa,fish,3010
+Järvi,Uusimaa,grain,3000
+Kasko,Vaasa,grain,3043
+Vaasa,Vaasa,iron,3003
+Alavus,Vaasa,coal,6071
+Ähtäri,Vaasa,iron,3030
+Suolahti,Vaasa,grain,3005
+Kajaani,Vaasa,gas,3010
+Kokkola,Vaasa,wood,6007
+Pihtipudas,Vaasa,wood,3041
+Lahti,Mikkeli,grain,3030
+Pieksamäki,Mikkeli,fish,3031
+Heinola,Mikkeli,wood,3008
+Mikkeli,Mikkeli,fish,3020
+Jacoinen,Kuopio,gas,6006
+Kuopio,Kuopio,grain,3010
+Kaavi,Kuopio,coal,6026
+Höytiainen,Kuopio,grain,3009
+Hukkala,Kuopio,grain,3011
+Tohmajärvi,Kuopio,wood,3003
+Savonlinna,Kuopio,grain,3000
+Liperti,Kuopio,iron,3046
+Raahe,Oulu du sud,oil,6064
+Kankari,Oulu du sud,fish,3003
+Hyrynsalmi,Oulu du sud,grain,3030
+Kumho,Oulu du sud,grain,3030
+Hossa,Oulu du sud,iron,3009
+Kuusamo,Oulu du sud,wood,6027
+Oulu,Oulu du sud,fish,3010
+Pudasjärvi,Oulu du sud,fish,3028
+Nadvoitsk,Carélie,fish,6030
+Kemi,Oulu du nord,coal,3043
+Rauna,Oulu du nord,iron,6050
+Kuoljärvi,Oulu du nord,gas,3010
+Pelkosenniemi,Oulu du nord,grain,6010
+Rovaniemi,Oulu du nord,grain,3007
+Enontekis,Oulu du nord,iron,3043
+Enare,Oulu du nord,grain,3010
+Kittilä,Oulu du nord,wood,3000
+Kem,Carélie,oil,3010
+Ondozero,Carélie,coal,3010
+Yushkozersk,Carélie,wood,3025
+Tikchozero,Carélie,grain,3011
+Lagovaratsk,Carélie,iron,3010
+Kandalaksha,Carélie,wood,3010
+Yokostrov,Kola,iron,6012
+Notzersk,Kola,grain,3010
+Kola,Kola,gas,6062
+Voroninsk,Kola,grain,3007
+Olenitsa,Kola,coal,3043
+Livavorzersk,Kola,fish,3030
+Kamensk,Kola,fish,3046
+Ponoi,Kola,wood,3024
+Lettichev,Podolie et Bessarabie,wood,3048
+Odessa,Kiev,fish,6010
+Mohilev,Podolie et Bessarabie,iron,3010
+Shulany,Podolie et Bessarabie,grain,3006
+Balta,Podolie et Bessarabie,oil,6051
+Kishenev,Podolie et Bessarabie,coal,6032
+Tiraspol,Podolie et Bessarabie,fish,3002
+Akerman,Podolie et Bessarabie,fish,3001
+Kiliya,Podolie et Bessarabie,grain,3030
+Ananiev,Kiev,iron,3023
+Nikolaiev,Kiev,grain,3006
+Bobrinetz,Kiev,gas,3008
+Olviopol,Kiev,iron,3031
+Elizabetgrad,Kiev,gas,3028
+Uman,Kiev,gas,3030
+Kiev,Kiev,wood,5903
+Ekaterinoslav,Tauride,coal,3032
+Berdiansk,Tauride,wood,3030
+Perekop,Tauride,grain,3030
+Kertch,Tauride,fish,3000
+Sevastopol,Tauride,fish,3045
+Battambang,Cambodge,fish,3006
+Phnom Penh,Cambodge,grain,3044
+Stung Treng,Cambodge,oil,3006
+Mergui,Birmanie,grain,6026
+Thaton,Birmanie,wood,3007
+Rangoon,Birmanie,fish,3023
+Kengtung,Birmanie,wood,3027
+Pyay,Birmanie,gas,3046
+Sittwe,Birmanie,oil,3011
+Meiktila,Birmanie,coal,6068
+Monywa,Mandalay,grain,3022
+Mandalay,Mandalay,iron,3011
+Kanbalu,Mandalay,wood,3030
+Myitkyina,Mandalay,iron,3003
+Chittagong,Assam,fish,3029
+Dhaka,Assam,oil,3022
+Tinsukia,Assam,wood,3007
+Shillong,Assam,grain,6001
+Khulna,Assam,oil,3010
+Jessore,Assam,coal,3010
+Dinajpur,Assam,coal,3020
+Alipurduar,Assam,iron,6024
+Punakha,Bhoutan et Sikkim,wood,3030
+Mongar,Bhoutan et Sikkim,gas,3025
+Biratnagar,Népal,grain,3003
+Kathmandu,Népal,coal,3030
+Bhimdatta,Népal,wood,3043
+Dipayal Silgadhi,Népal,coal,6010
+Ghorahi,Népal,iron,3026
+Manma,Népal,coal,3033
+Bharatpur,Népal,grain,3046
+Butwal,Népal,wood,6066
+Ma'an,Levante,oil,3033
+Haifa,Levante,fish,6042
+Beirût,Levante,fish,3048
+Damascus,Levante,grain,3024
+Hama,Levante,grain,3004
+Isrie,Levante,wood,6071
+Nicosia,Chypre,coal,3007
+Gallipoli,Constantinople,fish,3024
+Adrianople,Constantinople,wood,3010
+Constantinople,Constantinople,coal,3007
+Üsküdar,Kastamonu,fish,3030
+Torbali,Kastamonu,wood,3040
+Erekli,Kastamonu,fish,3001
+Kiangri,Kastamonu,grain,3021
+Zafaranboli,Kastamonu,grain,6011
+Kastamuni,Kastamonu,grain,3030
+Tusia,Kastamonu,iron,6027
+Sinope,Kastamonu,coal,3042
+Eskişehir,Hüdavendigâr Eyalet,grain,3027
+Kutahya,Hüdavendigâr Eyalet,gas,3010
+Afyonkarahisar,Hüdavendigâr Eyalet,wood,3030
+Gedis,Hüdavendigâr Eyalet,wood,6052
+Bursa,Hüdavendigâr Eyalet,fish,3030
+Panderma,Hüdavendigâr Eyalet,iron,6001
+Edremid,Hüdavendigâr Eyalet,grain,3010
+Bigha,Hüdavendigâr Eyalet,fish,3007
+Smyrna,Aydın,coal,3041
+Alasher,Aydın,grain,3002
+Aidin,Aydın,oil,3027
+Denizli,Aydın,iron,3046
+Mughla,Aydın,wood,3030
+Kash,Konya,gas,3044
+Isbarta,Konya,grain,3041
+Adalia,Konya,oil,3020
+Aksher,Konya,grain,3024
+Konya,Konya,wood,3010
+Karanian,Konya,grain,3030
+Aksaray,Konya,iron,6087
+Nigde,Konya,coal,6066
+Osmanjik,Sivas,iron,3047
+Beibazar,Angora,wood,3044
+Chakmak,Angora,iron,3010
+Angora,Angora,oil,3009
+Karabunar,Angora,grain,6013
+Aladja,Angora,gas,6030
+Yozgat,Angora,iron,3030
+Kara Maghara,Angora,coal,3002
+Kaisarieh,Angora,iron,3007
+Muslim,Sivas,oil,3034
+Tokat,Sivas,coal,3009
+Sivas,Sivas,wood,3001
+Karahissar,Sivas,grain,3009
+Divirigi,Sivas,grain,3030
+Sharkisla,Sivas,grain,6050
+Derendeh,Sivas,oil,3010
+Samsun,Sivas,gas,3010
+Kereson,Sivas,fish,3020
+Tireboli,Sivas,oil,3007
+Trebizond,Erzurum,iron,6050
+Gemush Khana,Erzurum,wood,3043
+Rize,Erzurum,grain,3006
+Erzincan,Erzurum,wood,3040
+Baiburt,Erzurum,iron,3006
+Metikhan,Erzurum,grain,3030
+Kiskha,Caucase de l'Ouest,coal,6030
+Erzurum,Caucase de l'Ouest,iron,3042
+Azar,Caucase de l'Ouest,grain,3010
+Zeidikan,Caucase de l'Ouest,gas,6091
+Kara Kilissa,Erzurum,wood,3049
+Khozat,Mamouret-ul-Aziz,wood,3040
+Malatia,Mamouret-ul-Aziz,oil,3042
+Mezereh,Mamouret-ul-Aziz,grain,3041
+Adiaman,Mamouret-ul-Aziz,wood,3013
+Ermenek,Adana,coal,3008
+Selefkeh,Adana,grain,3048
+Adana,Adana,iron,3004
+Kusalli,Adana,fish,3047
+Sis,Adana,coal,3005
+Albistan,Haleb,grain,3028
+Marash,Haleb,wood,3030
+Urfah,Haleb,grain,6003
+Kalat en Nejim,Haleb,iron,6050
+Killis,Haleb,wood,3010
+Aleppo,Haleb,iron,3030
+Resafe,Haleb,gas,3045
+Sinjar,Haleb,gas,3010
+Koshmat,Diyarbakır,wood,3000
+Diyarbekir,Diyarbakır,coal,3030
+Killes,Diyarbakır,grain,3011
+Nisibin,Diyarbakır,oil,3010
+Van,Van,gas,3005
+Diza,Van,wood,6050
+Ashita,Van,grain,3025
+Sakh,Van,grain,3005
+Sairt,Van,iron,3008
+Mush,Van,wood,3010
+Melasgird,Van,coal,6001
+Baskan,Van,coal,3044
+Tell el Hamza,Mosoul,coal,3030
+El Hadr,Mosoul,grain,6010
+Mosul,Mosoul,iron,3010
+Rowanduz,Mosoul,wood,3003
+Suleimania,Mosoul,coal,6091
+Erbil,Mosoul,iron,3049
+Bisereria,Mosoul,iron,3002
+Kirkuk,Mosoul,coal,3024
+Anah,Bagdad,iron,3010
+Hit,Bagdad,coal,6089
+Samarra,Bagdad,iron,3031
+Bakuba,Bagdad,coal,3025
+El Wegh,Hedjaz du nord,fish,3005
+Kerbela,Bagdad,iron,3030
+Baghdad,Bagdad,wood,3000
+Hilla,Bagdad,grain,6092
+Basra,Bagdad,fish,3008
+Ras-el Ain,Zor Sanjak,grain,3004
+Bisareh,Zor Sanjak,iron,3029
+Jub-es Shegir,Zor Sanjak,gas,6041
+Ard-el Marube,Zor Sanjak,coal,6049
+Abu Kemal,Zor Sanjak,iron,3047
+Deir Ez-Zor,Zor Sanjak,iron,3025
+Tadmur,Zor Sanjak,grain,3008
+Halebi,Zor Sanjak,wood,3010
+El Hakl,Hedjaz du nord,gas,3030
+Dhaba,Hedjaz du nord,oil,3040
+Anas,Hedjaz du nord,iron,3009
+Al Marameh,Hedjaz du nord,wood,3030
+Akra,Hedjaz du nord,grain,6023
+Yanbo el-Bahr,Hedjaz du nord,fish,6021
+Medina,Hedjaz du nord,oil,3010
+Mastura,Hedjaz du sud,coal,3025
+Mecca,Hedjaz du sud,fish,3009
+El Birke,Hedjaz du sud,oil,6069
+El Lith,Hedjaz du sud,wood,3031
+Muhail,Hedjaz du sud,iron,3026
+Marsa Hali,Hedjaz du sud,grain,6092
+Jizan,Hedjaz du sud,fish,3013
+Beltana,Beltana,coal,3024
+Andamooka,Beltana,coal,3000
+Hergott Springs,Beltana,iron,3026
+Nepabunna,Beltana,wood,3011
+Nockatunga,Brisbane,gas,3011
+Thargomindah,Brisbane,grain,3031
+Cunnamulla,Brisbane,grain,3030
+Brisbane,Brisbane,fish,3006
+St George,Brisbane,iron,3009
+Miles,Brisbane,iron,3024
+Tanam,Papouasie occidentale néerlandaise,iron,6030
+Gold Coast,Brisbane,fish,6067
+Leyburn,Brisbane,wood,6003
+Oodnadatta,Oodnadatta,grain,3029
+Marla,Oodnadatta,iron,3030
+Witijira,Oodnadatta,coal,3012
+Birdsville,Oodnadatta,oil,3042
+The Sill,Oodnadatta,wood,3041
+St Lawrence,Rockhampton,fish,6070
+Rockhampton,Rockhampton,wood,6090
+Biloela,Rockhampton,grain,3047
+Wowan,Rockhampton,grain,3030
+Upper Dawson,Rockhampton,coal,3046
+Emerald,Rockhampton,oil,3009
+Muttaburra,Barcaldine,iron,3034
+Barcaldine,Barcaldine,oil,3025
+Yaraka,Barcaldine,grain,3033
+Blackall,Barcaldine,wood,3030
+Coen,Cairns,fish,6050
+Cooktown,Cairns,wood,3010
+Cairns,Cairns,grain,6050
+Townsville,Cairns,wood,3030
+Bowen,Cairns,oil,3012
+Kackay,Cairns,fish,3000
+Torrens Creek,Cairns,oil,3021
+Charters Towers,Cairns,iron,3030
+Maxwelton,Carpentarie,coal,3004
+Normanton,Carpentarie,fish,3041
+Bellfield,Carpentarie,wood,3010
+Gregory,Carpentarie,grain,3028
+Burketown,Carpentarie,fish,3002
+Cloncurry,Cloncurry,gas,3022
+Barkly,Cloncurry,wood,3010
+Boulia,Cloncurry,wood,6090
+Camooweal,Cloncurry,grain,3012
+Warenda,Cloncurry,oil,3045
+Diamantina Lakes,Cloncurry,grain,6070
+Toko,Cloncurry,iron,3029
+Bedourie,Cloncurry,grain,3010
+Nicholson,Roper Gulf,wood,6030
+Calvert,Roper Gulf,fish,3029
+Borroloola,Roper Gulf,grain,3030
+Arnold,Darwin,grain,6070
+Berapi,Papouasie occidentale néerlandaise,grain,3010
+Wilton,Roper Gulf,coal,3005
+Nhulunbuy,Darwin,iron,3026
+Numbulwar,Darwin,fish,3014
+Gapuwiyak,Darwin,fish,3049
+Baines,Darwin,oil,6041
+Katherine,Darwin,coal,6090
+Port Keats,Darwin,fish,3032
+Nguiu,Darwin,grain,3026
+Darwin,Darwin,wood,3032
+Cobourg,Darwin,wood,3024
+Pine Creek,Darwin,grain,3030
+Bradshaw,Darwin,iron,3041
+Chilla Well,Barkly,oil,3005
+Tanami,Barkly,gas,3043
+Newcastle Waters,Barkly,coal,3042
+Willowra,Barkly,wood,3030
+Tennant Creek,Barkly,grain,3024
+Sandover,Alice Springs,coal,3014
+Ti Tree,Alice Springs,oil,3009
+Alice Springs,Alice Springs,oil,3043
+Anatye,Alice Springs,grain,3013
+Simpson,Alice Springs,wood,6011
+Hale,Alice Springs,grain,3032
+Uluru,Alice Springs,iron,6090
+Erldunda,Alice Springs,wood,3041
+Halls Creek,Derby,grain,3022
+Yalata,Ceduna,wood,6049
+Derby,Derby,gas,3007
+Kimbolton,Derby,wood,3027
+Wyndham,Derby,wood,3010
+Broome,Broome,wood,3045
+Camballin,Broome,oil,3030
+Lagrange,Broome,fish,6001
+Gibson Desert North,Broome,iron,6089
+Mueller Ranges,Broome,wood,3010
+Sturt Creek,Broome,grain,3001
+Lake Gregory,Broome,grain,3010
+Lake M'kay,Broome,iron,3029
+Gibson Desert South,Désert de Gibson,wood,3012
+Gibson Desert East,Désert de Gibson,oil,3001
+Ngaanyatjarra-Giles,Désert de Gibson,coal,3030
+Kalkukatjara,Désert de Gibson,iron,3030
+Warburton,Désert de Gibson,grain,3003
+Ceduna,Ceduna,wood,3011
+Cook,Ceduna,grain,6030
+Nullarbor Plains,Ceduna,oil,3022
+Marlinga,Ceduna,coal,3030
+Victoria Desert East,Ceduna,grain,3024
+Pipalyatjara,Ceduna,grain,3044
+Mimili,Ceduna,iron,3044
+Eucla,Eucla,wood,3025
+Balladonia,Eucla,fish,3029
+Madura,Eucla,fish,3044
+Victoria Desert Wast,Eucla,grain,6005
+Neale,Eucla,gas,3025
+Plumridge Lakes,Eucla,coal,3049
+Rawlinna,Eucla,grain,3010
+Forrest,Eucla,iron,6088
+Little Sandy Desert East,Petit désert de sable,coal,3009
+Little Sandy Desert South,Petit désert de sable,wood,3025
+Little Sandy Desert West,Petit désert de sable,coal,3001
+Little Sandy Desert North,Petit désert de sable,oil,3003
+Wiluna,Petit désert de sable,iron,3034
+Onslow,Roebourne,wood,3025
+Roeburne,Roebourne,wood,3026
+Port Headland,Roebourne,fish,3044
+Pardoo,Roebourne,grain,3030
+Eighty Mile Beach,Roebourne,fish,6081
+Millstream,Roebourne,coal,6030
+Telfer,Roebourne,grain,3045
+Marble Bar,Roebourne,iron,3020
+Rocklea,Gascoyne,coal,3044
+Coral Bay,Gascoyne,grain,6031
+Nanutarra,Gascoyne,iron,3001
+Peak Hill,Gascoyne,coal,3006
+Freshwater Camp,Gascoyne,oil,3002
+Murchison,Gascoyne,iron,6006
+Gascoyne Junction,Gascoyne,wood,3048
+Carnarvon,Gascoyne,fish,3030
+Geraldton,Geraldton,oil,3023
+Jurien Bay,Geraldton,iron,6012
+Cue,Geraldton,grain,3010
+Sir Samuel,Geraldton,oil,3010
+Mount Magnet,Geraldton,wood,6010
+Wangaree,Geraldton,iron,3032
+Burakin,Geraldton,grain,3041
+Paynesville,Geraldton,coal,3002
+Leonora,Laverton,oil,3030
+Woodarra,Laverton,iron,3030
+Bandya,Laverton,coal,3014
+Laverton,Laverton,wood,3029
+Perth,Perth,fish,3042
+Bunbury,Perth,fish,3020
+Northam,Perth,coal,3049
+Wagin,Perth,iron,6064
+Bencubbin,Perth,coal,3030
+Menzies,Perth,grain,6050
+Tuatapere,Otago,fish,3040
+Invercargill,Otago,grain,3040
+Balclutha,Otago,fish,3010
+Dunedin,Otago,grain,3020
+Manapouri,Otago,coal,3010
+Queenstown,Otago,iron,6070
+Arawhata,Otago,wood,6030
+Wanaka,Otago,fish,3010
+Tekapo,Otago,gas,3002
+Oamura,Otago,wood,3001
+Ashburton,Otago,grain,3030
+Christchurch,Otago,iron,3005
+Hamner Springs,Nelson,oil,3002
+Greymouth,Nelson,coal,3014
+Westport,Nelson,grain,6090
+Collingwood,Nelson,fish,6010
+Kaikoura,Nelson,wood,3004
+Karamea,Nelson,coal,3007
+Motueka,Nelson,fish,3028
+Nelson,Nelson,iron,3048
+Wellington,Wellington,grain,3002
+New Plymouth,Wellington,fish,3011
+Whanganui,Wellington,oil,3009
+Gisborne,Wellington,fish,6044
+Turangi,Wellington,wood,3000
+Wairoa,Wellington,iron,3030
+Napier,Wellington,coal,6064
+Waipukurau,Wellington,grain,3024
+Whangarei,Auckland,fish,3030
+Auckland,Auckland,wood,3006
+Tokmaru Bay,Auckland,grain,3047
+Pukekohe,Auckland,fish,3010
+Whakatane,Auckland,oil,6070
+Waitomo,Auckland,fish,3009
+Tauranga,Auckland,fish,3040
+Taupo,Auckland,iron,3027
+Bicheno,Tasmanie,fish,3022
+Launceston,Tasmanie,coal,3044
+Hobart,Tasmanie,iron,3030
+Strahan,Tasmanie,grain,3010
+Noumea,Vanuatu et Nouvelle-Calédonie,fish,3000
+Luganville,Vanuatu et Nouvelle-Calédonie,grain,3045
+Port Vila,Vanuatu et Nouvelle-Calédonie,iron,3004
+White Sands,Vanuatu et Nouvelle-Calédonie,fish,3040
+Lamap,Vanuatu et Nouvelle-Calédonie,fish,3012
+Fiji,Fidji et Tonga,fish,3025
+Labasa,Fidji et Tonga,iron,3049
+Tonga,Fidji et Tonga,fish,3007
+Salelologa,Samoa,fish,3030
+Apia,Samoa,gas,3047
+Geelong,Melbourne,wood,6090
+Kyneton,Melbourne,coal,3042
+Shepparton,Melbourne,iron,3048
+Melbourne,Melbourne,gas,3011
+Falls Creek,Melbourne,coal,6083
+Bairnsdale,Melbourne,fish,3030
+Warragul,Melbourne,grain,3030
+Port Albert,Melbourne,grain,3046
+Appolo Bay,Appolo Bay,grain,3010
+Warrnambool,Appolo Bay,fish,3010
+Ouyen,Appolo Bay,iron,3045
+Horsham,Appolo Bay,oil,3010
+Ballarat,Appolo Bay,wood,3004
+Naracoorte,Adelaide,grain,3027
+Mount Gambier,Adelaide,gas,3031
+Port Augusta,Adelaide,fish,6007
+Mannahill,Adelaide,iron,3009
+Wallaroo,Adelaide,oil,3032
+Adelaide,Adelaide,wood,3030
+Port Pirie,Adelaide,fish,3022
+Clare,Adelaide,grain,6041
+Eden,Canberra,wood,6023
+Moruya,Canberra,fish,3047
+Canberra,Canberra,oil,3040
+Mildura,Canberra,coal,6090
+Albury,Canberra,iron,3004
+Wagga Wagga,Canberra,grain,3042
+Swan Hill,Canberra,grain,3002
+Echuca,Canberra,coal,3046
+Sydney,Sydney,fish,3030
+Nelson Bay,Sydney,oil,3011
+Orange,Sydney,wood,6062
+Mudgee,Sydney,oil,3042
+Dubbo,Sydney,grain,6002
+Parkes,Sydney,wood,3010
+Hat Field,Sydney,coal,3030
+Griffith,Sydney,iron,3004
+Forster,Port Macquarie,iron,3043
+Port Macquarie,Port Macquarie,fish,6046
+Coffs Harbour,Port Macquarie,fish,3011
+Tamworth,Port Macquarie,grain,3028
+Dunedoo,Port Macquarie,coal,6090
+Hervey Bay,Rockhampton,iron,3048
+Tingha,Port Macquarie,grain,3010
+Coonamble,Port Macquarie,wood,3023
+Walgett,Port Macquarie,gas,3030
+Milparinka,Cobar,iron,3043
+Broken Hill,Cobar,iron,6089
+White Cliffs,Cobar,iron,3045
+Cobar,Cobar,grain,3000
+Wanaaring,Cobar,wood,3033
+Bourke,Cobar,iron,3034
+Haslam,Ceduna,grain,3030
+Minnipa,Port Lincoln,coal,3026
+Port Kenny,Port Lincoln,fish,3000
+Port Lincoln,Port Lincoln,fish,3010
+Bremer Bay,Albany,fish,3029
+Wellstead,Albany,coal,3003
+Hopetoun,Albany,fish,3044
+Ravensthorpe,Albany,grain,6062
+Marvel Loch,Albany,coal,3030
+Widgiemooltha,Albany,wood,3009
+Kookynie,Albany,coal,6009
+Kurnalpi,Albany,iron,3012
+Esperance,Esperance,gas,3013
+Scaddan,Esperance,iron,6048
+Fraser Range,Esperance,grain,3030
+Lake Rebecca,Eucla,gas,3013
+Dundas,Esperance,grain,3048
+Emu Flat,Eucla,wood,6030
+Cundeelee,Eucla,oil,3029
+Kimbe,Nouvelle-Poméranie et Nouveau-Mecklembourg,fish,3027
+Herbertshöhe,Nouvelle-Poméranie et Nouveau-Mecklembourg,coal,3003
+Kavieng,Nouvelle-Poméranie et Nouveau-Mecklembourg,wood,3030
+Kieta,Salomon,coal,3030
+Honiara,Salomon,oil,3022
+Kiunga,Papouasie,grain,3003
+Daru,Papouasie,wood,3043
+Balimo,Papouasie,fish,6030
+Alotau,Papouasie,grain,3002
+Baimuru,Papouasie,fish,3028
+Kerema,Papouasie,iron,3008
+Port Moresby,Papouasie,coal,6043
+Kupiano,Papouasie,coal,3040
+Vanimo,Terre de l'Empereur-Guillaume,grain,6044
+Wau,Papouasie,fish,3003
+Lae,Terre de l'Empereur-Guillaume,fish,3032
+Goroka,Terre de l'Empereur-Guillaume,wood,3047
+Mount Hagen,Terre de l'Empereur-Guillaume,iron,3020
+Madang,Terre de l'Empereur-Guillaume,coal,3004
+Ambunti,Terre de l'Empereur-Guillaume,wood,6083
+Wewak,Terre de l'Empereur-Guillaume,coal,3010
+Hollandia,Papouasie néerlandaise du nord,wood,3007
+Teba,Papouasie néerlandaise du nord,gas,3030
+Sarmi,Papouasie néerlandaise du nord,oil,3041
+Merauke,Papouasie néerlandaise du sud,iron,3020
+Bade,Papouasie néerlandaise du sud,coal,6090
+Tanahmerah,Papouasie néerlandaise du sud,iron,3030
+Wan,Papouasie néerlandaise du sud,coal,3010
+Tiom,Papouasie néerlandaise du sud,wood,6083
+Agats,Papouasie néerlandaise du sud,grain,3010
+Meno,Papouasie néerlandaise du sud,grain,3004
+Atat,Papouasie néerlandaise du sud,coal,3001
+Bawe,Papouasie occidentale néerlandaise,coal,3030
+Fakfak,Papouasie occidentale néerlandaise,wood,3032
+Manokwari,Papouasie occidentale néerlandaise,iron,3010
+Sorong,Papouasie occidentale néerlandaise,fish,6064
+Ambon,Papouasie occidentale néerlandaise,grain,3010
+Ternate,Papouasie occidentale néerlandaise,fish,3005
+Kalgoorlie,Perth,coal,3049
+Southern Cross,Perth,wood,3040
+Clemont,Rockhampton,oil,3046
+Whyalla,Port Lincoln,iron,3009
+Tarcoola,Beltana,grain,3046
+Kingoonya,Beltana,wood,6027
+Glendambo,Beltana,grain,3010
+Roxby Downs,Beltana,coal,6090
+Koror,Palaos,fish,3012
+Agana,Guam,fish,3026
+Tinian,Saipan et Tinian,fish,3030
+Saipan,Saipan et Tinian,fish,3010
+Weno,Truk,gas,3045
+Tol,Truk,fish,3010
+Enewetak,Enewetak,oil,3049
+Wake,Wake,grain,3028
+Iwo Jima,Iwo Jima,fish,3030
+Puerto Villamil,Galapagos,fish,3010
+Puerto Baquerizo Moreno,Galapagos,oil,3008
+Calcutta,Bengale du sud,wood,3046
+Durgapur,Bengale du sud,coal,3025
+Bairiki,Atolls de Tarawa et Makin,wood,3009
+Kuma,Atolls de Tarawa et Makin,wood,3029
+Johnston,Atoll Johnston,fish,3008
+Sand Island,Midway,coal,3004
+Majuro,Îles Marshall,coal,3009
+Zanthus,Eucla,oil,3010
+Papeete,Tahiti,oil,3000
+Poso,Célèbes du Sud,grain,3043
+Maumere,Florès,iron,3010
+Kendari,Célèbes du Sud,fish,3043
+Malili,Célèbes du Sud,fish,6030
+Bau-Bau,Célèbes du Sud,wood,3023
+Tinombo,Célèbes du Nord,grain,3047
+Kota Gorontalo,Célèbes du Nord,gas,3004
+Kota Manado,Célèbes du Nord,wood,3006
+Sumba,Florès,grain,3020
+Kupang,Florès,coal,3048
+Dili,Florès,fish,3032
+Wasiri,Florès,fish,3045
+Makassar,Célèbes du Sud,grain,3030
+Polewali,Célèbes du Sud,coal,3010
+Palu,Célèbes du Sud,iron,3005
+Luwuk,Célèbes du Sud,gas,6043
+Jakarta,Java,coal,6030
+Bandoeng,Java,wood,3028
+Sermerang,Java,fish,3032
+Solo,Java,grain,3046
+Surabaya,Java,grain,3028
+Banyuwangi,Java,iron,3011
+Denpasar,Java,fish,6052
+Bima,Java,gas,3030
+Zamboanga,Mindanao,coal,3012
+Cotabato,Mindanao,iron,3041
+Dabaw,Mindanao,grain,3010
+Butuan,Mindanao,grain,3030
+Bacolod,Mindanao,coal,6089
+Laoag,Luzon,iron,3022
+Ilagan,Luzon,coal,6031
+Baguio,Luzon,wood,3045
+Manila,Luzon,fish,3006
+Legazpi,Luzon,fish,3003
+Batangas,Luzon,fish,3006
+Daet,Luzon,oil,3026
+Lahad Datu,Sarawak,grain,3010
+Kuching,Sarawak,fish,3011
+Sibu,Sarawak,wood,3002
+Sandakan,Sarawak,coal,3010
+Penampang,Sarawak,coal,6027
+Bintulu,Sarawak,fish,6041
+Kota Batu,Sarawak,iron,3013
+Nanga Merit,Sarawak,grain,3009
+Semporna,Bornéo du Nord,wood,6010
+Samarinda,Bornéo du Nord,fish,3025
+Bangkanai,Bornéo du Nord,iron,3040
+Bontang,Bornéo du Nord,gas,3049
+Makulit,Bornéo du Nord,grain,3030
+Tarakan,Bornéo du Nord,gas,3044
+Baia,Bornéo du Nord,grain,3049
+Tulang,Bornéo du Nord,fish,6044
+Banjarmasin,Bornéo du Sud,grain,6043
+Pasir,Bornéo du Sud,fish,6062
+Palangka Raya,Bornéo du Sud,wood,3007
+Sampit,Bornéo du Sud,grain,3041
+Kumai,Bornéo du Sud,iron,3049
+Pontianak,Bornéo du Sud,fish,3024
+Mutua,Bornéo du Sud,coal,3045
+Baru,Bornéo du Sud,coal,3012
+Singkawang,Keranga,fish,3010
+Serang,Keranga,gas,3005
+Serian,Keranga,grain,3000
+Sintang,Keranga,iron,3043
+Putussibau,Keranga,wood,3026
+Brooke's Point,Palawan,gas,3048
+Puerto Princesa,Palawan,wood,3049
+Iloilo,Mindanao,fish,3010
+Calbayog,Mindanao,wood,3004
+Tacloban,Mindanao,fish,6048
+Baripada,Bengale du sud,grain,6040
+Balangir,Bengale du sud,grain,3010
+Cuttack,Bengale du sud,fish,6042
+Sambalpur,Bengale du sud,iron,3011
+Balasore,Bengale du sud,fish,3042
+Jamshedpur,Bengale du sud,coal,3010
+Patna,Bengale du nord,grain,3028
+Begusarai,Bengale du nord,grain,6024
+Gaya,Bengale du nord,coal,3001
+Aurangabad,Bengale du nord,iron,6070
+Rajshahi,Bengale du nord,iron,3027
+Bhagalpur,Bengale du nord,coal,3030
+Chouparan,Bengale du nord,coal,3001
+Hazaribagh,Bengale du nord,wood,3003
+Ambikapur,Ratanpur,coal,3024
+Ratanpur,Ratanpur,grain,3030
+Patewa,Ratanpur,wood,3032
+Brahmapur,Madras du nord,coal,3020
+Jagdalpur,Madras du nord,grain,3030
+Chicacole,Madras du nord,iron,6090
+Tuni,Madras du nord,fish,3010
+Bhimavaram,Madras du nord,wood,3024
+Kakinda,Madras du nord,grain,3045
+Samarlakota,Madras du nord,fish,6003
+Visakhapatnam,Madras du nord,wood,3025
+Kurnool,Madras central,oil,3031
+Ongole,Madras central,fish,3028
+Nandyal,Madras central,wood,3007
+Proddatur,Madras central,oil,3030
+Nellore,Madras central,wood,3043
+Trinomalee,Madras du sud,grain,6088
+Puducherry,Madras central,iron,3030
+Madras,Madras central,fish,6043
+Cannanore,Madras du sud,grain,6050
+Negapatam,Madras du sud,fish,3034
+Salem,Madras du sud,wood,3009
+Coimbatore,Madras du sud,iron,6046
+Tuticorin,Madras du sud,coal,3034
+Alappuzha,Madras du sud,fish,3043
+Madurai,Madras du sud,fish,3031
+Ramanathapuram,Madras du sud,coal,3010
+Shimoga,Mysore,fish,3031
+Chitradurga,Mysore,iron,3012
+Madikeri,Mysore,wood,3033
+Mysure,Mysore,oil,3030
+Bangalore,Mysore,coal,3031
+Jaffna,Ceylan,fish,3031
+Batticaloa,Ceylan,fish,3010
+Colombo,Ceylan,fish,3049
+Singrauli,Oudh,iron,3032
+Mirzapur,Oudh,grain,3042
+Faizabad,Oudh,coal,3030
+Mahoba,Oudh,wood,6067
+Chitrakoot,Oudh,coal,3041
+Lucknow,Oudh,coal,6010
+Kanpur,Oudh,iron,3010
+Allahabad,Oudh,grain,3022
+Chhatarpur,Indra,wood,3049
+Panna,Indra,gas,3043
+Rewa,Indra,coal,3014
+Shahdol,Indra,grain,3026
+Yavatmal,Nagpur,coal,6047
+Pamunuru,Nagpur,iron,3010
+Wardha,Nagpur,iron,3010
+Jabalpur,Nagpur,wood,3005
+Gadchiroli,Nagpur,grain,3047
+Nagpur,Nagpur,iron,3047
+Raipur,Nagpur,grain,3009
+Dhamatri,Nagpur,oil,6050
+Raichur,Hyderabad,grain,3010
+Hyperabad,Hyderabad,grain,3028
+Khammam,Madras du nord,coal,3030
+Ramagundam,Madras du nord,wood,6011
+Warangal,Madras du nord,coal,3010
+Parbhani,Hyderabad,iron,3044
+Kalaburagi,Hyderabad,oil,3040
+Adilabad,Madras du nord,iron,6090
+Wuzhou,Guangdong,oil,3032
+Meizhou,Guangdong,fish,3006
+Heyuan,Guangdong,wood,3033
+Qingyuan,Guangdong,iron,3009
+Taichū,Formose,fish,3048
+Tainan Shū,Formose,oil,3034
+Shantou,Guangdong,fish,6080
+Taipei,Formose,fish,3020
+Foochow,Fujian,iron,3047
+Nanping,Fujian,gas,3011
+Shaoguan,Guangdong,coal,3024
+Longyan,Fujian,oil,3010
+Quanzhou,Fujian,fish,6064
+Zhangzhou,Fujian,fish,3028
+Dehua,Fujian,iron,3030
+Fort-Bayard,Guangdong,grain,6024
+Canton,Guangdong,gas,3007
+Tokushima,Shikoku et Kyūshū,iron,3014
+Kochi,Shikoku et Kyūshū,wood,6090
+Matsuyama,Shikoku et Kyūshū,gas,3014
+Uwajima,Shikoku et Kyūshū,fish,3014
+Kumamoto,Shikoku et Kyūshū,iron,3022
+Ōita,Shikoku et Kyūshū,grain,6072
+Fukuoka,Shikoku et Kyūshū,fish,3027
+Kagoshima,Shikoku et Kyūshū,fish,3023
+Sinpo,Corée du Nord,fish,3030
+Sŏngjin,Corée du Nord,fish,3003
+Kusŏng,Corée du Nord,grain,3006
+Pyongyang,Corée du Sud,grain,3023
+Seoul,Corée du Sud,wood,6090
+Gensan,Corée du Sud,grain,3010
+Busan,Corée du Sud,oil,3030
+Gwangju,Corée du Sud,wood,3010
+Gangneung,Corée du Sud,coal,3006
+Daegu,Corée du Sud,fish,6050
+Klyuchi,Kamtchatka,coal,3000
+Palana,Kamtchatka,grain,3026
+Okha,Sakhaline du nord,oil,3002
+Alexandrovskaya,Sakhaline du nord,wood,3003
+Toyohara,Karafuto,fish,3030
+Esutoru,Karafuto,grain,3030
+Vladivostok,Oussouri du sud,grain,3025
+Khabarovsk,Oussouri du sud,coal,6090
+Svetlaya,Oussouri du sud,fish,3040
+Tyr,Oussouri du sud,grain,3045
+Troizkoje,Oussouri du sud,wood,3045
+De-Kastri,Oussouri du sud,fish,3007
+Komsomolsk-on-Amur,Oussouri du sud,iron,6084
+Sovetskaya Gavan,Oussouri du sud,fish,3024
+Gizhiga,Koriakie,fish,3026
+Kamenskoye,Koriakie,fish,6000
+Markovo,Koriakie,gas,3030
+Uelen,Koriakie,grain,6029
+Pevek,Koriakie,wood,3010
+Beringovsky,Koriakie,iron,3040
+Srednekolymsk,Koriakie,grain,3032
+Chersky,Koriakie,coal,3030
+Milkowo,Kamtchatka,wood,3030
+Tigil,Kamtchatka,fish,3040
+Suryapur,Bombay,iron,3030
+Dhule,Bombay,wood,6070
+Dharwad,Bombay,fish,3010
+Kolhapur,Bombay,grain,3031
+Bijapur,Bombay,grain,3030
+Nashik,Bombay,coal,3021
+Bombay,Bombay,coal,3006
+Satara,Bombay,fish,6028
+Bhavnagar,Gujarat,fish,3048
+Rajkot,Gujarat,grain,3030
+Godhra,Gujarat,grain,3025
+Ahmedabad,Gujarat,fish,3004
+Haidarabad,Gujarat,oil,6005
+Patan,Gujarat,iron,3004
+Chitrod,Gujarat,wood,6040
+Bhuj,Gujarat,fish,3030
+Indore,Rajputana oriental,iron,3045
+Banswara,Rajputana oriental,grain,6010
+Ratlam,Rajputana oriental,grain,3010
+Bhopal,Rajputana oriental,coal,3030
+Neemuch,Rajputana oriental,coal,6052
+Ashoknagar,Rajputana oriental,iron,3048
+Kota,Rajputana oriental,coal,3030
+Rawatbhata,Rajputana oriental,wood,3026
+Agra,Delhi,iron,3001
+Bareilly,Delhi,gas,3047
+Delhi,Delhi,grain,6001
+Gurgaon,Delhi,oil,3045
+Panipat,Delhi,wood,3010
+Karnal,Delhi,coal,3043
+Hadwani,Delhi,grain,3027
+Pithoragarh,Delhi,iron,6026
+Jaipur,Rajputana occidental,iron,3000
+Jaisalmer,Rajputana occidental,grain,3000
+Barmer,Rajputana occidental,coal,3011
+Jodhpur,Rajputana occidental,iron,6071
+Ajmer,Rajputana occidental,grain,3010
+Siwana,Rajputana occidental,coal,3030
+Udaipur,Rajputana occidental,wood,3045
+Nathdwara,Rajputana occidental,coal,6090
+Mirpur Khas,Khairpur,grain,3033
+Mehrabpur,Khairpur,wood,3001
+Shikārpur,Khairpur,gas,3010
+Khairpur,Khairpur,iron,3010
+Suratgarh,Bikaner,coal,3029
+Bikaner,Bikaner,wood,3042
+Sardarshahar,Bikaner,iron,3004
+Sujangarh,Bikaner,coal,3027
+Pilani,Pendjab oriental,wood,6047
+Sirsa,Pendjab oriental,grain,3031
+Mansa,Pendjab oriental,gas,3021
+Jind,Pendjab oriental,grain,3049
+Ludhiana,Pendjab oriental,oil,6068
+Nangal,Pendjab oriental,iron,3033
+Patiala,Pendjab oriental,iron,3044
+Sangrur,Pendjab oriental,gas,3027
+Muzaffarabad,Cachemire du sud,iron,3010
+Srinaghar,Cachemire du sud,iron,6010
+Shopian,Cachemire du sud,coal,3006
+Anantnag,Cachemire du sud,gas,6091
+Leh,Cachemire du sud,coal,3025
+Darcha,Cachemire du sud,grain,3047
+Kargil,Cachemire du sud,wood,3029
+Padum,Cachemire du sud,grain,3022
+Sādiqābād,Pendjab occidental,coal,3030
+Islamabad,Pendjab occidental,gas,3020
+Lahore,Pendjab occidental,grain,3007
+Lyallpur,Pendjab occidental,wood,6009
+Bahāwalnagar,Pendjab occidental,wood,3030
+Multan,Pendjab occidental,iron,3031
+Mailsi,Pendjab occidental,grain,6012
+Bahawalpur,Pendjab occidental,coal,3007
+Gahkuch,Cachemire du nord,grain,3022
+Karimabad,Cachemire du nord,iron,3010
+Naran,Cachemire du nord,wood,6023
+Gilgit,Cachemire du nord,grain,3000
+Sharda,Cachemire du nord,wood,3030
+Haldi,Cachemire du nord,wood,3024
+Skardu,Cachemire du nord,gas,3049
+Khaplu,Cachemire du nord,grain,6068
+Kohat,Sarhad,oil,3030
+Peshawar,Sarhad,gas,3048
+Mingora,Sarhad,grain,3021
+Bahrain,Sarhad,wood,3000
+Rajanpur,Loralai,iron,6030
+Quetta,Loralai,wood,3002
+Muslim Bagh,Loralai,grain,3030
+Bhakkar,Loralai,grain,6028
+Zhob,Loralai,wood,3022
+Loralai,Loralai,grain,3034
+Jampur,Loralai,iron,3023
+Dera Ghazi Khan,Loralai,gas,3000
+Gwadar,Chagai,grain,3012
+Lala,Chagai,grain,6013
+Karachi,Chagai,fish,6093
+Sibi,Chagai,wood,3013
+Kharan,Chagai,grain,3030
+Ormara,Chagai,iron,3028
+Washuk,Chagai,gas,3026
+Khuzdar,Chagai,gas,3010
+Nok Kundi,Baloutchistan,grain,3006
+Dalbandin,Baloutchistan,iron,3030
+Nushki,Baloutchistan,coal,3030
+Mastung,Baloutchistan,wood,3030
+Mirabad,Kandahar,grain,3033
+Delaram,Kandahar,gas,3000
+Rudbar,Kandahar,wood,3009
+Marjah,Kandahar,grain,6030
+Kandahar,Kandahar,oil,3024
+Cono,Kandahar,grain,3010
+Laskhar Gah,Kandahar,iron,6089
+Chaman,Kandahar,oil,3031
+Shindand,Herat,coal,3010
+Qala i Naw,Herat,wood,3012
+Ghourian,Herat,iron,3031
+Herat,Herat,coal,3014
+Chora,Herat,grain,6062
+Laman,Herat,oil,3030
+Maymana,Mazâr-e Charîf,oil,6094
+Mazari Sharif,Mazâr-e Charîf,gas,3024
+Kholm,Mazâr-e Charîf,grain,3030
+Bandar,Mazâr-e Charîf,grain,3006
+Panjab,Mazâr-e Charîf,iron,3041
+Gozar,Mazâr-e Charîf,iron,6070
+Tokzar,Mazâr-e Charîf,gas,3040
+Yakawlang,Mazâr-e Charîf,wood,3023
+Day Chopan,Kaboul,wood,3009
+Behsud,Kaboul,wood,3007
+Loman,Kaboul,iron,3010
+Baghlan,Kaboul,coal,6045
+Jalalabad,Kaboul,coal,3000
+Kabul,Kaboul,iron,3040
+Shakin,Kaboul,grain,6070
+Gardez,Kaboul,coal,3010
+Kunduz,Badakhchan,grain,3014
+Pukh,Badakhchan,oil,3000
+Fayzabad,Badakhchan,coal,3012
+Taleqan,Badakhchan,wood,3030
+Sarhad,Badakhchan,iron,3030
+Kahnuj,Kerman du sud,grain,3025
+Keki,Kerman du sud,grain,3021
+Saravan,Kerman du sud,iron,3008
+Chābahār,Kerman du sud,wood,3010
+Zarābād,Kerman du sud,grain,6030
+Bazmān,Kerman du sud,iron,3028
+Pahrah,Kerman du sud,coal,3028
+Khāsh,Kerman du sud,wood,6050
+Eisk,Kouban,grain,3007
+Tikhoryetsk,Kouban,iron,3024
+Novorossiisk,Kouban,fish,3010
+Ekaterinodar,Kouban,oil,6088
+Tengenskoe,Kouban,grain,3008
+Kavkassk,Kouban,wood,3000
+Kaladzhinsk,Kouban,coal,3048
+Gagry,Kouban,fish,6020
+Bezopassnoe,Stavropol et Terek,iron,3025
+Stavropol,Stavropol et Terek,grain,6094
+Arzgir,Stavropol et Terek,iron,3027
+Kisliar,Stavropol et Terek,grain,3021
+Khasav Yurt,Stavropol et Terek,coal,3049
+Mozdok,Stavropol et Terek,iron,3026
+Vladikavkaz,Stavropol et Terek,grain,3010
+Nalchik,Stavropol et Terek,wood,3048
+Petrovsk,Caucase oriental,gas,3045
+Derbend,Caucase oriental,coal,3048
+Baku,Caucase oriental,grain,3040
+Nukha,Caucase oriental,iron,6030
+Salyany,Caucase oriental,iron,3023
+Shusha,Caucase oriental,wood,3026
+Terterska,Caucase oriental,grain,3030
+Elizabetopol,Caucase oriental,oil,6030
+Abkhasla,Caucase de l'Ouest,fish,3027
+Kutais,Caucase de l'Ouest,fish,3022
+Tiflis,Caucase de l'Ouest,gas,3028
+Zakhatali,Caucase de l'Ouest,wood,6010
+Nakhitchevan,Caucase de l'Ouest,grain,6050
+Erivan,Caucase de l'Ouest,iron,3030
+Kars,Caucase de l'Ouest,wood,3012
+Batum,Caucase de l'Ouest,iron,3030
+Sasovo,Saratov et Tambov,grain,6085
+Marshansk,Saratov et Tambov,gas,3006
+Lipetsk,Saratov et Tambov,grain,3010
+Tambov,Saratov et Tambov,iron,3030
+Serdobsk,Saratov et Tambov,grain,3002
+Kusnetzk,Saratov et Tambov,oil,3028
+Saratov,Saratov et Tambov,oil,3012
+Telan,Saratov et Tambov,wood,6050
+Uzen,Samara,iron,3025
+Popovka,Samara,wood,3004
+Tavolshanka,Samara,iron,3030
+Samara,Samara,wood,6007
+Marienthal,Samara,coal,3003
+Bogoroslan,Samara,iron,3027
+Buzuluk,Samara,grain,3029
+Penza,Nijni Novgorod,coal,3022
+Saramsk,Nijni Novgorod,wood,3040
+Arsamas,Nijni Novgorod,grain,3030
+Nizhniy Novgorod,Nijni Novgorod,iron,3010
+Tehivilsk,Nijni Novgorod,oil,6087
+Kazan,Nijni Novgorod,grain,3031
+Alatyr,Nijni Novgorod,grain,3006
+Simbirsk,Nijni Novgorod,iron,6070
+Rybinsk,Volga supérieure,grain,3004
+Liubim,Volga supérieure,wood,6021
+Sologalitch,Volga supérieure,oil,3005
+Wetluga,Volga supérieure,grain,3010
+Kostroma,Volga supérieure,gas,6080
+Murom,Volga supérieure,wood,3029
+Jaroslav,Volga supérieure,iron,3030
+Vladimir,Volga supérieure,iron,3002
+Vologda,Vologda de l'ouest,grain,6000
+Totma,Vologda de l'ouest,coal,3007
+Velsk,Vologda de l'ouest,oil,3042
+Krasnoborsk,Vologda de l'ouest,wood,3008
+Usting Weliki,Vologda de l'ouest,iron,3007
+Rasgert,Vologda de l'ouest,grain,3010
+Nikolsk,Vologda de l'est,iron,6006
+Vandyshevsk,Vologda de l'est,grain,3010
+Yarensk,Vologda de l'est,coal,3010
+Ust Wym,Vologda de l'est,iron,3031
+Kertchem,Vologda de l'est,grain,3010
+Derevyansk,Vologda de l'est,coal,3008
+Ust Ilitch,Vologda de l'est,wood,3013
+Potsherie,Vologda de l'est,coal,6070
+Vyatka,Viatka,grain,6000
+Urshum,Viatka,coal,3041
+Bogoyavlensk,Viatka,iron,3027
+Izhevsk,Viatka,wood,3003
+Sarapul,Viatka,coal,3009
+Kai,Viatka,oil,3007
+Fadina,Perm,grain,3005
+Otevskoi,Perm,iron,6026
+Icherdin,Perm,coal,6048
+Verkhaturie,Perm,coal,3002
+Solikamsk,Perm,grain,3030
+Perm,Perm,iron,3022
+Kungur,Perm,wood,3005
+Ekaterinenburg,Perm,coal,3030
+Savinsk,Arkhangelsk de l'ouest,gas,3025
+Nes,Arkhangelsk de l'ouest,grain,6010
+Mezen,Arkhangelsk de l'ouest,fish,6030
+Nizhnezoletitsk,Arkhangelsk de l'ouest,fish,3030
+Sewastopol,Arkhangelsk de l'est,grain,6050
+Tsylma,Arkhangelsk de l'est,gas,3000
+Kolokolkovaya,Arkhangelsk de l'est,iron,3030
+Pustosersk,Arkhangelsk de l'est,fish,6046
+Ust Ussa,Arkhangelsk de l'est,gas,3029
+Khabarovo,Arkhangelsk de l'est,grain,3027
+Popova,Arkhangelsk de l'est,wood,3046
+Chaipudirsk,Arkhangelsk de l'est,fish,3000
+Povyenets,Olonets,iron,6061
+Petrozavodsk,Olonets,grain,3047
+Olonetz,Olonets,grain,3010
+Pudosh,Olonets,fish,6060
+Chelmuzha,Olonets,fish,3040
+Fedovsk,Olonets,wood,3044
+Kargopol,Olonets,coal,3001
+Szenkursk,Olonets,oil,3046
+Ukhtoma,Novgorod,coal,3046
+Kovzha,Novgorod,iron,3042
+Byelozersk,Novgorod,grain,6047
+Somino,Novgorod,oil,3001
+Troitskiy,Novgorod,grain,3032
+Borovitchi,Novgorod,wood,3003
+Valdai,Novgorod,grain,3034
+Novgorod,Novgorod,iron,3027
+Byezhetsk,Moskva,oil,3027
+Moskva,Moskva,oil,3029
+Kaluga,Moskva,grain,6050
+Borodina,Moskva,coal,3030
+Tver,Moskva,iron,6089
+Vishni Volotchok,Moskva,coal,3030
+Ostashkov,Moskva,grain,3040
+Rshev,Moskva,wood,3026
+Bieloi,Smolensk,grain,3011
+Gshatsk,Smolensk,gas,3031
+Viazma,Smolensk,wood,3026
+Smolensk,Smolensk,wood,3031
+Riazan,Toula,gas,3029
+Skopin,Toula,wood,3010
+Bogoroditsk,Toula,oil,3031
+Tula,Toula,grain,3010
+Jelet,Koursk,wood,3044
+Korotcha,Koursk,grain,3010
+Stari,Koursk,gas,6080
+Kursk,Koursk,oil,3020
+Orel,Koursk,wood,6000
+Briansk,Koursk,iron,3049
+Tschernogov,Koursk,grain,3005
+Nejan,Koursk,coal,3030
+Piriatin,Iekaterinoslav et Poltava,oil,3005
+Lubni,Iekaterinoslav et Poltava,fish,3008
+Lebendin,Iekaterinoslav et Poltava,grain,6089
+Reshetylivka,Iekaterinoslav et Poltava,coal,3029
+Poltava,Iekaterinoslav et Poltava,wood,3010
+Yekaterinoslav,Iekaterinoslav et Poltava,coal,6072
+Mariupol,Iekaterinoslav et Poltava,iron,3010
+Bachmut,Iekaterinoslav et Poltava,grain,3010
+Arkhangelsk,Arkhangelsk de l'ouest,wood,3043
+Izium,Kharkov,grain,3025
+Aktayrka,Kharkov,wood,3047
+Kharkiv,Kharkov,grain,6030
+Verkolsky,Arkhangelsk de l'ouest,wood,3030
+Starobielsk,Kharkov,iron,3030
+Waluiki,Kharkov,coal,3008
+Bogutchar,Kharkov,oil,3044
+Woronetz,Kharkov,iron,3004
+Novo Khopersk,Kharkov,wood,3048
+Rostov,Don,fish,3010
+Ilin,Don,iron,3010
+Torgovaya,Don,wood,3008
+Novo Cherkassk,Don,coal,6061
+Kalatch,Don,oil,6067
+Olemsk,Arkhangelsk de l'ouest,iron,3010
+Ternovaia,Don,grain,3007
+Dobraya,Don,iron,3040
+Yelansk,Don,grain,3043
+Dubovka,Tzaritzine,iron,3026
+Tsaritsyn,Tzaritzine,coal,3029
+Stavka,Astrakhan,iron,6030
+Bashmachagovsk,Astrakhan,iron,3008
+Astrakhan,Astrakhan,coal,3013
+Chernyi Yar,Astrakhan,grain,6048
+Tsarev,Astrakhan,wood,3045
+Balyklei,Astrakhan,coal,3028
+Khanskaya Stavka,Astrakhan,coal,3042
+Sasykolsk,Astrakhan,gas,3024
+Pyssk,Arkhangelsk de l'ouest,wood,3047
+Guriev,Gouriev,iron,3028
+Embensk,Gouriev,grain,3010
+Bandar Lengeh,Laristan,oil,3029
+Bandar Abbās,Laristan,iron,3042
+Jāsk,Laristan,fish,3040
+Rafsanjān,Kerman du nord,gas,3028
+Sistan,Kerman du nord,coal,6010
+Kichi,Kerman du nord,wood,3000
+Kerman,Kerman du nord,coal,3026
+Baft,Kerman du nord,grain,3004
+Dowzdāb,Kerman du nord,iron,6069
+Mahan,Kerman du nord,grain,3010
+Bam,Kerman du nord,wood,3044
+Birjand,Kuhestan,grain,6026
+Esfedan,Kuhestan,wood,3028
+Qaen,Kuhestan,iron,3028
+Gonabad,Kuhestan,wood,3010
+Chah Malek,Kuhestan,iron,3030
+Sāqand,Kuhestan,grain,3029
+Parvadeh,Kuhestan,oil,6006
+Tabas,Kuhestan,iron,3030
+Chupanan,Yazd,coal,3031
+Naein,Yazd,iron,3001
+Yazd,Yazd,wood,3027
+Ardakan,Yazd,grain,3008
+Abarkooh,Yazd,grain,3012
+Bandar Bushehr,Fars,fish,3011
+Abadeh,Fars,oil,6086
+Shiraz,Fars,iron,3012
+Harat,Fars,grain,3024
+Sirdschan,Fars,grain,3008
+Darab,Fars,coal,6071
+Dschahrom,Fars,wood,3010
+Bandar Aftab,Fars,fish,3010
+Abadan,Ispahan,wood,3030
+Ramhormoz,Ispahan,oil,3047
+Ispahan,Ispahan,oil,3047
+Behbahan,Ispahan,coal,3010
+Deh Kord,Ispahan,grain,3010
+Ahvaz,Lorestan,grain,3010
+Ardestan,Lorestan,grain,6033
+Qom,Lorestan,iron,3047
+Kashan,Lorestan,grain,3027
+Dezful,Lorestan,wood,3024
+Kala-i-Razd,Lorestan,coal,6070
+Malayer,Lorestan,coal,3010
+Arak,Lorestan,coal,3030
+Mashhad,Khorassan,iron,3041
+Samman,Khorassan,grain,6022
+Damghan,Khorassan,iron,3030
+Taybad,Khorassan,coal,3048
+Torbat Jām,Khorassan,coal,3030
+Arousan,Khorassan,gas,6090
+Kashmar,Khorassan,iron,3004
+Sabzevar,Khorassan,wood,3042
+Chumikan,Oussouri du nord,gas,3002
+Tugur,Oussouri du nord,fish,3025
+Nelkan,Okhotsk,grain,3049
+Magadan,Okhotsk,iron,3049
+Ayan,Okhotsk,coal,3011
+Okhotsk,Okhotsk,wood,6073
+Arka,Okhotsk,fish,3000
+Atka,Okhotsk,grain,6000
+Balagannoye,Okhotsk,fish,3045
+Omchak,Okhotsk,wood,3032
+Zyryanka,Youkaguir,oil,3010
+Chokurdakh,Youkaguir,fish,3000
+Balyma,Youkaguir,wood,3020
+Sasyr,Youkaguir,grain,3002
+Kazachya,Okhotsk du nord,fish,3047
+Batagay,Okhotsk du nord,grain,6011
+Ust-Nera,Okhotsk du nord,iron,3007
+Khonuu,Okhotsk du nord,gas,6002
+Uyandi,Okhotsk du nord,fish,3033
+Khandyga,Okhotsk du nord,coal,3007
+Agayakan,Okhotsk du nord,wood,3049
+Bukchalkan,Okhotsk du nord,coal,3043
+Nayba,Yakoutie,grain,3010
+Sakkyryr,Yakoutie,wood,3006
+Mirny,Yakoutie de l'ouest,oil,6060
+Udachny,Yakoutie de l'ouest,grain,3012
+Saskylakh,Yakoutie de l'ouest,fish,3030
+Nyurba,Yakoutie de l'ouest,wood,3010
+Zhigansk,Yakoutie de l'ouest,iron,3010
+Siktyakh,Yakoutie de l'ouest,grain,3013
+Olenyok,Yakoutie de l'ouest,wood,3010
+Shangrao,Jiangxi,wood,3031
+Ningdu,Jiangxi,coal,3032
+Yichun,Jiangxi,grain,6047
+Xunwu,Guangdong,iron,3023
+Hangzhou,Zhejiang,wood,3025
+Jinhua,Zhejiang,iron,3031
+Wenzhou,Zhejiang,grain,3029
+Taizhou,Zhejiang,wood,3042
+Hefei,Anhui,wood,3001
+Nanking,Anhui,coal,3010
+Huangshan,Anhui,grain,3006
+Xuancheng,Anhui,iron,3028
+Shanghai,Anhui,wood,6025
+Yancheng,Anhui,coal,6090
+Anqing,Anhui,grain,3001
+Lu'an,Anhui,grain,3030
+Jining,Shandong,coal,6082
+Linyi,Shandong,iron,3012
+Tsaochow,Shandong,grain,3045
+Xuzhou,Shandong,grain,3010
+Weifang,Shandong,fish,3022
+Jinan,Shandong,fish,3028
+Liaocheng,Shandong,wood,3031
+Chefoo,Shandong,oil,6014
+Zhengzhou,Henan,gas,3004
+Xingyang,Henan,grain,3029
+Nanyang,Henan,wood,3010
+Luoyang,Henan,iron,3027
+Xinxiang,Henan,grain,6070
+Zhoukou,Henan,coal,3041
+Luohe,Henan,wood,3010
+Luanchuan,Henan,coal,6062
+Wuhan,Hubei,iron,3030
+Xiangyang,Hubei,coal,3028
+Qianjiang,Hubei,wood,3024
+Yichang,Hubei,iron,6030
+Tianmen,Hubei,coal,3043
+Enshi,Hubei,grain,6072
+Huangshi,Hubei,oil,3010
+Zhushan,Hubei,coal,3044
+Shímén,Zhili du sud,oil,3008
+Handan,Zhili du sud,iron,3001
+Hengshui,Zhili du sud,fish,3041
+Beijing,Zhili du nord,grain,3022
+Qinhuangdao,Zhili du nord,fish,6050
+Chengde,Zhili du nord,iron,6063
+Chaoyang,Zhili du nord,grain,3030
+Baoding,Zhili du nord,coal,3040
+Kalgan,Zhili du nord,wood,3010
+Tianjin,Zhili du nord,gas,3030
+Weichang,Zhili du nord,oil,3030
+Mukden,Fengtien,wood,3009
+Yingkou,Fengtien,coal,3009
+Fuxin,Fengtien,grain,3033
+Andong,Fengtien,fish,3010
+Tonghua,Jilin,wood,3040
+Yanbian,Jilin,iron,6070
+Changchun,Jilin,iron,3010
+Jilin,Jilin,grain,3012
+Mudanjiang,Jilin,gas,3032
+Shuangyashan,Jilin,gas,3041
+Baishan,Jilin,oil,6070
+Jixi,Jilin,grain,3033
+Tongliao,Chifeng,wood,3030
+Chifeng,Chifeng,wood,3041
+Beizi Temple,Chifeng,gas,3040
+Jing'an,Chifeng,iron,3026
+Naiman,Chifeng,grain,3010
+Harbin,Heilongjiang oriental,gas,3022
+Kiamusze,Heilongjiang oriental,grain,3024
+Daqing,Heilongjiang oriental,gas,3022
+Yuanzhou,Heilongjiang oriental,grain,6030
+Bei'an,Heilongjiang oriental,grain,3030
+Qiqihar,Heilongjiang oriental,iron,6050
+Nenjiang,Heilongjiang oriental,wood,3007
+Tahe,Heilongjiang oriental,iron,3005
+Hailar,Heilongjiang occidental,grain,3007
+Ke'erlun Sumu,Heilongjiang occidental,iron,3040
+Yiminhezhen,Heilongjiang occidental,grain,6023
+Genhe,Heilongjiang occidental,coal,3041
+Jiagedaqi,Heilongjiang occidental,oil,3030
+Buteha,Heilongjiang occidental,wood,3013
+Nianzishan,Heilongjiang occidental,wood,3012
+Jinsongzhen,Heilongjiang occidental,coal,6090
+Ningde,Fujian,grain,6051
+Sanming,Fujian,wood,3029
+Changsha,Hunan,gas,3004
+Changde,Hunan,coal,3043
+Chenzhou,Hunan,wood,3027
+Hengyang,Hunan,iron,3041
+Daojiang,Hunan,grain,6042
+Huaihua,Hunan,coal,3004
+Xiangxi,Hunan,coal,3045
+Yongzhou,Hunan,iron,6090
+Ganzhou,Guangdong,iron,3011
+Ji'an,Jiangxi,gas,6068
+Nanchang,Anhui,wood,3010
+Yingtan,Jiangxi,oil,3010
+Ekimchan,Amour,iron,6006
+Fevralsk,Amour,grain,3029
+Norsk,Amour,gas,3024
+Blagoveshchensk,Amour,oil,3022
+Birobidzhansky,Amour,wood,3010
+Baykalsk,Irkoutsk de l'est,grain,6060
+Jelanzy,Irkoutsk de l'est,fish,3027
+Zhigalovo,Irkoutsk de l'est,coal,3010
+Kachug,Irkoutsk de l'est,iron,6010
+Tyrka,Irkoutsk de l'est,coal,3034
+Verhalensk,Irkoutsk de l'est,coal,3042
+Surovo,Irkoutsk de l'est,wood,3025
+Irkutsk,Irkoutsk de l'est,fish,3030
+Ulan-Ude,Transbaïkalie de l'ouest,grain,3003
+Uralsk,Oural,oil,3030
+Oreburg,Oufa et Orenbourg,grain,3028
+Chelyabinsk,Oufa et Orenbourg,grain,3043
+Troitsk,Oufa et Orenbourg,coal,3048
+Orlovsk,Oufa et Orenbourg,coal,3024
+Uralskoe,Tourgaï,iron,3004
+Goriatchinsk,Oural,iron,3010
+Kharkin,Oural,wood,3041
+Tageer Kuduk,Oural,iron,6093
+Vrotchistche,Oural,gas,6050
+Oba,Oural,grain,3009
+Moughojar,Oural,coal,3011
+Oktyabr',Tourgaï,grain,3010
+Kop Kaska,Oural,grain,3006
+Karabutakskoie,Tourgaï,wood,3041
+Zalenoi,Tourgaï,coal,3023
+Atbasarski,Akmolinsk du sud,coal,3030
+Tiumen,Tobolsk du sud,gas,3025
+Terekli,Tourgaï,coal,3007
+Turgai,Tourgaï,grain,3023
+Chalkar Tenis,Tourgaï,coal,6002
+Main-bulak,Tourgaï,iron,6072
+Tavalkanski,Akmolinsk du nord,coal,3026
+Jumagulski,Akmolinsk du nord,wood,3031
+Petropavlosk,Akmolinsk du nord,grain,3030
+Kokchetav,Akmolinsk du nord,iron,3022
+Omsk,Akmolinsk du nord,grain,6040
+Toguldjan,Akmolinsk du nord,gas,3004
+Ulutauska,Akmolinsk du sud,gas,6051
+Chaglinsk,Akmolinsk du sud,iron,3042
+Kizil Kara-su,Akmolinsk du sud,grain,3004
+Akmolinsk,Akmolinsk du sud,grain,3030
+Eskeneiski,Akmolinsk du sud,coal,3010
+Mok Kalmak,Akmolinsk du sud,iron,3042
+Bish-bakir,Akmolinsk du sud,wood,6082
+Balkash,Semipalatinsk,gas,3023
+Kyzyl Espe,Semipalatinsk,wood,3042
+Dengiz,Semipalatinsk,coal,3030
+Karkaralinsk,Semipalatinsk,wood,3048
+Nurba,Semipalatinsk,wood,3048
+Semipalatinsk,Semipalatinsk,grain,6070
+Bayan Aulsk,Semipalatinsk,coal,6091
+Piastorijsk,Semipalatinsk,iron,3028
+Arkaliksi,Zaïssan,iron,3030
+Jartashski,Zaïssan,grain,3043
+Usun-bulakski,Zaïssan,oil,3043
+Zaysan,Zaïssan,wood,3010
+Narymski,Zaïssan,grain,3030
+Zmeinogorski,Tomsk du sud,iron,3024
+Borphyry,Tomsk du sud,wood,3027
+Ust,Tomsk du sud,oil,3002
+Limonsk,Tomsk du sud,coal,6081
+Biya,Tomsk du sud,wood,3023
+Tigmsk,Tomsk du sud,gas,3033
+Beretsk,Tomsk du sud,grain,6092
+Tchina,Tomsk du sud,wood,3013
+Kusnetsk,Tomsk du nord,grain,3027
+Mariinsk,Tomsk du nord,wood,6090
+Barnaul,Tomsk du nord,coal,3002
+Kobyvan,Tomsk du nord,coal,3030
+Tomsk,Tomsk du nord,iron,3010
+Kainsk,Tomsk du nord,wood,3011
+Narym,Tomsk du nord,grain,6050
+Waksimkinyar,Tomsk du nord,wood,3010
+Tobolsk,Tobolsk du sud,coal,3024
+Bielzoersk,Tobolsk du sud,wood,3042
+Ishim,Tobolsk du sud,iron,3047
+Gork,Tobolsk du sud,iron,3040
+Sargatsk,Tobolsk du sud,coal,3049
+Tara,Tobolsk du sud,iron,6042
+Bolcheretsk,Tobolsk du sud,grain,3030
+Berezov,Tobolsk central,wood,3030
+Minusinsk,Krasnoïarsk,iron,3030
+Samarovskoe,Tobolsk central,iron,6050
+Kolpokoysk,Tobolsk central,iron,3030
+Surgut,Tobolsk central,grain,3002
+Lumpakolskoe,Tobolsk central,oil,3030
+Tazovsk,Tobolsk central,coal,3000
+Kazinsk,Tobolsk central,coal,6082
+Polonovatsk,Tobolsk central,grain,3023
+Kushevatsk,Tobolsk du nord,grain,6010
+Obdorsk,Tobolsk du nord,wood,3010
+Obi,Tobolsk du nord,fish,3030
+Golovin,Tobolsk du nord,coal,3020
+Nyda,Tobolsk du nord,gas,3010
+Chapel,Tobolsk du nord,coal,3028
+Gyda,Tobolsk du nord,iron,3030
+Maloe,Tobolsk du nord,fish,6030
+Abakanskoe,Krasnoïarsk,iron,6064
+Krasnoiarsk,Krasnoïarsk,oil,3009
+Atchinsk,Krasnoïarsk,oil,3047
+Rybinska,Krasnoïarsk,grain,3010
+Yeniseisk,Krasnoïarsk,coal,6090
+Yartsovskoe,Krasnoïarsk,grain,3000
+Dubcheskoe,Krasnoïarsk,wood,3021
+Biryussa,Kansk,gas,3023
+Kansk,Kansk,wood,3007
+Angara,Kansk,wood,3026
+Keshemskoe,Kansk,grain,3042
+Pit,Kansk,grain,3010
+Karakovsk,Ienisseïsk de l'ouest,iron,3006
+Sumarokovo,Ienisseïsk de l'ouest,oil,3010
+Mirn,Ienisseïsk de l'ouest,oil,3029
+Inbatsk,Ienisseïsk de l'ouest,iron,3044
+Troitski,Ienisseïsk de l'ouest,wood,6083
+Turukhansk,Ienisseïsk de l'ouest,grain,6040
+Chulkov,Ienisseïsk de l'ouest,wood,3027
+Novo Chernoostrovsk,Ienisseïsk de l'ouest,grain,3011
+Vekhne Tchunskaia,Ienisseïsk de l'est,wood,6010
+Tunguska Point,Ienisseïsk de l'est,coal,3049
+Syeverny-pryski,Ienisseïsk de l'est,oil,3032
+Chunya,Ienisseïsk de l'est,iron,3029
+Taimura,Ienisseïsk de l'est,grain,3033
+Tumuldy,Ienisseïsk de l'est,iron,3045
+Gorgela,Ienisseïsk de l'est,grain,3040
+Kurunchan,Ienisseïsk de l'est,coal,6050
+Poloi,Sibérie du nord,iron,3023
+Tolsty Nos,Sibérie du nord,fish,6024
+Petimsk,Sibérie du nord,grain,3021
+Korennoe,Sibérie du nord,coal,3021
+Naltanov,Sibérie du nord,wood,6005
+Rybn,Sibérie du nord,gas,3042
+Taimyr,Sibérie du nord,grain,3029
+Brusevitz,Sibérie du nord,fish,3030
+Menselimsk,Oufa et Orenbourg,wood,6028
+Bielebei,Oufa et Orenbourg,wood,3043
+Birsk,Oufa et Orenbourg,iron,6090
+Ufa,Oufa et Orenbourg,gas,3009
+Kysyl Kum,Sar Darya occidental,coal,3031
+Kodsha Niyaz,Sar Darya occidental,oil,3044
+Karmakchi,Sar Darya occidental,coal,3024
+Kazalinsk,Sar Darya occidental,wood,3026
+Kulimugur,Transcaspie du nord,fish,3010
+Urochishe,Transcaspie du nord,gas,6027
+Podem Ullan,Transcaspie du nord,grain,3011
+Kenderli Bay,Transcaspie du nord,grain,3046
+Pries Kolod,Transcaspie du nord,iron,3008
+Novo Alexandrovsk,Transcaspie du nord,wood,3010
+Kapkantash,Sar Darya occidental,grain,3002
+Julek,Sar Darya occidental,iron,3023
+Kizil kak,Sar Darya occidental,coal,3025
+Khodsheil,Sar Darya occidental,fish,6090
+Narinsk,Semirechye,fish,6070
+Sarkanskoe,Semirechye,grain,3010
+Khanokai,Semirechye,grain,3004
+Vernoe,Semirechye,oil,3030
+Takmak,Semirechye,wood,3033
+Sarbulaski,Semirechye,oil,3010
+Actaga,Semirechye,coal,3012
+Kuygan,Semirechye,iron,6030
+Kara Kul,Sar Darya oriental,iron,3025
+Aulie-ata,Sar Darya oriental,oil,3010
+Turkestan,Sar Darya oriental,wood,3043
+Shaulder,Sar Darya oriental,grain,6071
+Arys,Sar Darya oriental,grain,3030
+Chemkent,Sar Darya oriental,gas,3027
+Titovsk,Sar Darya oriental,iron,3032
+Tashkend,Sar Darya oriental,grain,3007
+Ust-Barguzin,Transbaïkalie de l'ouest,grain,3030
+Khilok,Transbaïkalie de l'ouest,grain,3045
+Kurumkan,Transbaïkalie de l'ouest,fish,3022
+Kureisk,Irkoutsk du nord,grain,3030
+Balagansk,Irkoutsk de l'ouest,wood,6010
+Bratskoi,Irkoutsk de l'ouest,grain,3040
+Tushama,Irkoutsk de l'ouest,oil,3045
+Ilimsk,Irkoutsk de l'ouest,coal,6050
+Teulsk,Irkoutsk de l'ouest,iron,3008
+Ustokoi,Irkoutsk de l'ouest,grain,3045
+Ankuli,Irkoutsk de l'ouest,grain,3025
+Kirensk,Irkoutsk du nord,iron,3007
+Zim Niznee,Transbaïkalie de l'ouest,iron,3013
+Korolon,Irkoutsk du nord,oil,3001
+Vitimsk,Transbaïkalie de l'est,oil,3027
+Verkhne Angarsk,Transbaïkalie de l'est,iron,3002
+Baumtovsk,Transbaïkalie de l'est,wood,6069
+Romanovsk,Transbaïkalie de l'est,wood,3005
+Karenga,Transbaïkalie de l'est,gas,6022
+Gorbitsa,Transbaïkalie de l'est,grain,3003
+Chita,Transbaïkalie de l'est,wood,3020
+Taidut,Transbaïkalie de l'est,grain,3001
+Tumtensk,Yakoutie du sud,grain,3030
+Aldansk,Yakoutie du sud,coal,3012
+Ust Maiskaya,Yakoutie du sud,gas,3030
+Nizhne Udinsk,Irkoutsk de l'ouest,oil,3012
+Kobdo,Kobdo,iron,3020
+Sevrei,Sainnoin Khan,coal,3010
+Murun,Kobdo oriental,coal,3034
+Ulaangom,Kobdo,grain,6030
+Erdenetsogt,Sainnoin Khan,iron,6030
+Tsagaan-Ovoo,Tsetsen Khan,wood,3000
+Bogd,Sainnoin Khan,grain,3045
+Bayandelger,Tsetsen Khan,wood,3043
+Hoboksar,Tarbag Atai,coal,3012
+Telmen,Jassaktu Khan,iron,6002
+Dariganga,Tsetsen Khan,wood,6050
+Asgat,Tsetsen Khan,coal,6085
+Baruunturuun,Kobdo,gas,3046
+Erdenesant,Tushetu Khan,grain,3001
+Erdenetsagaan,Tsetsen Khan,coal,3010
+Öndörkhaan,Tsetsen Khan,grain,3007
+Urgamal,Jassaktu Khan,coal,3013
+Tsogt-Ovoo,Tushetu Khan,iron,3045
+Altai,Jassaktu Khan,coal,3028
+Ölgii,Kobdo,oil,6030
+Urga,Tushetu Khan,wood,6094
+Tonkhil,Jassaktu Khan,iron,3011
+Uliastai,Sainnoin Khan,wood,3001
+Tolbo,Kobdo,grain,3031
+Tsogt,Jassaktu Khan,wood,3006
+Bajan Tumen,Tsetsen Khan,grain,3010
+Zagan-tunke,Kobdo,coal,3008
+Altay,Kobdo,wood,3024
+Burultokay,Kobdo,iron,3022
+Mandalgovi,Tushetu Khan,wood,3023
+Shinejinst,Jassaktu Khan,grain,3010
+Khem-Beldir,Uriankhai,gas,3040
+Darhati,Uriankhai,wood,3020
+Tschirgalandy,Uriankhai,gas,3033
+Urgen,Tushetu Khan,grain,3023
+Kharkhorin,Sainnoin Khan,gas,3044
+Tsetserleg,Sainnoin Khan,wood,3014
+Khanbogd,Tushetu Khan,oil,3047
+Dalanzadgad,Sainnoin Khan,iron,3022
+Chuguchak,Tarbag Atai,wood,3025
+Toora-Khem,Uriankhai,grain,3022
+Gobi,Jassaktu Khan,grain,3010
+Jargaltkhaan,Tsetsen Khan,iron,3041
+Ulaanbadrakh,Tushetu Khan,coal,6030
+Bayanjargalan,Tushetu Khan,coal,3009
+Beltyss,Kobdo oriental,coal,3011
+Chandmani,Jassaktu Khan,grain,6033
+Mandal-Ovoo,Sainnoin Khan,grain,6050
+Tehran,Téhéran,grain,3010
+Firuzkuh,Téhéran,wood,6007
+Chashma,Téhéran,iron,3022
+Hamadan,Téhéran,coal,3010
+Karind,Téhéran,coal,3045
+Kermanshah,Téhéran,wood,3048
+Sinha,Téhéran,oil,3042
+Avah,Téhéran,grain,6010
+Rasht,Gilan,coal,3047
+Haran,Azerbaïdjan,coal,6025
+Ardebil,Azerbaïdjan,iron,3046
+Sakiz,Azerbaïdjan,wood,6044
+Kirk Bulakh,Azerbaïdjan,iron,3021
+Tabriz,Azerbaïdjan,coal,3042
+Suj Bulak,Azerbaïdjan,grain,3026
+Urmia,Azerbaïdjan,grain,3034
+Khoi,Azerbaïdjan,oil,3044
+Khoramabad,Gilan,iron,3010
+Balfrush,Asterabad,grain,6001
+Ashraf,Asterabad,coal,3030
+Savad,Asterabad,iron,3030
+Kalateh,Asterabad,iron,3010
+Sharh Kuh,Asterabad,iron,3030
+Asterabad,Asterabad,coal,3040
+Jorjan,Asterabad,coal,6020
+Kojak,Asterabad,wood,3008
+Khiva,Transcaspie centrale,iron,3010
+Besh Dishuk,Transcaspie centrale,iron,3010
+Karakoon,Transcaspie centrale,iron,3028
+Dehli Ata,Transcaspie centrale,oil,6040
+Krasnovodsk,Transcaspie centrale,grain,3030
+Uzun Su,Transcaspie centrale,grain,3013
+Kizi Arval,Transcaspie centrale,wood,3033
+Ashkabad,Transcaspie centrale,coal,6004
+Sagri,Transcaspie du sud,wood,3000
+Orta Kuja,Transcaspie du sud,coal,3041
+Kara Kum,Transcaspie du sud,iron,3040
+Shak Shak,Transcaspie du sud,coal,3020
+Lutfabad,Transcaspie du sud,wood,3010
+Merv,Transcaspie du sud,coal,6072
+Karout,Transcaspie du sud,grain,3024
+Zeid Wells,Transcaspie du sud,grain,6067
+Tunuklu,Boukhara,iron,3030
+Mezai,Boukhara,grain,3048
+Bukhara,Boukhara,coal,3002
+Kurshee,Boukhara,wood,3044
+Khutan,Boukhara,coal,3022
+Jizak,Samarcande et Ferghana,coal,6052
+Kojord,Samarcande et Ferghana,wood,3006
+Samarkand,Samarcande et Ferghana,iron,3022
+Sarvali,Samarcande et Ferghana,grain,3032
+Andijan,Samarcande et Ferghana,coal,3030
+Margolan,Samarcande et Ferghana,grain,3044
+Ush,Samarcande et Ferghana,iron,6048
+Wakhan,Samarcande et Ferghana,coal,3030
+Laichau,Indochine française du nord,coal,3030
+Luang Prabang,Indochine française du nord,iron,6010
+Cao-bang,Indochine française du nord,gas,3030
+Hanoi,Indochine française du nord,grain,3024
+Hua Mnong,Indochine française du nord,grain,3028
+Tanh-hoa,Indochine française du nord,fish,3032
+Quang-binh,Indochine française du nord,fish,3014
+Dong-hoi,Indochine française du nord,wood,6084
+Basso,Indochine française du sud,grain,3020
+Hue,Indochine française du sud,fish,6072
+Binh-dinh,Indochine française du sud,iron,6087
+Kanh-hoa,Indochine française du sud,fish,3010
+Lac Giao,Indochine française du sud,grain,3002
+Saigon,Indochine française du sud,wood,3040
+Cantho,Indochine française du sud,gas,3006
+Attopeu,Indochine française du sud,coal,3008
+Hǎikou,Hainan,fish,3010
+Yaxian,Hainan,fish,3034
+Qinzhou,Guangxi,grain,3046
+Nánníng,Guangxi,oil,3049
+Jiangzhou,Guangxi,gas,3004
+Guigang,Guangxi,iron,6047
+Hezhou,Guangxi,grain,6030
+Guilin,Guangxi,coal,3011
+Hechi,Guangxi,wood,3001
+Baise,Guangxi,oil,3023
+Qiandongnan,Guizhou,coal,3010
+Qiannan,Guizhou,grain,3012
+Qianxi'nan,Guizhou,gas,3020
+Liupanshui,Guizhou,iron,6067
+Guiyang,Guizhou,wood,3010
+Bijie,Guizhou,grain,3027
+Zunyi,Guizhou,wood,6084
+Tongren,Guizhou,coal,3030
+Qujing,Yunnan oriental,oil,3009
+Zhaotong,Yunnan oriental,wood,3010
+Wenshan,Yunnan oriental,coal,3001
+Yunnan-Fu,Yunnan occidental,oil,3044
+Honghe,Yunnan occidental,gas,3020
+Xishuangbanna,Yunnan occidental,iron,6010
+Pu'er,Yunnan occidental,coal,3010
+Dehong,Yunnan occidental,wood,6069
+Lincang,Yunnan occidental,grain,3010
+Lijiang,Yunnan occidental,wood,3042
+Dêqên,Yunnan occidental,grain,3023
+Dazhou,Sichuan oriental,oil,3012
+Guang'an,Sichuan oriental,grain,3013
+Nanchong,Sichuan oriental,coal,3030
+Bazhong,Sichuan oriental,wood,3031
+Guangyuan,Sichuan central,coal,6012
+Chendu,Sichuan central,grain,3044
+Ziyang,Sichuan central,grain,3033
+Leshan,Sichuan central,iron,3010
+Ya'an,Sichuan central,gas,6070
+Xiaojin,Sichuan central,wood,3023
+Songpan,Sichuan central,wood,3005
+Ngawa,Sichuan central,wood,3043
+Panzhihua,Sichuan occidental,gas,3010
+Jinyang,Sichuan occidental,wood,3026
+Liangshan,Sichuan occidental,wood,6046
+Garzê,Sichuan occidental,coal,3008
+Luhuo,Sichuan occidental,coal,3030
+Litang,Sichuan occidental,grain,6060
+Xin Long,Sichuan occidental,iron,3044
+Shiqu,Sichuan occidental,wood,3030
+Datong,Shanxi,coal,3010
+Shouzhou,Shanxi,iron,3000
+Xinzhou,Shanxi,grain,6044
+Lüliang,Shanxi,coal,3023
+Taiyuan,Shanxi,wood,3001
+Changzhi,Shanxi,wood,3010
+Linfen,Shanxi,wood,3002
+Yuncheng,Shanxi,coal,6070
+Yulin,Shaanxi,coal,6046
+Zhidan,Shaanxi,iron,3005
+Yan'an,Shaanxi,grain,3021
+Tongchuan,Shaanxi,grain,3006
+Baoji,Shaanxi,iron,3009
+Hanzhong,Shaanxi,wood,3030
+Xi'an,Shaanxi,wood,3030
+Ankang,Shaanxi,gas,6069
+Upernavik,Kitaa,coal,3010
+Godhavn,Kitaa,wood,6084
+Christianshaab,Kitaa,iron,3003
+Godthaab,Kitaa,iron,3030
+Frederiksdal,Kitaa,coal,6060
+Anmagssalik,Kitaa,grain,3000
+Scoresbysund,Kitaa,grain,3010
+Daneborg,Kitaa,gas,3008
+Thule,Avannaa,iron,3000
+Gletsjerleje,Avannaa,grain,3010
+Peary,Avannaa,coal,3044
+Rundingen,Avannaa,wood,3005
+Zogang,Kham,coal,3005
+Baxoi,Kham,grain,3029
+Jomda,Kham,iron,3028
+Qamdo,Kham,coal,6081
+Shengdaxiang,Kham,wood,3028
+Jiduoxiang,Kham,coal,3010
+Nyingchi,Tibet du sud,iron,3002
+Lhasa,Tibet du sud,oil,6030
+Lhari,Tibet du sud,grain,3048
+Nagqu,Tibet du sud,grain,3033
+Damxung,Tibet du sud,wood,3025
+Baingoin,Tibet du sud,iron,3043
+Saga,Tibet du sud,iron,3013
+Shigatse,Tibet du sud,coal,6062
+Zhongba,Tibet occidental,grain,3003
+Coqen,Tibet occidental,grain,6091
+Gerze,Tibet occidental,wood,3012
+Zanda,Tibet occidental,gas,6047
+Xiongbaxiang,Tibet occidental,coal,3043
+Gá'ěr Xiàn,Tibet occidental,iron,3034
+Kashitashixiang,Tibet occidental,grain,3028
+Xianqianxiang,Tibet occidental,iron,3028
+Yeyikexiang,Changtang occidental,coal,3030
+Chaboxiang,Changtang occidental,grain,3020
+Gumuxiang,Changtang occidental,grain,3001
+Burogxiang,Changtang occidental,iron,3010
+Bairabxiang,Changtang occidental,coal,3000
+Sewuxiang,Changtang occidental,iron,6073
+Jingyuxiang,Changtang occidental,wood,3010
+Cuorendejiaxiang,Changtang occidental,coal,3010
+Marongxiang,Changtang central,grain,6064
+Yushu,Changtang central,oil,3034
+Minhe,Changtang central,iron,6009
+Zhalinghuaxing,Changtang central,gas,3030
+Dagelexiang,Changtang central,coal,3010
+Wutumeirenxiang,Changtang central,iron,3026
+Gasixiang,Changtang central,wood,3030
+Xitieshanzhen,Changtang central,oil,3009
+Kuytun,Dzoungarie occidentale,wood,3009
+Korla,Dzoungarie occidentale,grain,3027
+Ghulja,Dzoungarie occidentale,iron,6069
+Luntai,Dzoungarie occidentale,grain,6030
+Kuqa,Dzoungarie occidentale,oil,3002
+Shihezi,Dzoungarie occidentale,iron,3026
+Gucheng,Dzoungarie occidentale,oil,3022
+Hami,Dzoungarie orientale,oil,3030
+Barkul,Dzoungarie orientale,coal,3010
+Shanshan,Dzoungarie orientale,grain,3028
+Tograk-bulak,Dzoungarie orientale,grain,3048
+Usun-bulak,Dzoungarie orientale,iron,6044
+Altmysh-bulak,Dzoungarie orientale,wood,3023
+Katunku,Dzoungarie orientale,coal,3040
+Yulgun-bulak,Dzoungarie orientale,grain,6090
+Dihua,Dzoungarie occidentale,gas,3010
+Yarkant,Xinjiang occidental,coal,3043
+Kashgar,Xinjiang occidental,iron,3049
+Aksu,Xinjiang occidental,iron,3026
+Tungzhien,Xinjiang occidental,coal,3043
+Tumxuk,Xinjiang occidental,grain,3010
+Awat,Xinjiang occidental,wood,6034
+Kargilik,Xinjiang occidental,oil,3030
+Tashkurgan,Xinjiang occidental,wood,3009
+Daliyaboyixiang,Xinjiang oriental,oil,6072
+Qakilik,Xinjiang oriental,grain,3041
+Qarqan,Xinjiang oriental,grain,3030
+Yuli,Xinjiang oriental,iron,3044
+Qimantagexiang,Xinjiang oriental,wood,3030
+Hotan,Xinjiang oriental,iron,3001
+Niya,Xinjiang oriental,iron,3048
+Tawakulexiang,Xinjiang oriental,coal,6084
+Zhengxiangbai,Xilin Gol,coal,3043
+Guisui,Xilin Gol,gas,3024
+Ulanqab,Xilin Gol,gas,3030
+Wushenzhaozhen,Ordos,wood,5887
+Wuyuan,Ordos,wood,3045
+Ih Ju,Ordos,coal,3030
+Baotou,Ordos,grain,6050
+Bayannur,Ordos,iron,3031
+Hanggin,Ordos,grain,3010
+Uxin,Ordos,coal,3007
+Jungar,Ordos,grain,3006
+Dunhuang,Gansu du nord,oil,3025
+Gangzhou,Gansu du nord,wood,3004
+Ejin,Alashan,coal,6026
+Bayanhot,Alashan,grain,3022
+Mazongshan,Alashan,gas,3046
+Jilantaizhen,Alashan,grain,6010
+Yingen,Alashan,coal,3010
+Wuliji,Alashan,wood,3030
+Pingshanhuxiang,Alashan,gas,3030
+Yabulaizhen,Alashan,iron,3010
+Jiuquan,Gansu du nord,iron,3000
+Lanzhou,Gansu du sud,wood,3010
+Wuwei,Gansu du sud,oil,3008
+Tianshui,Gansu du sud,coal,3021
+Guyuan,Gansu du sud,coal,3032
+Qingyang,Gansu du sud,iron,3023
+Linxia,Gansu du sud,wood,6026
+Minxian,Gansu du sud,grain,6030
+Longnan,Gansu du sud,iron,3046
+Dulan,Changtang oriental,grain,6021
+Madoi,Changtang oriental,gas,6030
+Zongjiazhen,Changtang oriental,grain,3010
+Balongxiang,Changtang oriental,oil,3022
+Ziketanzhen,Changtang oriental,wood,3010
+Xining,Changtang oriental,iron,3011
+Golog,Changtang oriental,oil,3026
+Tongen,Changtang oriental,iron,3029
+Nelkansk,Yakoutie du sud,coal,3010
+Nyukshask,Yakoutie du sud,gas,3010
+Magdagachi,Amour,gas,3010
+Bomnak,Amour,grain,3010
+Zeya,Amour,wood,6012
+Mogocha,Yakoutie du sud,wood,6024
+Kalarsk,Irkoutsk du nord,wood,3032
+Yakutsk,Yakoutie,coal,3028
+Oljokminsk,Yakoutie,coal,3005
+Amgask,Yakoutie du sud,oil,3027
+Amginskaya,Yakoutie du sud,iron,3031
+Oleminsk,Irkoutsk du nord,iron,6046
+Sayylyk,Yakoutie de l'ouest,gas,6072
+Tumtemsk,Irkoutsk du nord,coal,3026
+Krestovka,Irkoutsk du nord,grain,3047
+Sheneirsk,Irkoutsk du nord,grain,6032
+Arroyo Blanco,Cuba occidental,fish,6086
+Sancti Spiritus,Cuba occidental,wood,3000
+Santa Clara,Cuba occidental,grain,6010
+Cienfuegos,Cuba occidental,wood,3040
+Colón,Cuba occidental,coal,3030
+Matanzas,Cuba occidental,fish,3040
+Havana,Cuba occidental,gas,3048
+Pinar del Rio,Cuba occidental,iron,3010
+Moron,Cuba oriental,coal,6046
+San Jerónimo,Cuba oriental,fish,3010
+Puerto Principe,Cuba oriental,grain,3010
+Nuevitas,Cuba oriental,coal,3010
+Manzanillo,Cuba oriental,grain,3010
+Sama,Cuba oriental,iron,3021
+Santiago de Cuba,Cuba oriental,fish,6088
+Baracoa,Cuba oriental,wood,3028
+Kingston Town,Jamaïque,fish,3005
+Port de Paix,Saint Domingue,gas,6004
+Port au Prince,Saint Domingue,grain,3048
+Aquin,Saint Domingue,fish,3030
+Puerto Plata,Saint Domingue,fish,3046
+Las Matas de Farfán,Saint Domingue,iron,3031
+San Cristobel,Saint Domingue,wood,6012
+Santo Domingo,Saint Domingue,grain,3011
+Seybo,Saint Domingue,fish,3008
+Ponce,Porto Rico,fish,3030
+Santa Cruz de Tenerife,Canaries,wood,3010
+Las Palmas,Canaries,fish,3043
+Hamilton Island,Bermudes,fish,3027
+Puerto del Rosario,Canaries,gas,3002
+Ponta Delgada,Açores,fish,3023
+Praia,Cap-Vert,fish,3022
+São Filipe,Cap-Vert,gas,3010
+Rabil,Cap-Vert,fish,3028
+Le Trois Ilets,Antilles,iron,3010
+Roseau,Antilles,wood,3010
+Kingstown,Antilles,fish,3012
+Basse-Terre,Antilles,grain,6008
+Bridgetown,Antilles,fish,3029
+Port of Spain,Antilles,fish,3030
+Porlamar,Antilles,fish,3030
+Willemstad,Antilles,fish,3014
+São Tomé,São Tomé,fish,3010
+Jamestown,St. Hélène,coal,3003
+King Edward Point,Géorgie du Sud,grain,3002
+Port-aux-Francais,Archipel des Kerguelen,fish,3010
+Qalansiyah,Socotra,grain,3024
+Valetta,Malte,oil,3010
+Malé,Maldives,coal,3010
+Port Blair,Îles Andaman,fish,3030
+Nishinoomote,Archipel Ōsumi,iron,3003
+Amani,Îles Amami,coal,3005
+Yakushima,Archipel Ōsumi,wood,3046
+Naha,Okinawa,fish,3002
+Jeju,Jeju,iron,3010
+Flying Fish Cove,Île Christmas,fish,3007
+Makin,Îles Gilbert,gas,3010
+Tarawa,Îles Gilbert,iron,3026

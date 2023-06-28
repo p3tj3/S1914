@@ -1,0 +1,1037 @@
+name,nation,resource,base-output
+Madrid,Espagne,oil,6000
+Barcelona,Espagne,wood,3000
+Malaga,Espagne,iron,6000
+Badajoz,Espagne,gas,3000
+Santiago,Espagne,gas,3000
+Palma,Espagne,fish,3000
+Bilbao,Espagne,iron,3000
+Murcia,Espagne,grain,3000
+Paris,France,grain,3000
+Nancy,France,coal,6000
+Rennes,France,fish,3000
+Ajaccio,France,iron,3000
+Bordeaux,France,iron,6000
+Chumikan,République d'Extrême-Orient,wood,3000
+Marseille,France,oil,3000
+Dijon,France,wood,3000
+Berlin,Norvège,coal,6000
+Hamburg,Finlande Russe,oil,3000
+Danzig,Prusse,fish,3000
+Breslau,Pologne,iron,3000
+Munich,L'Empire Allemand,grain,3000
+Cologne,L'Empire Allemand,coal,6000
+Dresden,L'Empire Allemand,wood,3000
+Strasbourg,L'Empire Allemand,iron,3000
+London,Royaume d'Angleterre,grain,3000
+Exeter,Royaume d'Angleterre,fish,3000
+Birmingham,Irlande,iron,6000
+Liverpool,Irlande,iron,3000
+Newcastle,Irlande,coal,6000
+Douglas,Île de Man,coal,3000
+Norwich,Irlande,oil,3000
+Carlisle,Irlande,gas,3000
+Vienna,Autriche,wood,3000
+Innsbruck,Autriche,iron,6000
+Prague,Autriche,grain,6000
+Budapest,Royaume de Hongrie,wood,6000
+Trieste,Autriche,fish,3000
+Tarnopol,République socialiste soviétique d'Ukraine,iron,3000
+Lemberg,République socialiste soviétique d'Ukraine,coal,3000
+Weißenburg,Royaume de Hongrie,oil,6000
+Rome,Italie,coal,6000
+Catanzaro,Italie,grain,3000
+Bari,Italie,iron,3000
+Turin,Italie,grain,6000
+Venice,Vénétie,oil,3000
+Bologna,Italie,fish,3000
+Palermo,Italie,oil,3000
+Cagliari,Italie,wood,3000
+Athens,Grèce,grain,6000
+Patras,Grèce,iron,3000
+Yanina,Grèce,coal,6000
+Salonica,Grèce,gas,3000
+Iraklion,Grèce,fish,3000
+Tirane,Grèce,iron,3000
+Rhodos,Grèce,wood,3000
+Corfu,Grèce,wood,3000
+Christiania,Finlande Russe,wood,3000
+Bergen,Finlande Russe,oil,3000
+Christiansand,Finlande Russe,grain,3000
+Trondheim,Finlande Russe,iron,3000
+Mo,Finlande Russe,gas,6000
+Tromsoe,Finlande Russe,oil,3000
+Hammerfest,Finlande Russe,iron,3000
+Vardoe,Finlande Russe,fish,6000
+Stockholm,Finlande Russe,grain,3000
+Gothenburg,Finlande Russe,coal,3000
+Östersund,Finlande Russe,iron,3000
+Lulea,Finlande Russe,gas,3000
+Kiruna,Finlande Russe,wood,6000
+Mora,Finlande Russe,wood,6000
+Umea,Finlande Russe,fish,3000
+Visby,Finlande Russe,iron,3000
+Helsingfors,Finlande Russe,iron,3000
+Murmansk,Finlande Russe,oil,3000
+Kem,Finlande Russe,wood,3000
+Ivalo,Finlande Russe,coal,3000
+Oulu,Finlande Russe,fish,3000
+Mikkeli,Finlande Russe,wood,6000
+Nikolaistad,Finlande Russe,gas,3000
+Muonio,Finlande Russe,oil,3000
+Edinburgh,Irlande,grain,6000
+Glasgow,Irlande,iron,3000
+Aberdeen,Irlande,coal,3000
+Fort William,Irlande,oil,3000
+Durness,Irlande,iron,3000
+Dunvegan,Irlande,grain,3000
+Stornoway,Écosse,fish,3000
+Kirkwall,Écosse,gas,3000
+Dublin,Irlande,fish,6000
+Cork,Irlande,grain,3000
+Carlow,Irlande,grain,3000
+Galway,Irlande,wood,6000
+Belfast,Irlande,gas,3000
+Donegal,Irlande,wood,3000
+Sligo,Irlande,iron,3000
+Limerick,Irlande,coal,3000
+Białystok,Pologne,iron,3000
+Klaipeda,Pologne,fish,3000
+Odessa,République populaire de Crimée,fish,3000
+Kharkiv,État ukrainien,coal,3000
+Warsaw,Pologne,grain,6000
+Lublin,Pologne,oil,3000
+Bakhchysarai,République populaire de Crimée,fish,3000
+Zhytomyr,État ukrainien,grain,6000
+Rankin Inlet,Canada,wood,6000
+Churchill,États Fédérés d'Amérique,iron,3000
+Baker Lake,Canada,coal,3000
+Repulse Bay,Canada,fish,6000
+Bathurst Inlet,États Fédérés d'Amérique,grain,3000
+Winnipeg,États Fédérés d'Amérique,grain,3000
+Flin Flon,États Fédérés d'Amérique,wood,3000
+Reliance,États Fédérés d'Amérique,oil,3000
+Ottawa,Canada Britannique,coal,6000
+Quebec,Canada Britannique,wood,3000
+Halifax,Canada Britannique,fish,3000
+Kirkland Lake,Canada Britannique,grain,6000
+Kuujjuarapik,Canada Britannique,oil,3000
+Nitchequon,Canada Britannique,grain,3000
+Cahiapiscau,Canada Britannique,wood,3000
+Gagnon,Canada Britannique,oil,3000
+Iqaluit,Baffin,oil,3000
+Kimmirut,Baffin,grain,3000
+Cape Dorset,Baffin,iron,3000
+Brevoort,Baffin,fish,6000
+Cape Mercy,Baffin,gas,6000
+Ivujivik,Baffin,fish,3000
+Inukjuak,Baffin,iron,3000
+Kangrisuk,Baffin,coal,3000
+Godthab,Baffin,iron,3000
+Nanortalik,Baffin,iron,3000
+Tasilaq,Baffin,gas,6000
+Frederikshab,Baffin,fish,6000
+Reykjavik,Groenland Danois,oil,3000
+Akureyri,Groenland Danois,wood,3000
+Djupivogur,Groenland Danois,coal,3000
+Torshavn,Îles Féroé,grain,3000
+Minneapolis,États Fédérés d'Amérique,wood,6000
+Bemidiji,États Fédérés d'Amérique,iron,3000
+Wilmar,États Fédérés d'Amérique,grain,6000
+Des Moines,États Fédérés d'Amérique,coal,3000
+Escanaba,États Fédérés d'Amérique,fish,3000
+Wausau,États Fédérés d'Amérique,grain,3000
+Turtle Mountain,États Fédérés d'Amérique,coal,3000
+Davenport,États Fédérés d'Amérique,iron,3000
+Washington D.C,États-Unis d'Amérique,wood,6000
+Boston,États-Unis d'Amérique,gas,3000
+Montpelier,États-Unis d'Amérique,grain,3000
+Houlton,États-Unis d'Amérique,fish,3000
+Columbus,États-Unis d'Amérique,iron,6000
+Indianapolis,États-Unis d'Amérique,grain,3000
+Lansing,États-Unis d'Amérique,oil,3000
+Chicago,États-Unis d'Amérique,wood,3000
+Atlanta,États-Unis d'Amérique,grain,6000
+Columbia,États-Unis d'Amérique,wood,3000
+Orlando,Confédération Américaine,fish,3000
+Little Rock,Confédération Américaine,iron,6000
+Fort Smith,Confédération Américaine,gas,3000
+Houston,Confédération Américaine,wood,3000
+Jackson,Confédération Américaine,oil,3000
+Nassau,Confédération Américaine,iron,3000
+Mexico City,Mexique,iron,6000
+Merida,Nations-unies latino-américaines,oil,3000
+Salina Cruz,Mexique,wood,6000
+Monterrey,Mexique révolutionnaire,iron,3000
+Ciudad Victoria,Mexique révolutionnaire,grain,6000
+Acapulco,Mexique,grain,3000
+Tampico,Mexique révolutionnaire,gas,3000
+Chiapas,Mexique,fish,3000
+San Salvador,Mexique,coal,6000
+Managua,Mexique,gas,3000
+Puerto Cabezas,Mexique,iron,3000
+San Jose,Mexique,fish,3000
+Tegucigalpa,Mexique,grain,3000
+Tela,Mexique,wood,3000
+Guatemala City,Mexique,grain,3000
+Belmopan,Mexique,iron,6000
+Havana,République des Caraïbes,oil,6000
+Kingston,Jamaïque britannique,fish,3000
+Guantanamo,République des Caraïbes,oil,3000
+Santo Domingo,République des Caraïbes,coal,3000
+San Juan,Vénézuéla,grain,3000
+Port-au-Prince,République des Caraïbes,wood,3000
+Las Tunas,République des Caraïbes,gas,3000
+Cienfuegos,République des Caraïbes,iron,3000
+Kapuskasing,États Fédérés d'Amérique,grain,3000
+Timmins,États Fédérés d'Amérique,gas,3000
+Attawapiskat,États Fédérés d'Amérique,fish,3000
+Fort Severn,États Fédérés d'Amérique,coal,3000
+Sandy Lake,États Fédérés d'Amérique,wood,6000
+Marathon,États Fédérés d'Amérique,coal,3000
+Chapleau,États Fédérés d'Amérique,iron,6000
+Pikangikum,États Fédérés d'Amérique,iron,3000
+Caracas,Vénézuéla,oil,6000
+Cabimas,Vénézuéla,fish,3000
+Elorza,Vénézuéla,wood,3000
+Capibara,Vénézuéla,coal,3000
+Luepa,Vénézuéla,wood,3000
+Maturin,Vénézuéla,iron,6000
+Ciudad Bolivar,Vénézuéla,iron,3000
+San Christobal,Vénézuéla,grain,3000
+Bogota,Colombie,oil,3000
+Cucuta,Colombie,coal,3000
+Pasto,Colombie,wood,6000
+Araracuara,Colombie,oil,3000
+Mitu,Colombie,gas,3000
+Arauca,Colombie,gas,6000
+Monteria,Colombie,fish,3000
+Quibdo,Colombie,grain,3000
+Manaus,États-Unis du Brésil,wood,6000
+Belem,États-Unis du Brésil,grain,6000
+Recife,Bahia,fish,3000
+Goiania,États-Unis du Brésil,coal,3000
+Aracatuba,États-Unis du Brésil,oil,3000
+Campo Grande,États-Unis du Brésil,iron,3000
+Cuiaba,États-Unis du Brésil,coal,3000
+Boa Vista,États-Unis du Brésil,wood,3000
+Lima,Pérou,coal,3000
+Iquitos,Pérou,gas,3000
+Piura,Pérou,fish,3000
+Tarapoto,Pérou,iron,6000
+Cusco,Pérou,grain,6000
+Arecuipa,Pérou,coal,3000
+Atalaya,Pérou,wood,3000
+Inapari,Pérou,iron,3000
+Buenos Aires,Argentine,fish,6000
+Santa Fe,Argentine,iron,3000
+Bahia Blanca,Argentine,grain,3000
+Neuquen,Argentine,gas,6000
+Sarniento,Argentine,wood,3000
+El Calafate,Argentine,iron,3000
+Ushuaia,Argentine,oil,3000
+Puerto Deseado,Argentine,oil,3000
+Cordoba,République de Piratini,gas,3000
+San Rafael,République de Piratini,coal,6000
+Salta,Bolivie,grain,3000
+Formosa,République de Piratini,iron,3000
+Eldorado,République de Piratini,wood,3000
+Resistencia,République de Piratini,grain,3000
+Rio Cuarto,République de Piratini,coal,3000
+Mendoza,République de Piratini,iron,6000
+Santiago de Chile,République d'Argentine,fish,6000
+Arica,Chili,grain,3000
+Copiapo,Chili,wood,6000
+La Serena,Chili,iron,3000
+Punta Arenas,Argentine,coal,3000
+Puerto Montt,Argentine,iron,3000
+Concepcion,Argentine,grain,3000
+Puerto Aisen,Argentine,oil,3000
+Farroupilha,République de Piratini,wood,6000
+Diamantina,République de Piratini,gas,3000
+Paracuta,République de Piratini,oil,3000
+Foz do Iguacu,République de Piratini,gas,6000
+Rio de Janeiro,République de Piratini,fish,3000
+Santana do Livramento,République de Piratini,fish,3000
+Curitiba,République de Piratini,iron,3000
+Dourados,République de Piratini,iron,3000
+Quito,Équateur,grain,3000
+Guayaquil,Équateur,fish,6000
+Zaruma,Équateur,grain,3000
+Macas,Équateur,wood,6000
+Nueva Loja,Équateur,gas,3000
+Nuevo Rocafuerte,Pérou,wood,3000
+Flor de Agosto,Pérou,oil,3000
+Cuenca,Équateur,iron,3000
+Sucre,Bolivie,iron,6000
+Tarija,Bolivie,coal,3000
+Las Petas,Bolivie,coal,6000
+Robore,Bolivie,grain,3000
+Magdalena,Bolivie,wood,3000
+Reyes,Bolivie,grain,3000
+Uyuni,Bolivie,fish,3000
+La Paz,Bolivie,gas,3000
+Algiers,Maroc Français,fish,3000
+Bone,Maroc Français,grain,6000
+Illizi,Maroc Français,wood,3000
+Fort Laperrine,Maroc Français,iron,3000
+Reggane,Maroc Français,gas,6000
+Tindouf,Maroc Français,oil,3000
+Bechar,Maroc Français,oil,3000
+Touggourt,Maroc Français,iron,3000
+Tripoli,Libye Italienne,grain,3000
+Ghadamis,Libye Italienne,coal,3000
+Ghat,Libye Italienne,oil,3000
+Toummo,Egypte Britannique,iron,6000
+Tobruk,Egypte Britannique,fish,6000
+Maradah,Egypte Britannique,gas,3000
+Awijila,Egypte Britannique,coal,3000
+Zillah,Egypte Britannique,iron,3000
+Cairo,Egypte Britannique,grain,3000
+Hurghada,Egypte Britannique,iron,3000
+Abu Simbel,Egypte Britannique,grain,3000
+Mut,Egypte Britannique,gas,3000
+Siwa,Egypte Britannique,gas,6000
+Sallum,Egypte Britannique,wood,6000
+El Arish,Egypte Britannique,fish,3000
+El Minya,Egypte Britannique,oil,3000
+Bamako,Afrique Occidentale Française,gas,3000
+Bougouni,Afrique Occidentale Française,iron,3000
+Kayes,Afrique Occidentale Française,coal,6000
+Menaka,Afrique Occidentale Française,grain,3000
+Tessalit,Afrique Occidentale Française,coal,3000
+Atar,Afrique Occidentale Française,iron,3000
+Ain Ben Tili,Afrique Occidentale Française,wood,6000
+Nouakchott,Afrique Occidentale Française,fish,3000
+Abuja,Nigéria Britannique,grain,3000
+Maiduguri,Nigéria Britannique,wood,3000
+Katsina,Nigéria Britannique,iron,6000
+Ikeja,Nigéria Britannique,iron,3000
+Yenagoa,Nigéria Britannique,fish,6000
+Jalingo,Nigéria Britannique,oil,3000
+Gusau,Nigéria Britannique,gas,3000
+Dutse,Nigéria Britannique,wood,3000
+Addis Ababa,Abyssinie,coal,3000
+Mekele,Abyssinie,grain,6000
+Yoboki,Abyssinie,fish,3000
+Gonder,Abyssinie,iron,3000
+Gambela,Abyssinie,wood,6000
+Maji,Abyssinie,iron,3000
+Yabelo,Abyssinie,coal,3000
+El Koran,Abyssinie,grain,3000
+Ndjamena,Afrique Équatoriale Française,iron,6000
+Nokou,Afrique Équatoriale Française,oil,3000
+Moundou,Afrique Équatoriale Française,grain,3000
+Sarh,Afrique Équatoriale Française,coal,3000
+Adre,Afrique Équatoriale Française,grain,3000
+Mongo,Afrique Équatoriale Française,grain,6000
+Bardai,Afrique Équatoriale Française,wood,3000
+Fada,Afrique Équatoriale Française,coal,3000
+Khartoum,Soudan Anglo-Egyptien,wood,3000
+Juba,Soudan Anglo-Egyptien,iron,6000
+Malakal,Soudan Anglo-Egyptien,gas,3000
+Nyala,Soudan Anglo-Egyptien,grain,3000
+Kassala,Soudan Anglo-Egyptien,gas,3000
+Wadi Halfa,Egypte Britannique,oil,3000
+Bur Sudan,Soudan Anglo-Egyptien,fish,3000
+El Fasher,Soudan Anglo-Egyptien,iron,6000
+Pretoria,Mozambique Portugais,iron,3000
+Port Elizabeth,Mozambique Portugais,grain,3000
+Springbok,Mozambique Portugais,fish,3000
+Cape Town,Mozambique Portugais,gas,6000
+Durban,Mozambique Portugais,coal,6000
+Tshane,Mozambique Portugais,oil,3000
+Salisbury,Rhodésie du Sud,iron,3000
+Gaborone,Namibie Germanique,wood,3000
+Leopoldville,Congo Belge,fish,3000
+Kananga,Congo Belge,oil,3000
+Lubumbashi,Rhodésie du Nord,coal,3000
+Bukavu,Congo Belge,wood,6000
+Dungu,Congo Belge,oil,3000
+Mbandaka,Congo Belge,grain,3000
+Kindu,Congo Belge,wood,6000
+Gemena,Congo Belge,iron,3000
+Yaounde,Cameroun Allemand,fish,6000
+Moloundou,Cameroun Allemand,coal,3000
+Ebolowa,Cameroun Allemand,oil,3000
+Douala,Cameroun Allemand,grain,3000
+Bamenda,Cameroun Allemand,grain,3000
+Garoua,Cameroun Allemand,wood,3000
+Boulai,Cameroun Allemand,coal,3000
+Bertoua,Cameroun Allemand,iron,6000
+Windhoek,Namibie Germanique,grain,6000
+Ais Ais,Namibie Germanique,iron,3000
+Lüderitz,Namibie Germanique,gas,3000
+Khorixas,Namibie Germanique,fish,3000
+Opuwo,Namibie Germanique,grain,3000
+Tsumkwe,Namibie Germanique,iron,3000
+Rundu,Namibie Germanique,wood,3000
+Kongala,Namibie Germanique,coal,6000
+Dodoma,Tanzanie Germanique,iron,3000
+Burundi,Tanzanie Germanique,iron,3000
+Kigali,Tanzanie Germanique,wood,3000
+Arusha,Tanzanie Germanique,grain,3000
+Tanga,Tanzanie Germanique,fish,6000
+Lindl,Tanzanie Germanique,coal,6000
+Mbamba Bay,Tanzanie Germanique,grain,3000
+Sumbawanga,Tanzanie Germanique,gas,3000
+Sao Paulo d.A.,Congo Belge,grain,6000
+Lucapa,Congo Belge,coal,3000
+Vila Luso,Congo Belge,grain,3000
+Ondjiva,Namibie Germanique,oil,3000
+Mocamedes,Namibie Germanique,fish,3000
+Katima Mulilo,Congo Belge,coal,3000
+Huambo,Congo Belge,oil,3000
+Uige,Congo Belge,wood,6000
+Maputo,Mozambique Portugais,grain,3000
+Mabote,Mozambique Portugais,coal,3000
+Mandingos,Mozambique Portugais,oil,3000
+Tete,Mozambique Portugais,wood,6000
+Lourenco Marques,Mozambique Portugais,grain,3000
+Mueta,Mozambique Portugais,fish,6000
+Lichinga,Mozambique Portugais,iron,3000
+Angoche,Mozambique Portugais,coal,3000
+Antananarivo,Madagascar Français,iron,3000
+Mahajanga,Madagascar Français,grain,3000
+Antsiranana,Madagascar Français,fish,6000
+Morondava,Madagascar Français,coal,3000
+Toliara,Madagascar Français,iron,3000
+Tolagnaro,Madagascar Français,grain,3000
+Antalaha,Madagascar Français,coal,3000
+Saint-Denis,La Réunion,wood,3000
+Ouagadougou,République de Haute Volta,grain,3000
+Parakou,République de Haute Volta,iron,6000
+Accra,République de Haute Volta,fish,3000
+Sassandra,République de Haute Volta,iron,6000
+Conakry,République de Haute Volta,fish,3000
+Korhogo,République de Haute Volta,coal,3000
+Kankan,République de Haute Volta,oil,3000
+Ziguinchor,République de Haute Volta,gas,3000
+Fez,Maroc Français,wood,6000
+Rabat,Maroc Français,coal,3000
+Oujda,Maroc Français,iron,3000
+Rachidia,Maroc Français,grain,3000
+Goulimime,Maroc Français,fish,3000
+Assa,Maroc Français,iron,6000
+Agadir,Maroc Français,oil,3000
+Bu Craa,Maroc Français,oil,3000
+Phnom Penh,Union Indochinoise,grain,3000
+Phan Tiet,Union Indochinoise,fish,3000
+Can Tho,Union Indochinoise,oil,3000
+Pakse,République de Chine,iron,6000
+Danang,République de Chine,grain,3000
+Vientiane,République de Chine,gas,3000
+Hanoi,République de Chine,coal,6000
+Fansipan,République de Chine,iron,3000
+Tehran,Perse,oil,6000
+Mashhad,Perse,grain,3000
+Chabahar,Perse,fish,3000
+Bushehr,Perse,gas,3000
+Tabriz,Perse,grain,3000
+Ahvaz,Perse,oil,6000
+Jasd,Perse,wood,3000
+Kermanshah,Perse,coal,3000
+Constantinople,L'Empire Ottoman,wood,6000
+Ankara,L'Empire Ottoman,wood,3000
+Kars,L'Empire Ottoman,gas,3000
+Damascus,Royaume du Hedjaz,grain,3000
+Basra,Perse,oil,3000
+Baghdad,L'Empire Ottoman,iron,3000
+Izmir,L'Empire Ottoman,iron,6000
+Mersin,L'Empire Ottoman,fish,3000
+Tokyo,Empire Japonais,coal,3000
+Sendai,Empire Japonais,gas,6000
+Sapporo,Hokkaido,grain,3000
+Kobe,Empire Japonais,iron,6000
+Hiroshima,Empire Japonais,grain,3000
+Kumamoto,Empire Japonais,gas,3000
+Kochi,Empire Japonais,fish,3000
+Kanazawa,Empire Japonais,iron,3000
+Rawalpindi,Pakistan Britannique,oil,3000
+Gilgit,Pakistan Britannique,iron,6000
+Karachi,Pakistan Britannique,fish,3000
+Turbat,Pakistan Britannique,iron,3000
+Nok Kundi,Pakistan Britannique,grain,3000
+Multan,Pakistan Britannique,gas,3000
+Zhob,Pakistan Britannique,coal,6000
+Lahore,Pakistan Britannique,grain,3000
+Rangoon,Burma Britannique,grain,6000
+Putao,Burma Britannique,iron,3000
+Hakhna,Burma Britannique,oil,3000
+Akyap,Burma Britannique,iron,3000
+Taunggyi,Burma Britannique,coal,6000
+Dawei,Burma Britannique,fish,3000
+Mawlamyine,Burma Britannique,coal,3000
+Mandalay,Burma Britannique,wood,3000
+Ludhiana,Pakistan Britannique,wood,3000
+Port Blair,Îles Andaman,grain,3000
+Calcutta,Madras britannique,fish,3000
+Benares,Madras britannique,oil,3000
+Hyderabad,Madras britannique,coal,3000
+Madras,Madras britannique,gas,6000
+Kakinandivada,Madras britannique,oil,6000
+Colombo,Madras britannique,fish,3000
+Riyadh,Arabie,oil,6000
+Medina,Arabie,gas,3000
+Sakaka,Arabie,grain,3000
+Tayma,Arabie,wood,3000
+Abha,Arabie,fish,3000
+Layla,Arabie,iron,3000
+Rafha,Arabie,oil,6000
+Al Safiya,Arabie,iron,3000
+Dihua,Sinkiang Chinois,grain,3000
+Hami,Sinkiang Chinois,wood,6000
+Minfeng,Sinkiang Chinois,oil,3000
+Kashgar,Sinkiang Chinois,iron,3000
+Yinjing,Sinkiang Chinois,gas,3000
+Dzungaria Basin,Sinkiang Chinois,iron,6000
+Korla,Sinkiang Chinois,grain,3000
+Loulan,Sinkiang Chinois,wood,3000
+Petrograd,Finlande Russe,iron,3000
+Petrozavosk,Finlande Russe,fish,3000
+Smolensk,Russie Communiste,gas,3000
+Moscow,Russie Communiste,coal,6000
+Pskov,Finlande Russe,oil,3000
+Tver,Finlande Russe,grain,6000
+Belgorod,Russie Communiste,iron,3000
+Kursk,Russie Communiste,gas,3000
+Yekaterinburg,Kazakhstan Russe,coal,6000
+Saratov,République populaire du Kouban,coal,3000
+Orenburg,Empire Russe,wood,6000
+Kazan,Empire Russe,iron,3000
+Tsaritsyn,République populaire du Kouban,grain,3000
+Voronezh,Volga russe,oil,3000
+Vladimir,Empire Russe,iron,3000
+Nizhniy Novgorod,Archangelsk Russe,grain,3000
+Irkutsk,Sinkiang Chinois,wood,3000
+Omsk,Nation russe,grain,3000
+Novosibirsk,Sinkiang Chinois,iron,3000
+Krasnoyarsk,Sibérie Russe,wood,3000
+Aykhal,Sibérie Russe,gas,3000
+Werchneturinski,Sibérie Russe,coal,6000
+Nizhnevartosk,Sibérie Russe,wood,3000
+Noyabrsk,Sibérie Russe,grain,3000
+Yakutsk,Yakutie Russe,wood,6000
+Magadan,Yakutie Russe,wood,3000
+Chabarovsk,République d'Extrême-Orient,grain,3000
+Alexeyevsk,République d'Extrême-Orient,oil,3000
+Tshita,Mandchourie,wood,6000
+Ochotsk,Yakutie Russe,fish,6000
+Milkovo,Yakutie Russe,fish,3000
+Allakh-Yun,Yakutie Russe,gas,3000
+Archangelsk,Archangelsk Russe,fish,3000
+Vologda,Archangelsk Russe,wood,6000
+Vyatka,Archangelsk Russe,grain,3000
+Yoshkar Ola,Archangelsk Russe,oil,3000
+Syktyvkar,Archangelsk Russe,gas,6000
+Ukhta,Archangelsk Russe,iron,3000
+Mezen,Archangelsk Russe,oil,3000
+Koslan,Archangelsk Russe,wood,3000
+Akmolinsk,Kazakhstan Russe,wood,6000
+Ust-Kamenogorsk,Kazakhstan Russe,gas,3000
+Verniy,Kazakhstan Russe,iron,3000
+Aqtau,Kazakhstan Russe,gas,3000
+Shymkent,Kazakhstan Russe,iron,3000
+Aralsk,Kazakhstan Russe,grain,6000
+Gurjew,Kazakhstan Russe,fish,3000
+Kustanai,Kazakhstan Russe,oil,3000
+Ashgabat,Turkestan Russe,iron,3000
+Krasnovodsk,Turkestan Russe,fish,3000
+Tashauz,Turkestan Russe,grain,6000
+Chardjuy,Turkestan Russe,coal,3000
+Merv,Turkestan Russe,coal,6000
+Navoiy,Turkestan Russe,oil,3000
+Samarqand,Turkestan Russe,wood,3000
+Yerbent,Turkestan Russe,iron,3000
+Shenyang,Fengtian,fish,3000
+Harbin,Mandchourie,grain,6000
+Hailar,Mandchourie,grain,3000
+Sulian,Mandchourie,coal,6000
+Sunwu,Mandchourie,wood,3000
+Fuxin,Fengtian,grain,3000
+Baicheng,Mandchourie,gas,3000
+Jilin,Mandchourie,wood,3000
+Xining,Empire Chinois,grain,6000
+Xian,Hongxian,gas,3000
+Shiguaigou,Empire Chinois,coal,3000
+Jiayuguan,Empire Chinois,wood,3000
+Waxxari,Empire Chinois,oil,6000
+Wudaoliang,Empire Chinois,iron,3000
+Deqen,Empire Chinois,wood,3000
+Ximiao,Empire Chinois,iron,3000
+Peking,Hongxian,fish,6000
+Hohhot,Hongxian,wood,3000
+Sonid Zuoqi,Hongxian,iron,3000
+Tsingtao,Shandong allemand,grain,3000
+Shanghai,Hongxian,oil,6000
+Shiyan,Hongxian,iron,3000
+Xingyi,Guizhou,gas,3000
+Guangzhou,République de Chine,fish,6000
+Mecca,Royaume du Hedjaz,iron,6000
+Baha,Royaume du Hedjaz,oil,3000
+Tabuk,Royaume du Hedjaz,coal,3000
+Badr Hunayn,Royaume du Hedjaz,fish,6000
+Al Wajh,Royaume du Hedjaz,wood,3000
+Jerusalem,Royaume du Hedjaz,iron,3000
+Gaza,Royaume du Hedjaz,wood,3000
+Umm Lajj,Royaume du Hedjaz,grain,3000
+Seoul,Hongxian,iron,3000
+Pyongyang,Mandchourie,fish,6000
+Songjin,Mandchourie,gas,3000
+Pusan,Hongxian,wood,3000
+Kwangju,Hongxian,oil,3000
+Adong,Hongxian,grain,6000
+Manoo,Mandchourie,coal,3000
+Kangnung,Empire Coréen,grain,3000
+Bangkok,Siam,gas,6000
+Surin,Siam,iron,3000
+Ubon Thani,Siam,coal,3000
+Phitsanulok,Siam,grain,3000
+Chiang Mai,Siam,coal,3000
+Phuket,Siam,wood,6000
+Khao Lak,Siam,fish,3000
+Songkhla,Siam,grain,3000
+Sydney,Nouvelle-Galles du Sud,oil,3000
+Adelaide,Nouvelle-Galles du Sud,grain,6000
+Brisbane,Nouvelle-Galles du Sud,fish,3000
+Alice Springs,Australie-Méridionale,wood,3000
+Kulgera,Australie-Méridionale,gas,3000
+Longreach,Nouvelle-Galles du Sud,iron,3000
+Mackay,Nouvelle-Galles du Sud,grain,3000
+Cunnamulla,Nouvelle-Galles du Sud,coal,3000
+Perth,Australie-Occidentale,fish,6000
+Dampier,Australie-Occidentale,gas,3000
+Carnarvon,Australie-Occidentale,coal,3000
+Cook,Australie-Méridionale,oil,3000
+Yulara,Australie-Méridionale,gas,3000
+Port Hedland,Australie-Occidentale,grain,3000
+Warburton,Australie-Occidentale,wood,6000
+Albany,Australie-Occidentale,gas,3000
+Darwin,Australie-Occidentale,iron,3000
+Cairns,Australie-Occidentale,fish,3000
+Derby,Australie-Occidentale,iron,3000
+Tea Tree,Australie-Occidentale,wood,6000
+Cloncurry,Australie-Occidentale,coal,6000
+Lajamanu,Australie-Occidentale,oil,3000
+Kulumburu,Australie-Occidentale,grain,3000
+Borroloola,Australie-Occidentale,grain,3000
+Jakarta,Êtats Fédérés Malais,fish,6000
+Denpasar,Indes Hollandaises,gas,6000
+Cliacap,Êtats Fédérés Malais,gas,3000
+Surabaya,Êtats Fédérés Malais,wood,3000
+Palembang,Indes Hollandaises,iron,3000
+Medan,Siam,grain,3000
+Padang,Indes Hollandaises,wood,3000
+Banda Aceh,Indes Hollandaises,coal,3000
+Kendawangan,Êtats Fédérés Malais,oil,3000
+Belinyu,Indonésie Hollandaise,coal,3000
+Palangkaraya,Indonésie Hollandaise,wood,3000
+Sangkuriang,Êtats Fédérés Malais,grain,3000
+Sintang,Êtats Fédérés Malais,oil,3000
+Singkawang,Êtats Fédérés Malais,coal,3000
+Kotabaru,Êtats Fédérés Malais,fish,6000
+Muara Wahau,Êtats Fédérés Malais,gas,6000
+Manila,Philippines américaines,wood,6000
+Luzon,Philippines américaines,iron,3000
+Puerto Princesa,Philippines américaines,coal,3000
+Calapan,Philippines américaines,fish,3000
+Naga,Philippines américaines,gas,3000
+Calbayog,Philippines américaines,iron,3000
+Baguio,Philippines américaines,grain,6000
+Dumaran,Philippines américaines,wood,3000
+Cebu,République Moro des Philippines,coal,6000
+Tacloban,Philippines américaines,fish,3000
+Butuan,Philippines américaines,wood,3000
+Illoilo Bacolod,République Moro des Philippines,iron,6000
+Jolo,République Moro des Philippines,oil,3000
+Davao,Philippines américaines,wood,3000
+Iligan,Philippines américaines,grain,3000
+Zamboanga,Philippines américaines,iron,3000
+Bandar Seri Begawan,Indonésie Hollandaise,wood,6000
+Kuching,Êtats Fédérés Malais,oil,3000
+Singapore,Êtats Fédérés Malais,fish,6000
+Kuala Lumpur,Siam,grain,3000
+Sandakan,Bornéo du Nord,gas,3000
+Sibu,Êtats Fédérés Malais,fish,3000
+Kudat,Bornéo du Nord,iron,3000
+Tatau,Êtats Fédérés Malais,wood,3000
+Wellington,Nouvelle-Zélande Britannique,coal,3000
+Whangarei,Nouvelle-Zélande Britannique,gas,3000
+Rotorua,Nouvelle-Zélande Britannique,grain,3000
+Timaru,Nouvelle-Zélande Britannique,wood,6000
+Invercargill,Nouvelle-Zélande Britannique,grain,3000
+Nelson,Nouvelle-Zélande Britannique,iron,6000
+Hokitika,Nouvelle-Zélande Britannique,oil,3000
+Christchurch,Nouvelle-Zélande Britannique,coal,3000
+Timika,Nouvelle-Guinée Hollandaise,wood,3000
+Sorong,Nouvelle-Guinée Hollandaise,grain,6000
+Merauke,Nouvelle-Guinée Hollandaise,fish,3000
+Jayapura,Nouvelle-Guinée Hollandaise,oil,3000
+Sarmi,Nouvelle-Guinée Hollandaise,iron,3000
+Kotamobagu,Nouvelle-Guinée Hollandaise,iron,6000
+Makassar,Nouvelle-Guinée Hollandaise,gas,3000
+Kolaka,Nouvelle-Guinée Hollandaise,grain,3000
+Port Moresby,Nouvelle-Guinée Hollandaise,iron,3000
+Madang,Nouvelle-Guinée Hollandaise,grain,3000
+Vanimo,Nouvelle-Guinée Hollandaise,coal,6000
+Daru,Papouasie britannique,gas,3000
+Alotau,Nouvelle-Guinée Hollandaise,coal,3000
+Hoskins,Nouvelle-Guinée Hollandaise,wood,6000
+Kieta,Papouasie Nouvelle-Guinée,iron,3000
+Kavieng,Papouasie Nouvelle-Guinée,fish,3000
+Lisbon,Espagne,grain,3000
+Porto,Espagne,coal,3000
+Nicosia,Chypre,grain,3000
+Cardiff,Pays de Galles,wood,3000
+Wrexham,Pays de Galles,fish,3000
+Holyhead,Pays de Galles,wood,3000
+Brussels,Belgique,iron,3000
+Charleroi,Belgique,coal,3000
+Amsterdam,L'Empire Allemand,gas,3000
+Zwolle,L'Empire Allemand,fish,3000
+Bern,Suisse,wood,3000
+Lugano,Suisse,gas,3000
+Belgrade,Serbie,grain,3000
+Pristina,Serbie,iron,3000
+Cettigne,Serbie,fish,3000
+Bucharest,Roumanie,oil,3000
+Iași,Roumanie,fish,3000
+Sofia,Bulgarie,wood,3000
+Komotini,L'Empire Ottoman,grain,3000
+Copenhagen,Finlande Russe,coal,3000
+Aarhus,Finlande Russe,grain,3000
+Skagen,Finlande Russe,grain,3000
+Riga,Finlande Russe,grain,3000
+Tallinn,Finlande Russe,gas,3000
+Kuressaare,Finlande Russe,wood,3000
+Gonzalez,Mexique révolutionnaire,oil,3000
+San Antonio,République de Californie,coal,3000
+Port Menier,Canada Britannique,wood,3000
+Labrador,Terre-Neuve,gas,3000
+Gander,Terre-Neuve,fish,6000
+Natashquan,Terre-Neuve,wood,3000
+Hamilton,Bermudes Britanniques,grain,3000
+Panama City,Colombie,iron,3000
+El Tigre,Nations-unies latino-américaines,oil,3000
+Coral Harbour,Baffin,grain,3000
+Alijivik,Baffin,fish,3000
+Madalena,Portugal,wood,3000
+Asuncion,Bolivie,coal,3000
+Horqueta,Bolivie,oil,3000
+Lagerenza,Bolivie,wood,3000
+Porto Velho,Équateur,oil,3000
+Tarauaca,Équateur,iron,3000
+Tefe,États-Unis du Brésil,wood,6000
+Vila Bittencourt,Colombie,grain,3000
+Montevideo,Argentine,fish,3000
+Georgetown,République Uni de Guyane,fish,3000
+Cayenne,République Uni de Guyane,grain,3000
+Paramaribo,Suriname Hollandais,gas,3000
+Stanley,Malouines,grain,3000
+Chartres,Malouines,coal,3000
+Salvador,États-Unis du Brésil,iron,3000
+Barreiras,Bahia,wood,3000
+Lusaka,Mozambique Portugais,oil,3000
+Mongu,Congo Belge,wood,3000
+Zomba,Nyassaland,iron,6000
+Jamestown,St. Hélène,iron,3000
+Bria,Afrique Équatoriale Française,wood,3000
+Ouesso,Afrique Équatoriale Française,grain,3000
+Niamey,Niger Français,gas,3000
+Agadez,Niger Français,coal,3000
+Madama,Niger Français,grain,3000
+Tunis,Tunisie Française,wood,3000
+Medenine,Tunisie Française,oil,3000
+Monrovia,Liberia,wood,3000
+Dakar,Afrique de l'Ouest Britannique,grain,3000
+Bignona,Afrique de l'Ouest Britannique,wood,3000
+Nairobi,Afrique de l'Est Britannique,iron,6000
+Kampala,Afrique de l'Est Britannique,wood,3000
+Garoowe,Abyssinie,fish,3000
+Lambarene,Congo Belge,coal,3000
+Koulamoutou,Congo Belge,grain,3000
+Mogadishu,Afrique de l'Est Italienne,fish,3000
+Hordio,Afrique de l'Est Italienne,iron,3000
+Asmara,Soudan Anglo-Egyptien,coal,3000
+Bata,Afrique de l'Ouest Espagnole,gas,3000
+Las Palmas,Afrique de l'Ouest Espagnole,gas,3000
+Melilla,Maroc Français,coal,3000
+Ceuta,Maroc Français,grain,3000
+Al Kufrah,Egypte Britannique,wood,3000
+Al Awaynat,Egypte Britannique,oil,3000
+Kunming,Burma Britannique,wood,3000
+Jinghong,Burma Britannique,grain,6000
+Baoshan,Burma Britannique,coal,3000
+Perm,Kazakhstan Russe,wood,3000
+Tyumen,Sibérie Russe,oil,3000
+Khanty Mansiysk,Archangelsk Russe,coal,3000
+Yuzhno,Ioujno-Sakhalinsk Japonais,oil,3000
+Okha,Ioujno-Sakhalinsk Japonais,grain,3000
+Astrakhan,République populaire du Kouban,coal,3000
+Yekaterinodar,République populaire du Kouban,fish,6000
+Petrovsk,République populaire du Kouban,oil,6000
+Choibalsan,Hongxian,iron,6000
+Ölgiy,Sinkiang Chinois,iron,3000
+Altay,Sinkiang Chinois,coal,3000
+Dalandzadgad,Hongxian,grain,3000
+Sanya,République de Chine,fish,3000
+Haikou,République de Chine,wood,3000
+Naha,Okinawa Japonais,wood,3000
+Bombay,République présidentielle de Bombay,wood,3000
+Rajkot,République présidentielle de Bombay,wood,3000
+Taipei,Taiwan Japonais,fish,3000
+Poti,République populaire du Kouban,wood,3000
+Lhasa,Tibet Chinois,grain,6000
+Maindong,Tibet Chinois,grain,3000
+Gar,Tibet Chinois,wood,3000
+Gaoran,Pakistan Britannique,gas,3000
+Sost,Pakistan Britannique,coal,3000
+Aden,Arabie Britannique,grain,3000
+Ibri,Arabie Britannique,fish,3000
+Raysut,Arabie Britannique,coal,3000
+Hidaybu,Arabie Britannique,fish,3000
+Al-Jubail,Émirats du Golfe,oil,3000
+Hufuf,Émirats du Golfe,gas,3000
+Kantipur,Népal,coal,3000
+Dhangarhi,Népal,grain,3000
+Thimphu,Bouthan,grain,3000
+Dhaka,Bangladesh Britannique,fish,3000
+Kabul,Afghanistan,coal,3000
+Zaranj,Afghanistan,wood,3000
+Kunduz,Afghanistan,grain,3000
+Buba,îles Gunther,oil,3000
+Vroopa,îles Gunther,grain,3000
+Noumea,Fidji,coal,3000
+Kota Baharu,Siam,coal,3000
+Butterworth,Siam,fish,3000
+Launceston,Tasmanie,fish,3000
+Hobart,Tasmanie,gas,3000
+Kupang,Indes Hollandaises,wood,6000
+Kota Mata,Indes Hollandaises,oil,3000
+Ruting,Indes Hollandaises,fish,3000
+Lorengau,Manus allemande,iron,3000
+Zeya,République d'Extrême-Orient,coal,3000
+Poona,Madras britannique,gas,3000
+Solapur,Madras britannique,grain,3000
+Komsomolsk-on-Amur,République d'Extrême-Orient,gas,6000
+Taksimo,République d'Extrême-Orient,coal,3000
+Maun,Namibie Germanique,gas,3000
+Selebi-Phikwe,Bechuanaland,grain,3000
+Serenje,Congo Belge,grain,3000
+Bangweolo,Congo Belge,fish,3000
+Nanded,Madras britannique,iron,6000
+Guadalajara,Mexique,coal,3000
+Mazatlán,Mexique révolutionnaire,oil,3000
+Waltair,Madras britannique,grain,3000
+Bangalore,Madras britannique,iron,3000
+New Delhi,Madras britannique,gas,6000
+Indore,Madras britannique,grain,3000
+Livingstonia,Nyassaland,fish,3000
+Bulawayo,Rhodésie du Sud,gas,3000
+Livingstone,Rhodésie du Nord,gas,6000
+Manyama,Congo Belge,wood,6000
+Bloemfontein,Mozambique Portugais,coal,3000
+East London,Mozambique Portugais,gas,3000
+Nikolskoye,Île Béring,coal,3000
+Attu Mountain,Îles Aléoutiennes,iron,3000
+Harpern,Liberia,fish,3000
+Jodhpur,Pakistan Britannique,oil,3000
+Szeged,Royaume de Hongrie,gas,3000
+Vladivostok,Mandchourie,fish,3000
+Pressburg,Royaume de Hongrie,grain,3000
+Weißbrunn,Royaume de Hongrie,oil,3000
+Zagreb,Royaume de Hongrie,grain,3000
+Zadar,Royaume de Hongrie,iron,3000
+Sarajevo,Royaume de Hongrie,gas,3000
+Brünn,Autriche,gas,3000
+Linz,Autriche,coal,3000
+Mutanda,Congo Belge,iron,3000
+Malabwe,Congo Belge,oil,3000
+Lutsk,État ukrainien,wood,3000
+Praia,Cap-Vert,iron,3000
+Chișinău,État ukrainien,gas,3000
+Kryvyi Rih,État ukrainien,gas,3000
+Luhansk,État ukrainien,iron,6000
+Moroni,Comores françaises,fish,3000
+Rostov,République populaire du Kouban,iron,3000
+Elista,République populaire du Kouban,gas,3000
+Velikoknyazheskaya,République populaire du Kouban,grain,3000
+Stavropol,République populaire du Kouban,oil,3000
+Grozny,République populaire du Kouban,iron,3000
+Minsk,Pologne,oil,3000
+Puerto Baquerizo Moreno,Galapagos,coal,3000
+Mazyr,Pologne,wood,3000
+Brest-Litovsk,Pologne,coal,6000
+Łódź,Pologne,iron,3000
+Changde,République de Chine,coal,6000
+Nanchang,République de Chine,wood,3000
+Kweilin,République de Chine,grain,3000
+Xiamen,République de Chine,fish,3000
+Guiyang,Guizhou,wood,3000
+Nanning,République de Chine,oil,3000
+Chihuahua,Mexique révolutionnaire,gas,6000
+Hermosillo,Mexique révolutionnaire,oil,3000
+Ensenada,Mexique révolutionnaire,fish,3000
+San Luis Potosí,Mexique révolutionnaire,wood,3000
+Campeche,Mexique,wood,3000
+Colima,Mexique,gas,3000
+Amarillo,République de Californie,grain,3000
+Los Angeles,République de Californie,fish,3000
+San Francisco,République de Californie,wood,6000
+Carson City,République de Californie,wood,3000
+Phoenix,République de Californie,coal,3000
+Albuquerque,République de Californie,oil,6000
+Colorado Springs,République de Californie,oil,3000
+Salt Lake City,République de Californie,grain,3000
+Denver,République de Californie,iron,3000
+Portland,Oregon,fish,3000
+Seattle,Oregon,wood,3000
+Boise,Oregon,gas,3000
+Snake River,Nation Crow,oil,3000
+Spokane,Nation Crow,iron,3000
+Great Falls,Nation Crow,wood,3000
+Calgary,Colombie-Britannique,wood,3000
+Edmonton,Colombie-Britannique,gas,6000
+Dettah,Colombie-Britannique,fish,3000
+Whitehorse,Alaska russe,gas,3000
+Fort Simpson,Colombie-Britannique,coal,3000
+Kamloops,Colombie-Britannique,wood,6000
+Prince George,Colombie-Britannique,grain,3000
+Iskut,Colombie-Britannique,oil,3000
+New Arkhangelsk,Alaska russe,wood,6000
+New Russia,Alaska russe,iron,3000
+St Paul,Alaska russe,fish,3000
+Fort Nikolaevskaia,Alaska russe,coal,6000
+Fairbanks,Alaska russe,iron,3000
+Fort Kolmakov,Alaska russe,oil,3000
+New Alexandrovsk,Alaska russe,grain,3000
+Pokrovskaya Mission,Alaska russe,fish,3000
+Anshun,Guizhou,iron,3000
+Yulin,République de Chine,gas,3000
+Yueyang,République de Chine,oil,6000
+Taiyuan,Hongxian,gas,6000
+Wuhan,Hongxian,grain,3000
+Nyurba,Yakutie Russe,iron,3000
+Sayylyk,Yakutie Russe,oil,3000
+Aldan,Yakutie Russe,grain,3000
+Nagqu,Tibet Chinois,iron,6000
+Shigatse,Tibet Chinois,coal,3000
+Nyingchi,Tibet Chinois,wood,3000
+Chengguan,Tibet Chinois,gas,3000
+Northern Tibet,Tibet Chinois,coal,3000
+Ulaanbaatar,Sinkiang Chinois,grain,3000
+Mörön,Sinkiang Chinois,gas,3000
+Khalkhgol,Mandchourie,oil,6000
+Sainshand,Hongxian,coal,3000
+Chongqing,République de Chine,grain,3000
+Chenzhou,République de Chine,iron,3000
+Jining,Hongxian,coal,3000
+Xiangyang,Hongxian,oil,3000
+Qingyang,Hongxian,oil,3000
+Yuncheng,Hongxian,grain,3000
+Hanzhong,République de Chine,oil,3000
+Yushu,Empire Chinois,grain,3000
+Wajir,Afrique de l'Est Britannique,oil,3000
+Mombasa,Afrique de l'Est Britannique,fish,3000
+Marsabit,Afrique de l'Est Britannique,oil,3000
+Lodwar,Afrique de l'Est Britannique,grain,6000
+Gulu,Afrique de l'Est Britannique,wood,3000
+Kisumu,Afrique de l'Est Britannique,gas,3000
+Nanking,Hongxian,wood,3000
+Weifang,Shandong allemand,iron,6000
+Tongliao,Fengtian,wood,3000
+Shuangyashan,Mandchourie,gas,3000
+Handaqizhen,Mandchourie,iron,3000
+Kiev,État ukrainien,iron,3000
+Mariupol,République populaire de Crimée,coal,3000
+Berbera,Abyssinie,oil,3000
+Andorra,Espagne,grain,3000
+Toulouse,France,grain,3000
+Amchitka,Îles Aléoutiennes,fish,3000
+Kailua,Hawaï,fish,3000
+Atka,Îles Aléoutiennes,iron,3000
+Marine Station,Midway,oil,3000
+Tomsk,Sibérie Russe,oil,3000
+Yeniseysk,Sibérie Russe,grain,6000
+Hana,Hawaï,coal,3000
+Kolpashevo,Sibérie Russe,gas,3000
+Papeete,Nouvelle-Zélande Britannique,gas,3000
+León,Mexique,wood,3000
+Cuernavaca,Mexique,coal,3000
+Nagpur,Madras britannique,grain,3000
+Vancouver,Colombie-Britannique,fish,3000
+Afognak,Alaska russe,fish,3000
+Kodiak,Alaska russe,wood,3000
+Thunder Bay,États Fédérés d'Amérique,wood,3000
+Fort Dodge,États Fédérés d'Amérique,gas,3000
+Sioux Falls,États Fédérés d'Amérique,grain,3000
+Mukhtuya,Yakutie Russe,coal,3000
+Koror,Palaos,fish,3000
+Hagåtña,Guam,gas,3000
+Suva,Fidji,iron,3000
+Honolulu,Hawaï,iron,3000
+Koloa,Hawaï,fish,3000
+William Henry,Wake,iron,3000
+Sal Rei,Cap-Vert,fish,3000
+Carvoeiros,Cap-Vert,gas,3000
+Kapit,Êtats Fédérés Malais,iron,3000
+Putussibau,Êtats Fédérés Malais,coal,3000
+Budweis,Autriche,iron,3000
+Pilsen,Autriche,coal,3000
+Verona,Italie,gas,3000
+Posen,Prusse,gas,3000
+Stettin,Prusse,iron,3000
+Pudasjärvi,Finlande Russe,grain,3000
+Kuopio,Finlande Russe,iron,6000
+Tampere,Finlande Russe,coal,3000
+Samara,République populaire du Kouban,oil,3000
+Ufa,République populaire du Kouban,grain,3000
+Lerwick,Îles Shetland,coal,3000
+Ulsta,Îles Shetland,fish,3000
+Vatnajökulsþjóðgarður,Groenland Danois,gas,3000
+Sheffield,Irlande,coal,3000
+Parma,Italie,oil,3000
+Nuremberg,L'Empire Allemand,grain,3000
+Santander,Espagne,iron,3000
+Pau,Espagne,gas,3000
+Chalcis,Grèce,fish,3000
+Aleppo,Syrie française,gas,3000
+Funchal,Maroc Français,fish,3000
+São Tomé,Sao Tomé portugais,iron,3000
+Kushiro,Hokkaido,oil,3000
+Aomoric,Empire Japonais,grain,3000
+Mount Newman,Australie-Occidentale,iron,3000
+Mount Magnet,Australie-Occidentale,grain,3000
+Auckland,Nouvelle-Zélande Britannique,fish,3000
+Antsirabe,Madagascar Français,wood,6000
+Mildura,Nouvelle-Galles du Sud,iron,3000
+Shepparton,Nouvelle-Galles du Sud,wood,6000
+Port Louis,Maurice britannique,gas,3000
+Mamoudzou,Comores françaises,wood,3000
+Adak,Îles Aléoutiennes,fish,3000
+King Edward Point,Géorgie du Sud,fish,3000
+Port of Spain,Vénézuéla,gas,3000
+Willemstad,Vénézuéla,fish,3000
+Braemar,Irlande,grain,3000
+Iverness,Irlande,wood,6000
+Diyarbakır,L'Empire Ottoman,grain,3000
+Najaf,Perse,wood,3000
+Sivas,L'Empire Ottoman,oil,3000
+Tbilisi,République populaire du Kouban,coal,3000
+Borisoglebsk,République populaire du Kouban,gas,3000
+Nabua,Fidji,fish,3000
+Kikori,Papouasie britannique,wood,3000
+Lagaip-Porgera,Nouvelle-Guinée Hollandaise,gas,3000
+Jeju,Jeju japonais,oil,3000
+Eclipse Point Town,Maurice britannique,gas,3000
+San Pedro de Atacama,Chili,coal,3000
+George Town,Jamaïque britannique,gas,3000
+Tanami,Australie-Occidentale,oil,3000
+Docker River,Australie-Occidentale,gas,3000
+Port-de-Paix,République des Caraïbes,grain,3000
+Sancti Spíritus,République des Caraïbes,fish,3000
+Nueva Gerona,République des Caraïbes,grain,6000
+Bariloche,Argentine,oil,3000
+Tacuarembó,Argentine,gas,3000
+Gweru,Rhodésie du Sud,wood,3000
+Ahmedabad,République présidentielle de Bombay,oil,3000

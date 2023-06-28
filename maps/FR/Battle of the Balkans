@@ -1,0 +1,77 @@
+name,nation,resource,base-output
+Constantinople,L'Empire Ottoman,grain,6000
+Bursa,L'Empire Ottoman,oil,3000
+Smyrna,L'Empire Ottoman,coal,3000
+Adalia,L'Empire Ottoman,grain,3000
+Angora,L'Empire Ottoman,iron,6000
+Sinope,L'Empire Ottoman,grain,3000
+Trapezunt,L'Empire Ottoman,gas,3000
+Sivas,L'Empire Ottoman,wood,3000
+Aleppo,L'Empire Ottoman,fish,3000
+Beirut,L'Empire Ottoman,grain,3000
+Vienna,Austro-Hungarian Empire,oil,3000
+Innsbruck,Austro-Hungarian Empire,iron,3000
+Trieste,Austro-Hungarian Empire,fish,3000
+Sarajevo,Austro-Hungarian Empire,fish,3000
+Szeged,Austro-Hungarian Empire,gas,3000
+Cluj,Austro-Hungarian Empire,oil,6000
+Budapest,Austro-Hungarian Empire,grain,6000
+Debrecen,Austro-Hungarian Empire,gas,3000
+Banja Luka,Austro-Hungarian Empire,coal,3000
+Chernivtsi,Austro-Hungarian Empire,grain,3000
+Sofia,Bulgarie,grain,3000
+Burgas,Bulgarie,fish,3000
+Dulovo,Bulgarie,iron,3000
+Pleven,Bulgarie,coal,3000
+Mikhaylovgrad,Bulgarie,iron,3000
+Kyustendil,Bulgarie,gas,6000
+Sandanski,Bulgarie,coal,3000
+Khaskovo,Bulgarie,iron,3000
+Komotini,Bulgarie,wood,3000
+Gabrovo,Bulgarie,wood,6000
+Rome,Italie,coal,6000
+Treviso,Italie,gas,3000
+Ravenna,Italie,iron,6000
+Ancona,Italie,grain,3000
+Pescara,Italie,wood,3000
+Naples,Italie,fish,3000
+Bari,Italie,grain,3000
+Catanzaro,Italie,coal,3000
+Palermo,Italie,grain,3000
+Siracusa,Italie,oil,3000
+Athens,Grèce,grain,3000
+Drama,Grèce,iron,3000
+Edessa,Grèce,gas,6000
+Ioannina,Grèce,iron,3000
+Delphi,Grèce,wood,3000
+Larissa,Grèce,coal,3000
+Patra,Grèce,iron,3000
+Sparti,Grèce,coal,3000
+Heraklion,Grèce,fish,3000
+Chalkida,Grèce,wood,6000
+Volgograd,Russie,oil,3000
+Odessa,Russie,fish,3000
+Kherson,Russie,grain,6000
+Chisinau,Russie,oil,6000
+Krasnodar,Russie,grain,3000
+Batumi,Russie,coal,3000
+Sochi,Russie,gas,3000
+Mariupol,Russie,fish,3000
+Melitopol,Russie,iron,3000
+Vinnytsia,Russie,gas,3000
+Belgrade,Serbie,iron,3000
+Novi Pazar,Serbie,coal,3000
+Skopje,Serbie,iron,3000
+Nis,Serbie,grain,3000
+Bucharest,Roumanie,oil,3000
+Jassy,Roumanie,wood,3000
+Craiova,Roumanie,grain,3000
+Constanta,Roumanie,fish,3000
+Munich,L'Empire Allemand,wood,3000
+Valletta,Royaume-Uni,iron,3000
+Nikosia,Royaume-Uni,iron,3000
+Bachtschyssaraj,Republic of Crimea,coal,3000
+Armjansk,Russie,wood,3000
+Tirana,Albanie,grain,3000
+Sarande,Albanie,gas,3000
+Podgorica,Monténégro,coal,3000

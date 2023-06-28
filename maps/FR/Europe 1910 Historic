@@ -1,0 +1,164 @@
+name,nation,resource,base-output
+Koenigsberg,L'Empire Allemand,fish,3000
+Strasbourg,L'Empire Allemand,iron,3000
+Hambourg,L'Empire Allemand,oil,5000
+Breslau,L'Empire Allemand,coal,3000
+Berlin,L'Empire Allemand,coal,6000
+Dantzig,L'Empire Allemand,grain,3000
+Hanovre,L'Empire Allemand,gas,3000
+Cologne,L'Empire Allemand,coal,6000
+Leipzig,L'Empire Allemand,grain,3000
+Stuttgart,L'Empire Allemand,wood,6000
+Munich,L'Empire Allemand,wood,3000
+Francfort,L'Empire Allemand,iron,3000
+Innsbruck,Autriche-Hongrie,iron,6000
+Linz,Autriche-Hongrie,wood,3000
+Prague,Autriche-Hongrie,coal,3000
+Lemberg,Autriche-Hongrie,oil,5000
+Cracovie,Autriche-Hongrie,grain,3000
+Vienne,Autriche-Hongrie,wood,6000
+Trieste,Autriche-Hongrie,coal,3000
+Sarajevo,Autriche-Hongrie,fish,3000
+Budapest,Autriche-Hongrie,grain,6000
+Debrecen,Autriche-Hongrie,grain,3000
+Kronstadt,Autriche-Hongrie,wood,3000
+Szeged,Autriche-Hongrie,grain,3000
+Copenhague,L'Empire Allemand,grain,3000
+Arhus,L'Empire Allemand,grain,3000
+Aalborg,L'Empire Allemand,fish,3000
+Reykjavik,Royaume-Uni,oil,5000
+Akureyri,Royaume-Uni,fish,3000
+Sofia,Bulgarie,wood,3000
+Pleven,Bulgarie,oil,10000
+Plovdiv,Bulgarie,coal,3000
+Varna,Bulgarie,grain,3000
+Constantinople,L'Empire Ottoman,coal,6000
+Salonique,L'Empire Ottoman,gas,3000
+Yanina,L'Empire Ottoman,coal,3000
+Novi-Bazar,L'Empire Ottoman,wood,3000
+Uskub,L'Empire Ottoman,iron,3000
+Konich,L'Empire Ottoman,grain,3000
+Sinope,L'Empire Ottoman,wood,3000
+Angora,L'Empire Ottoman,grain,6000
+Scutari,L'Empire Ottoman,wood,3000
+Bursa,L'Empire Ottoman,fish,3000
+Smyrne,L'Empire Ottoman,iron,6000
+Antalya,L'Empire Ottoman,iron,3000
+Belgrade,L'Empire Ottoman,coal,3000
+Cettigne,L'Empire Ottoman,grain,3000
+Nisk,Bulgarie,wood,3000
+Bucarest,L'Empire Ottoman,oil,10000
+Craiova,L'Empire Ottoman,gas,3000
+Constanţa,L'Empire Ottoman,fish,3000
+Iaşi,Autriche-Hongrie,wood,3000
+Galatz,L'Empire Ottoman,grain,3000
+Pyrgos,L'Empire Ottoman,coal,3000
+Athènes,L'Empire Ottoman,fish,3000
+Larissa,L'Empire Ottoman,iron,3000
+La Canée,L'Empire Ottoman,fish,3000
+Nicosie,Royaume-Uni,iron,3000
+Palerme,Autriche-Hongrie,oil,5000
+Cagliari,Autriche-Hongrie,grain,3000
+Venise,Autriche-Hongrie,grain,3000
+Milan,Autriche-Hongrie,grain,3000
+Gènes,Autriche-Hongrie,gas,3000
+Bologne,Autriche-Hongrie,gas,6000
+Rome,Autriche-Hongrie,coal,6000
+Naples,Autriche-Hongrie,grain,6000
+Reggio,Autriche-Hongrie,fish,3000
+Brindisi,Autriche-Hongrie,iron,3000
+Turin,Autriche-Hongrie,iron,3000
+Florence,Autriche-Hongrie,wood,3000
+Ajaccio,Autriche-Hongrie,iron,3000
+Zurich,L'Empire Allemand,wood,3000
+Berne,L'Empire Allemand,wood,3000
+Bruxelles,L'Empire Allemand,coal,3000
+Anvers,L'Empire Allemand,grain,3000
+La Haye,Pays-Bas,fish,3000
+Amsterdam,Pays-Bas,gas,3000
+Paris,L'Empire Allemand,grain,3000
+Toulouse,L'Empire Allemand,iron,3000
+Marseille,L'Empire Allemand,fish,3000
+Lyon,L'Empire Allemand,coal,3000
+Bordeaux,L'Empire Allemand,grain,6000
+Nantes,L'Empire Allemand,coal,3000
+Nancy,L'Empire Allemand,iron,6000
+Lille,L'Empire Allemand,wood,3000
+Reims,L'Empire Allemand,grain,3000
+Limoges,L'Empire Allemand,grain,6000
+Brest,L'Empire Allemand,fish,3000
+Palma de Majorque,Espagne,fish,3000
+Madrid,Royaume-Uni,grain,3000
+Barcelone,L'Empire Allemand,wood,3000
+Málaga,Royaume-Uni,iron,6000
+Saragosse,Royaume-Uni,wood,6000
+St-Jacques-de-Compostelle,Royaume-Uni,coal,3000
+Valence,Royaume-Uni,grain,3000
+Séville,Royaume-Uni,iron,3000
+Badajoz,Royaume-Uni,grain,3000
+Salamanque,Royaume-Uni,grain,3000
+Murcie,Royaume-Uni,fish,3000
+Burgos,Royaume-Uni,iron,6000
+Porto,Royaume-Uni,iron,3000
+Lisbonne,Royaume-Uni,grain,3000
+Lagos,Royaume-Uni,fish,3000
+Coimbra,Royaume-Uni,fish,3000
+Maroc,Royaume-Uni,iron,3000
+Casablanca,Royaume-Uni,oil,6000
+Tanger,Royaume-Uni,fish,3000
+Fés,Royaume-Uni,oil,6000
+Oran,France,iron,3000
+Alger,France,fish,3000
+Constantine,France,grain,3000
+Bougle,France,gas,10000
+Bône,France,iron,3000
+"252.0,1337.0",France,wood,3000
+Kairouan,France,oil,10000
+Melilla,Royaume-Uni,fish,3000
+Londres,Royaume-Uni,grain,3000
+Liverpool,Royaume-Uni,iron,6000
+Manchester,Royaume-Uni,coal,6000
+Glasgow,Royaume-Uni,wood,3000
+Birmingham,Royaume-Uni,coal,6000
+Inverness,Royaume-Uni,gas,3000
+Belfast,Royaume-Uni,grain,3000
+Dublin,Royaume-Uni,fish,3000
+Limerick,Royaume-Uni,iron,3000
+Portsmouth,Royaume-Uni,fish,3000
+Cardiff,Royaume-Uni,iron,3000
+Newcastle,Royaume-Uni,coal,3000
+Kalmar,Suède,coal,3000
+Göteborg,Suède,wood,3000
+Stockholm,Suède,iron,3000
+Karlstad,Suède,wood,6000
+Sundsvall,Suède,wood,3000
+Umeå,Suède,wood,3000
+Luleå,Suède,iron,6000
+Tromsø,Norvège,fish,3000
+Eigersund,Royaume-Uni,grain,3000
+Christiania,Royaume-Uni,wood,3000
+Bergen,Royaume-Uni,oil,5000
+Trondheim,Royaume-Uni,fish,6000
+Torneå,Russie,wood,3000
+Nikolaistad,Russie,wood,6000
+Kuopio,Russie,iron,3000
+Helsingfors,L'Empire Allemand,grain,3000
+Viborg,L'Empire Allemand,fish,3000
+Łódź,Autriche-Hongrie,iron,3000
+Varsovie,Autriche-Hongrie,coal,3000
+Kaunas,L'Empire Allemand,grain,3000
+Lublin,Autriche-Hongrie,gas,3000
+Kishinev,Autriche-Hongrie,grain,6000
+Sebastopol,Russie,coal,3000
+Kiev,Autriche-Hongrie,grain,6000
+Kharkov,Autriche-Hongrie,grain,3000
+Vilnius,L'Empire Allemand,wood,3000
+Moscou,L'Empire Allemand,oil,3000
+St. Petersbourg,L'Empire Allemand,iron,3000
+Riga,L'Empire Allemand,fish,3000
+Vologda,L'Empire Allemand,oil,6000
+Smolensk,L'Empire Allemand,iron,3000
+Arkhangelsk,Russie,gas,3000
+Kandalakcha,Russie,fish,3000
+Rabat,Royaume-Uni,gas,3000
+Djelfa,France,grain,3000

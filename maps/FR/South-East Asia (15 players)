@@ -1,0 +1,189 @@
+name,nation,resource,base-output
+Maryang,Sinkiang,coal,3000
+Phisan,Sinkiang,iron,3000
+Hotan,Tibet,grain,3000
+Minfeng,Mongolie,gas,3000
+Talikbulak,Mongolie,oil,3000
+Tura,Mongolie,iron,3000
+Linshui,Mongolie,gas,3000
+Da Juh,Mongolie,coal,3000
+Muri,Mongolie,wood,6000
+Xining,Mongolie,grain,3000
+Baotou,Mongolie intérieure,iron,6000
+Lanzhou,Mongolie,coal,3000
+Yinchuan,Mongolie,grain,3000
+Datong,Mandchourie,grain,3000
+Pékin,Mandchourie,coal,3000
+Anshan,Mandchourie,iron,6000
+Pyongyang,Corée,coal,3000
+Hamhung,Corée,wood,6000
+Séoul,Corée,fish,3000
+Kwangju,Corée,oil,3000
+Pusan,Corée,grain,3000
+Yan'an,Mandchourie,grain,3000
+Xi'an,Mandchourie,oil,3000
+Taiyuan,Mandchourie,coal,3000
+Zhengzhou,Mandchourie,wood,3000
+Zhumadian,Mandchourie,iron,3000
+Jinan,Mandchourie,grain,3000
+Qingdao,Mandchourie,fish,6000
+Sendai,Japon,fish,6000
+Tokyo,Japon,iron,3000
+Nagoya,Japon,gas,3000
+Toyama,Japon,grain,6000
+Osaka,Japon,coal,3000
+Tottori,Japon,wood,3000
+Hiroshima,Japon,grain,3000
+Kochi,Japon,fish,3000
+Fukuoka,Japon,wood,3000
+Kagoshima,Japon,oil,3000
+Padam,Inde,gas,3000
+Dehra Dun,Inde,iron,3000
+Delhi,Inde,grain,3000
+Bareilly,Inde,wood,3000
+Agra,Inde,oil,3000
+Lucknow,Inde,grain,3000
+Kota,Inde,iron,6000
+Jhansi,Inde,wood,3000
+Bhopal,Inde,coal,6000
+Dhule,Inde,grain,3000
+Tianshuihai,Tibet,wood,3000
+Nur,Tibet,grain,3000
+Gar,Tibet,iron,3000
+Gomo,Tibet,grain,3000
+Ombu,Tibet,coal,6000
+Cozhe,Tibet,wood,3000
+Zadoi,Tibet,oil,3000
+Zenda,Tibet,gas,3000
+Dinggye,Tibet,iron,6000
+Lhassa,Tibet,grain,3000
+Gularia,Népal,coal,3000
+Kathmandou,Népal,wood,3000
+Dhankuta,Népal,grain,3000
+Thimphu,Bouthan,wood,3000
+Pune,Indes Britanniques,iron,3000
+Nagpur,Indes Britanniques,grain,3000
+Varanasi,Indes Britanniques,coal,3000
+Patna,Indes Britanniques,coal,3000
+Gauhati,Indes Britanniques,wood,3000
+Haora,Indes Britanniques,iron,6000
+Raipur,Indes Britanniques,wood,3000
+Hyderabad,Indes Britanniques,oil,3000
+Madras,Indes Britanniques,grain,3000
+Madurai,Indes Britanniques,fish,6000
+Jaffna,Ceylan,grain,3000
+Pottuvil,Ceylan,fish,6000
+Colombo,Ceylan,wood,3000
+Rangpur,Bangladesh,oil,3000
+Dhaka,Bangladesh,gas,3000
+Khulna,Bangladesh,fish,3000
+Xar'oi,Chine du nord,grain,3000
+Tianshui,Chine du nord,gas,3000
+Baoji,Chine du nord,wood,3000
+Shiyan,Chine du nord,grain,3000
+Gonjo,Chine du nord,wood,3000
+Chengdu,Chine du nord,coal,6000
+Markam,Chine du nord,iron,3000
+Yibin,Chine du nord,gas,3000
+Enshi,Chine centrale,coal,3000
+Chonqing,Chine du nord,grain,6000
+Wuhan,République de Chine,iron,3000
+Hefei,République de Chine,coal,3000
+Shanghai,République de Chine,fish,3000
+Hangzhou,République de Chine,iron,3000
+Changsha,République de Chine,oil,6000
+Nanchang,République de Chine,grain,3000
+Fuzhou,République de Chine,grain,3000
+Ganzhou,République de Chine,wood,3000
+Jianghua,République de Chine,coal,3000
+Hong Kong,République de Chine,fish,6000
+Taipei,Taiwan,wood,3000
+Kaohsiung,Taiwan,oil,3000
+Panzhihua,Chine du sud,wood,3000
+Zunyi,Chine du sud,coal,3000
+Huaihua,Chine du sud,wood,3000
+Guiyang,Chine du sud,grain,6000
+Dali,Chine du sud,grain,3000
+Kunming,Chine du sud,coal,3000
+Simao,Chine du sud,iron,3000
+Xichou,Chine du sud,oil,3000
+Liuzhou,Chine du sud,iron,6000
+Nanning,Chine du sud,grain,3000
+Putao,Birmanie,iron,6000
+Mawhun,Birmanie,coal,3000
+Chittagong,Birmanie,iron,3000
+Mandalay,Birmanie,grain,3000
+Möng Hsu,Birmanie,coal,3000
+Sittwe,Birmanie,wood,3000
+Taunggyi,Birmanie,oil,3000
+Yangon,Birmanie,fish,6000
+Thaton,Birmanie,gas,3000
+Mergui,Birmanie,wood,3000
+Lai Chau,Indochine Française,coal,3000
+Hanoï,Indochine Française,fish,6000
+Zhanjiang,Indochine Française,gas,3000
+Ban Sieou,Indochine Française,wood,3000
+Vientiane,Indochine Française,grain,3000
+Da Nang,Indochine Française,grain,3000
+Pakse,Indochine Française,wood,3000
+Da Lat,Indochine Française,wood,6000
+Phnom Penh,Indochine Française,fish,3000
+Saigon,Indochine Française,oil,3000
+Haikou,Hainan,iron,3000
+Yulin,Hainan,coal,6000
+Chiang Rai,Siam,wood,3000
+Tak,Siam,iron,3000
+Loei,Siam,coal,6000
+Khon Kaen,Siam,grain,3000
+Sangkhla,Siam,wood,3000
+Nakhon Ratchasima,Siam,grain,3000
+Bangkok,Siam,fish,3000
+Nakhon Si Thammarat,Siam,grain,3000
+Phuket,Siam,fish,3000
+Songkhla,Siam,gas,6000
+Ipoh,Êtats Fédérés Malais,iron,6000
+Kuala Lumpur,Êtats Fédérés Malais,wood,3000
+Kuantan,Êtats Fédérés Malais,gas,3000
+Singapour,Êtats Fédérés Malais,fish,3000
+Kuching,Indes Hollandaises,fish,3000
+Sibu,Indes Hollandaises,grain,6000
+Tatau,Êtats Fédérés Malais,oil,3000
+Bandar Seri Begawan,Êtats Fédérés Malais,wood,3000
+Pensiangan,Indes Hollandaises,iron,3000
+Sandakan,Philippines,coal,3000
+Medan,Indes Hollandaises,grain,6000
+Pakanbaru,Indes Hollandaises,oil,3000
+Jambi,Indes Hollandaises,iron,3000
+Palembang,Indes Hollandaises,coal,3000
+Pontianak,Indes Hollandaises,fish,3000
+Nangapinoh,Indes Hollandaises,iron,6000
+Longbia,Indes Hollandaises,wood,3000
+Samarinda,Indes Hollandaises,fish,3000
+Banjarmasin,Indes Hollandaises,gas,3000
+Pangkalanpembuang,Indes Hollandaises,grain,3000
+Tuao,Philippines,wood,3000
+Manille,Philippines,grain,6000
+Naga,Philippines,grain,3000
+Oras,Philippines,fish,6000
+Victoria,Philippines,fish,3000
+Puerto Princesa,Philippines,wood,3000
+Cebu,Philippines,coal,3000
+Zamboanga,Philippines,wood,3000
+Iligan,Philippines,gas,3000
+Davao,Philippines,iron,3000
+Manado,Nouvelle-Guinée Hollandaise,wood,3000
+Palu,Nouvelle-Guinée Hollandaise,fish,6000
+Poh,Nouvelle-Guinée Hollandaise,iron,6000
+Ujung Pandang,Nouvelle-Guinée Hollandaise,grain,6000
+Kendari,Nouvelle-Guinée Hollandaise,grain,3000
+Mankowari,Nouvelle-Guinée Hollandaise,coal,3000
+Timika,Nouvelle-Guinée Hollandaise,oil,3000
+Jakarta,Java,fish,3000
+Bandung,Java,grain,3000
+Semarang,Java,iron,3000
+Surakart,Java,wood,3000
+Tengkou,Mongolie,iron,6000
+Jiuquan,Mongolie,grain,3000
+Changde,Chine du nord,wood,6000
+Yuanling,Chine centrale,grain,3000
+Qianyang,Chine centrale,iron,3000

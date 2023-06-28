@@ -1,0 +1,227 @@
+name,nation,resource,base-output
+Pittsburgh,The United States,wood,3000
+Washington,The United States,iron,6000
+Boston,The United States,coal,3000
+New York,The United States,grain,3000
+Philadelphia,The United States,oil,6000
+Cleveland,The United States,gas,6000
+Charleston,The United States,coal,3000
+Richmond,The United States,fish,3000
+Detroit,The United States,grain,3000
+Jacksonville,The United States,wood,3000
+Miami,The United States,iron,3000
+Atlanta,The United States,coal,3000
+Paris,France,wood,6000
+Nancy,France,grain,6000
+Lille,France,fish,6000
+Nantes,France,iron,3000
+Strasbourg,France,coal,3000
+Limoges,France,oil,3000
+Lyon,France,gas,3000
+Toulouse,France,iron,3000
+Bordeaux,France,fish,3000
+Calais,France,wood,3000
+Brest,France,grain,3000
+Marseilles,France,grain,3000
+Archangel,Russie,iron,3000
+Vologda,Russie,grain,6000
+Syktyvkar,Russie,oil,3000
+Moscow,Russie,coal,6000
+Smolensk,Russie,gas,3000
+Penza,Russie,fish,6000
+Simbirsk,Russie,grain,3000
+Don Cossac,Russie,iron,3000
+Konstantinovsk,Russie,wood,3000
+Orenburg,Russie,iron,3000
+Kostroma,Russie,wood,3000
+Saratov,Russie,grain,3000
+Edinburgh,Royaume-Uni,wood,3000
+Manchester,Royaume-Uni,coal,3000
+Aberdeen,Royaume-Uni,iron,6000
+London,Royaume-Uni,oil,6000
+Glasgow,Royaume-Uni,grain,3000
+Birmingham,Royaume-Uni,wood,3000
+Inverness,Royaume-Uni,coal,3000
+Liverpool,Royaume-Uni,grain,3000
+Portsmouth,Royaume-Uni,gas,6000
+Cambridge,Royaume-Uni,iron,3000
+Southampton,Royaume-Uni,fish,3000
+Bristol,Royaume-Uni,coal,3000
+Novi Sad,Serbie,iron,3000
+Zrenjanin,Serbie,gas,3000
+Kraljevo,Serbie,wood,3000
+Niš,Serbie,coal,3000
+Šabac,Serbie,grain,3000
+Belgrade,Serbie,oil,6000
+Milan,Italie,iron,3000
+Venice,Italie,gas,3000
+Genoa,Italie,wood,6000
+Verona,Italie,grain,3000
+Bologna,Italie,oil,3000
+Rome,Italie,grain,6000
+Florence,Italie,wood,3000
+Brindisi,Italie,coal,3000
+Naples,Italie,fish,6000
+Bari,Italie,grain,3000
+Reggio,Italie,iron,3000
+Palermo,Italie,fish,3000
+Bruges,Belgique,iron,3000
+Liège,Belgique,wood,3000
+Brussels,Belgique,coal,6000
+Ghent,Belgique,oil,3000
+Charleroi,Belgique,grain,3000
+Kortrijk,Belgique,gas,3000
+Thessaloniki,Grèce,wood,3000
+Athens,Grèce,iron,6000
+Trikala,Grèce,oil,3000
+Patras,Grèce,grain,3000
+Tripoli,Grèce,coal,3000
+Ioannina,Grèce,gas,3000
+Adana,L'Empire Ottoman,wood,3000
+Erzurum,L'Empire Ottoman,fish,3000
+Antalya,L'Empire Ottoman,grain,3000
+Izmir,L'Empire Ottoman,coal,3000
+Antep,L'Empire Ottoman,iron,3000
+Bursa,L'Empire Ottoman,fish,6000
+Konya,L'Empire Ottoman,oil,3000
+Constantinople,L'Empire Ottoman,wood,6000
+Ankara,L'Empire Ottoman,grain,6000
+Mersin,L'Empire Ottoman,gas,3000
+Eskişehir,L'Empire Ottoman,iron,3000
+Samsun,L'Empire Ottoman,grain,3000
+Munich,Allemagne,coal,3000
+Leipzig,Allemagne,wood,3000
+Magdeburg,Allemagne,iron,3000
+Stuttgart,Allemagne,grain,3000
+Dresden,Allemagne,coal,3000
+Kiel,Allemagne,fish,3000
+Nuremberg,Allemagne,gas,6000
+Berlin,Allemagne,iron,6000
+Hamburg,Allemagne,oil,6000
+Bremen,Allemagne,coal,3000
+Frankfurt,Allemagne,wood,3000
+Hanover,Allemagne,grain,3000
+Pernik,Bulgarie,iron,3000
+Vratsa,Bulgarie,grain,6000
+Haskovo,Bulgarie,grain,3000
+Burgas,Bulgarie,wood,3000
+Plovdiv,Bulgarie,oil,3000
+Sofia,Bulgarie,coal,6000
+Dobrich,Bulgarie,iron,3000
+Pleven,Bulgarie,gas,3000
+Shumen,Bulgarie,grain,3000
+Veliko Tarnovo,Bulgarie,wood,3000
+Sliven,Bulgarie,iron,3000
+Varna,Bulgarie,fish,6000
+Oulu,Finlande,gas,3000
+Vaasa,Finlande,wood,3000
+Lappeenranta,Finlande,grain,3000
+Turku,Finlande,iron,3000
+Tampere,Finlande,coal,3000
+Helsinki,Finlande,oil,6000
+Linz,Autriche,wood,3000
+Sankt Pölten,Autriche,coal,3000
+Amstetten,Autriche,grain,3000
+Vienna,Autriche,oil,6000
+Graz,Autriche,iron,6000
+Innsbruck,Autriche,grain,3000
+Klagenfurt,Autriche,coal,3000
+Debrecen,Hungary,iron,3000
+Szeged,Hungary,gas,3000
+Szekszárd,Hungary,wood,6000
+Sopron,Hungary,fish,6000
+Veszprém,Hungary,oil,3000
+Vác,Hungary,grain,3000
+Keszthely,Hungary,iron,3000
+Szolnok,Hungary,wood,3000
+Székesfehérvár,Hungary,grain,3000
+Kecskemét,Hungary,fish,3000
+Oran,Algeria,wood,3000
+Béchar,Algeria,iron,3000
+Algiers,Algeria,coal,6000
+Touggourt,Algeria,oil,3000
+Constantine,Algeria,grain,3000
+Oued,Algeria,gas,3000
+Kronstadt,Roumanie,wood,3000
+Bucharest,Roumanie,iron,6000
+Galatz,Roumanie,coal,3000
+Jassy,Roumanie,gas,3000
+Craiova,Roumanie,oil,3000
+Constanza,Roumanie,grain,3000
+Porto,Portugal,gas,3000
+Coimbra,Portugal,grain,3000
+Lisbon,Portugal,wood,6000
+Evora,Portugal,iron,3000
+Faro,Portugal,oil,3000
+Vila Real,Portugal,fish,3000
+Fortazela,Brazil,iron,3000
+Porto Alegre,Brazil,gas,3000
+Rio de Janeiro,Brazil,grain,6000
+Recife,Brazil,wood,3000
+São Paulo,Brazil,coal,3000
+Barcelona,Espagne,iron,3000
+Zaragoza,Espagne,oil,3000
+Seville,Espagne,fish,3000
+Madrid,Espagne,gas,6000
+Ōsaka,Japon,coal,3000
+Salvador,Brazil,oil,3000
+Murcia,Espagne,coal,3000
+Christiansand,Norvège,wood,3000
+Pécs,Hungary,fish,3000
+Erdek,L'Empire Ottoman,fish,3000
+Bergen,Norvège,coal,3000
+Tromsoe,Norvège,fish,3000
+Christiania,Norvège,gas,6000
+Hammerfest,Norvège,oil,3000
+Vardoe,Norvège,iron,3000
+Punta Arenas,Chili,coal,3000
+Montpellier,France,fish,3000
+Valencia,Espagne,wood,3000
+Kobe,Japon,gas,3000
+Kyoto,Japon,iron,3000
+Tokyo,Japon,wood,6000
+Elbasan,Albanie,wood,3000
+Kitakyushu,Japon,grain,3000
+Nagoya,Japon,oil,3000
+Iquique,Chili,iron,3000
+Puerto Montt,Chili,gas,6000
+Korçë,Albanie,iron,3000
+Durrës,Albanie,gas,3000
+Santiago,Chili,wood,6000
+Malmö,Suède,wood,3000
+Cagliari,Italie,fish,3000
+Odense,Danemark,oil,3000
+Wolfsberg,Autriche,fish,3000
+Pazardzhik,Bulgarie,fish,3000
+Schleswig,Allemagne,fish,3000
+Copiapó,Chili,grain,3000
+Vlorë,Albanie,fish,3000
+Tirana,Albanie,grain,6000
+Antofagasta,Chili,oil,3000
+Esbjerg,Danemark,wood,3000
+Shkodër,Albanie,oil,3000
+Kolding,Danemark,coal,3000
+Copenhagen,Danemark,grain,6000
+Žabljak,Monténégro,fish,3000
+Aarhus,Danemark,iron,3000
+Aalborg,Danemark,gas,3000
+Nikšić,Monténégro,iron,3000
+Mojkovac,Monténégro,oil,3000
+Pljevlja,Monténégro,grain,3000
+Podgorica,Monténégro,wood,6000
+Jönköping,Suède,iron,3000
+Gothenburg,Suède,gas,3000
+Ulcinj,Monténégro,gas,3000
+New Orleans,The United States,fish,3000
+Umeå,Suède,fish,3000
+Stockholm,Suède,grain,6000
+Linköping,Suède,oil,3000
+Yakutsk,Russie,fish,3000
+Dublin,Royaume-Uni,fish,3000
+Hollabrunn,Autriche,coal,3000
+Wels,Autriche,wood,3000
+Kitzbühel,Autriche,gas,6000
+Budapest,Hungary,grain,6000
+Jászberény,Hungary,coal,3000
+Salzburg,Autriche,iron,3000
+Villach,Autriche,fish,3000

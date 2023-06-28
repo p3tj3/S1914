@@ -1,0 +1,394 @@
+name,nation,resource,base-output
+Tunis,Tunisie,grain,3000
+Kairouan,Tunisie,fish,6000
+Gabes,Tunisie,iron,3000
+Tataouine,Tunisie,coal,3000
+Tripoli,Libye Occidentale,gas,6000
+Nalut,Libye Occidentale,grain,3000
+Al Qariyah,Libye Occidentale,grain,6000
+Misratah,Libye Occidentale,fish,3000
+Surt,Libye Occidentale,fish,3000
+Houn,Libye Occidentale,grain,3000
+Brak,Libye Occidentale,wood,3000
+Sebha,Libye Occidentale,iron,3000
+Ubari,Libye Occidentale,wood,3000
+Al Qatrun,Libye Occidentale,iron,3000
+Ajdabiya,Libye Orientale,oil,3000
+Benghazi,Libye Orientale,wood,3000
+Cyrène,Libye Orientale,fish,6000
+Berdi,Libye Orientale,coal,3000
+Jaghbub,Libye Orientale,gas,3000
+Jalu,Libye Orientale,iron,3000
+Tummu,Égypte Occidentale,iron,3000
+Waw an Namus,Égypte Occidentale,coal,6000
+Tazerbo,Égypte Occidentale,grain,6000
+Zaqqui,Égypte Occidentale,grain,3000
+Grande mer de sable,Égypte Occidentale,grain,3000
+Zighen,Égypte Occidentale,oil,3000
+Koufra,Égypte Occidentale,wood,3000
+L'oued El Jadid,Égypte Occidentale,iron,3000
+Matan as Sarah,Égypte Occidentale,coal,3000
+Al Uwainat,Égypte Occidentale,iron,3000
+Ouri,Tebou,gas,3000
+Noukheïla,Tebou,wood,3000
+Marsa Matrouh,Égypte Orientale,grain,3000
+Alexandrie,Égypte Orientale,grain,6000
+Le Caire,Égypte Orientale,fish,3000
+Siwa,Égypte Orientale,oil,3000
+Qsar al-Farafra,Égypte Orientale,iron,3000
+Minya,Égypte Orientale,coal,6000
+El Kharga,Égypte Orientale,coal,3000
+Abou Simbel,Égypte Orientale,iron,3000
+Assouan,Égypte Orientale,fish,3000
+Port Saïd,Égypte Orientale,wood,3000
+Oasis de Sélima,Nubie,iron,6000
+Halaïb,Nubie,grain,3000
+El Atrun,Nubie,wood,3000
+Dongola,Nubie,grain,3000
+Abou Hamed,Nubie,coal,3000
+Port Soudan,Nubie,fish,6000
+Khartoum,Nubie,grain,3000
+Atbara,Nubie,oil,3000
+l'Oued Medani,Nubie,oil,3000
+Kassala,Nubie,gas,3000
+Nakfa,Érythrée,coal,3000
+Asmara,Érythrée,iron,3000
+Assab,Érythrée,fish,3000
+Constantine,Algérie Orientale,grain,3000
+Alger,Algérie Orientale,fish,6000
+Birskra,Algérie Orientale,coal,6000
+Djelfa,Algérie Orientale,oil,3000
+Ghardaïa,Algérie Orientale,iron,3000
+Ouargla,Algérie Orientale,iron,3000
+Nezla,Algérie Orientale,grain,3000
+Ghadémis,Algérie Orientale,gas,3000
+Amguid,Algérie Orientale,wood,3000
+Edjeleh,Algérie Orientale,oil,3000
+Ech Chélif,Algérie Occidentale,iron,3000
+El Bayadh,Algérie Occidentale,grain,3000
+Oran,Algérie Occidentale,fish,6000
+Béchar,Algérie Occidentale,grain,3000
+El Goléa,Algérie Occidentale,iron,6000
+Adrar,Algérie Occidentale,wood,3000
+In Salah,Algérie Occidentale,gas,3000
+Tabelbala,Algérie Occidentale,grain,3000
+Chenachane,Algérie Occidentale,wood,3000
+Tindouf,Algérie Occidentale,grain,3000
+Bidon,Algérie du Sud,grain,3000
+Meredoua,Algérie du Sud,grain,3000
+Arar,Algérie du Sud,iron,3000
+Illizi,Algérie du Sud,wood,3000
+Ghat,Algérie du Sud,wood,6000
+Timiaouine,Algérie du Sud,oil,3000
+Tamanrasset,Algérie du Sud,iron,6000
+Bône ,Algérie du Sud,gas,3000
+i-n-Guezzam,Algérie du Sud,grain,3000
+En Ezzane,Algérie du Sud,grain,3000
+Melilla,Maroc,iron,3000
+Tanger,Maroc,grain,6000
+Rabat,Maroc,gas,6000
+Fés,Maroc,grain,3000
+Casablanca,Maroc,fish,3000
+Bouarfa,Maroc,iron,3000
+Marrakech,Maroc,grain,3000
+Tinghir,Maroc,oil,3000
+Agadir,Maroc,wood,3000
+Tan-Tan,Maroc,iron,3000
+El Aaiún,Rio d'Oro,fish,6000
+Tifariti,Rio d'Oro,grain,3000
+El Aargub,Rio d'Oro,oil,3000
+Aousserd,Rio d'Oro,wood,3000
+Ain Ben Tili,Tiris Zemmour,wood,3000
+Bir Moghreïn,Tiris Zemmour,grain,3000
+Fderik,Tiris Zemmour,iron,6000
+Atar,Mauritanie,grain,3000
+Nouadhibou,Mauritanie,fish,3000
+El Djour,Mauritanie,grain,3000
+Nouakchott,Mauritanie,oil,6000
+Tidjikja,Mauritanie,grain,3000
+Néma,Mauritanie,gas,3000
+Ayoun el'Atrous,Mauritanie,iron,6000
+Kaédi,Mauritanie,wood,3000
+Saint-Louis,Mauritanie,fish,3000
+Sélibabi,Mauritanie,iron,3000
+Dakar,Afrique Occidentale Française,iron,3000
+Ziguinchor,Afrique Occidentale Française,iron,3000
+Taoudeni,Mali Occidental,coal,6000
+Araouane,Mali Occidental,iron,3000
+Timétrine,Mali Occidental,oil,3000
+Tombouctou,Mali Occidental,grain,3000
+Gao,Mali Occidental,wood,3000
+Mopti,Mali Occidental,iron,3000
+Ségou,Mali Occidental,grain,6000
+Kayes,Mali Occidental,gas,3000
+Bamako,Mali Occidental,iron,3000
+Sikasso,Mali Occidental,iron,3000
+Tessalit,Mali Oriental,wood,6000
+Kidal,Niger du Sud,coal,3000
+Ménaka,Mali Oriental,gas,3000
+Djado,Niger du Sud,wood,3000
+Madama,Niger du Nord,grain,3000
+Séguédine,Niger du Sud,oil,3000
+Arlit,Niger du Nord,wood,3000
+Fachi,Niger du Nord,grain,3000
+Bilma,Niger du Sud,coal,3000
+Tassara,Niger du Sud,grain,3000
+Agadez,Niger du Sud,iron,3000
+Termit-Kaoboul,Niger du Sud,grain,6000
+Tahoua,Niger du Sud,wood,3000
+Maradi,Niger du Sud,grain,3000
+Zinder,Niger du Sud,grain,3000
+Diffa,Niger du Sud,oil,6000
+Bardai,Tchad du Nord,wood,6000
+Gouro,Tchad du Nord,gas,3000
+Ounianga Sérir,Tchad du Nord,wood,3000
+Faya,Tchad du Nord,iron,3000
+Koro Toro,Tchad du Nord,oil,3000
+Arad,Tchad du Nord,grain,3000
+Mao,Tchad du Nord,iron,6000
+Ati,Tchad du Nord,grain,3000
+Mongo,Tchad du Nord,grain,3000
+Abéché,Tchad du Nord,fish,3000
+Mangalmé,Tchad du Sud,grain,3000
+Doba,Cameroun,wood,3000
+Sarh,Tchad du Sud,coal,3000
+Am Timan,Tchad du Sud,iron,3000
+Porto,Portugal,coal,3000
+Coimbra,Portugal,oil,3000
+Lisbonne,Portugal,gas,3000
+Lagos,Portugal,grain,3000
+Valladolid,Espagne,grain,3000
+Saragosse,Espagne,iron,6000
+Barcelone,Espagne,coal,3000
+Badajoz,Espagne,wood,6000
+Madrid,Espagne,grain,3000
+Valence,Espagne,coal,3000
+Séville,Espagne,fish,3000
+Murcie,Espagne,iron,3000
+Málaga,Espagne,gas,3000
+Palma de Majorque,Espagne,fish,3000
+Ajaccio,Italie,wood,3000
+Cagliari,Italie,iron,3000
+Rome,Italie,coal,3000
+Bari,Italie,grain,3000
+Reggio,Italie,fish,3000
+Palerme,Italie,gas,6000
+Tirana,Serbie,wood,3000
+Skopje,Serbie,fish,3000
+Sofia,Bulgarie,iron,3000
+Burgas,Bulgarie,coal,3000
+Plovdiv,Bulgarie,gas,3000
+Salonique,Grèce,grain,3000
+Yanina,Grèce,iron,3000
+Athènes,Grèce,coal,3000
+Pyrgos,Grèce,gas,6000
+La Canée,Grèce,grain,3000
+Nicosie,Grèce,gas,3000
+Constantinople,L'Empire Ottoman,gas,3000
+Scutari,L'Empire Ottoman,fish,3000
+Smyrne,L'Empire Ottoman,wood,6000
+Erzurum,L'Empire Ottoman,coal,3000
+Adana,L'Empire Ottoman,grain,3000
+Diyarbakır,L'Empire Ottoman,iron,6000
+Mosoul,L'Empire Ottoman,gas,3000
+Damas,L'Empire Ottoman,grain,3000
+Bagdad,L'Empire Ottoman,wood,3000
+Batumi,Russie,fish,3000
+Tbilissi,Russie,wood,3000
+Erevan,Russie,iron,3000
+Ganja,Russie,coal,3000
+Bakou,Russie,grain,3000
+Basra,Mésopotamie,oil,3000
+Koweit,Mésopotamie,grain,3000
+Al Khobar,Mésopotamie,fish,3000
+Al Hufuf,Mésopotamie,oil,3000
+Doha,Mésopotamie,grain,3000
+Tulayah,Arabie du Nord,grain,3000
+Najaf,Arabie du Nord,iron,3000
+Al Isawiyah,Arabie du Nord,oil,6000
+Arabie Saoudite,Arabie du Nord,iron,6000
+Nassiriya,Arabie du Nord,wood,3000
+Ha'il,Arabie du Nord,oil,3000
+Al Qaisumah ,Arabie du Nord,grain,3000
+Buraydah,Arabie du Nord,grain,3000
+Nafi,Arabie du Nord,wood,3000
+Zalim,Arabie du Nord,gas,3000
+Aqaba,Hedjaz,grain,6000
+Tabuk,Hedjaz,fish,3000
+Taima ,Hedjaz,oil,3000
+Médine,Hedjaz,gas,3000
+La Mecque,Hedjaz,oil,6000
+Al Bahah,Hedjaz,grain,3000
+Abha,Hedjaz,wood,3000
+Najran,Hedjaz,iron,3000
+Sana'a ,Hedjaz,iron,3000
+Ta'izz,Hedjaz,fish,3000
+Aden,Yémen,gas,3000
+Riyad,Arabie du Sud,coal,3000
+Al Kharj,Arabie du Sud,grain,6000
+Harad,Arabie du Sud,iron,3000
+Layla,Arabie du Sud,wood,6000
+Al Khunn,Arabie du Sud,wood,3000
+Al'Ubaylah,Arabie du Sud,grain,3000
+Qalmat Faris,Arabie du Sud,oil,3000
+As Sulayyil,Arabie du Sud,gas,3000
+Ash Sharawra,Arabie du Sud,iron,3000
+Sanaw,Arabie du Sud,oil,3000
+Abou Dabi ,Oman,wood,3000
+Dubai,Oman,grain,3000
+Sohar,Oman,iron,3000
+Mascate,Oman,fish,6000
+Al Huwatsah,Oman,grain,3000
+Sur,Oman,oil,3000
+Hayma,Oman,wood,3000
+Salalah,Oman,fish,3000
+Al Ghaydah,Oman,gas,3000
+Al Mukalla,Oman,oil,6000
+Tabriz,Perse Occidentale,grain,3000
+Rasht,Perse Occidentale,oil,3000
+Babol,Perse Occidentale,fish,6000
+Asterabad,Perse Occidentale,wood,3000
+Hamedan,Perse Occidentale,oil,3000
+Téhéran,Perse Occidentale,grain,3000
+Kermanshah,Perse Occidentale,iron,6000
+Kashan,Perse Occidentale,gas,3000
+Khur,Perse Occidentale,wood,3000
+Ispahan,Perse Occidentale,wood,3000
+Abadan,Perse Orientale,gas,3000
+Chiraz,Perse Orientale,grain,3000
+Yazd,Perse Orientale,grain,3000
+Bushehr,Perse Orientale,wood,3000
+Kerman,Perse Orientale,oil,3000
+Bandar Abbas,Perse Orientale,coal,3000
+Turkménistan,Turkestan,fish,3000
+Bekdash,Turkestan,iron,6000
+Kyzyl-Kiya,Turkestan,grain,3000
+Ashgabat,Turkestan,grain,3000
+Banjul,Afrique Occidentale Française,wood,3000
+Labé,Afrique Occidentale Française,iron,3000
+Kamsar,Afrique Occidentale Française,wood,3000
+Conakry,Afrique Occidentale Française,wood,3000
+Kankan,Afrique Occidentale Française,grain,6000
+Korhogo,Afrique Occidentale Française,iron,3000
+Bobo-Dioulasso,Afrique Occidentale Française,wood,3000
+Koudougou,Haute-Volta française,iron,3000
+Kaya,Haute-Volta française,grain,3000
+Kandi,Haute-Volta française,gas,6000
+Ouagadougou,Haute-Volta française,iron,3000
+Léo,Haute-Volta française,grain,3000
+Djougou,Haute-Volta française,oil,3000
+Sokodé,Haute-Volta française,grain,3000
+Tamale,Côte-de-l'Or,coal,3000
+Sokoto,Nigéria,grain,3000
+Kano,Nigéria,grain,3000
+Maiduguri,Nigéria,coal,6000
+Ogbomosho,Nigéria,wood,3000
+Abuja,Nigéria,iron,6000
+Gombe,Nigéria,wood,3000
+Makeni,Sierra Leone,coal,3000
+N'Djamena,Cameroun,oil,3000
+Maroua,Cameroun,grain,3000
+Malhas,Soudan,wood,3000
+Geneina,Soudan,gas,6000
+El Obeid,Soudan,iron,3000
+Kusti,Soudan,coal,3000
+Nyala,Soudan,grain,3000
+El Fula,Soudan,grain,3000
+Malakal,Soudan,coal,3000
+Aweil,Soudan,grain,3000
+Ad Damazin,Abyssinie,wood,3000
+Gondar,Abyssinie,wood,3000
+Mekele,Abyssinie,iron,3000
+Djibouti,Abyssinie,fish,6000
+Dessie,Abyssinie,coal,3000
+Hargeisa,Somalie,fish,3000
+Erigavo,Somalie,grain,3000
+Bosasso,Somalie,gas,3000
+Garowe,Somalie,iron,3000
+Freetown,Sierra Leone,grain,3000
+Nzérékoré,Sierra Leone,iron,3000
+Monrovia,Sierra Leone,oil,3000
+Zwedru,Sierra Leone,gas,3000
+Harper,Sierra Leone,wood,3000
+Bouaké,Afrique Occidentale Française,grain,3000
+Yamoussoukro,Afrique Occidentale Française,grain,3000
+Abidjan,Afrique Occidentale Française,oil,6000
+Kintampo,Côte-de-l'Or,grain,3000
+Kumasi,Côte-de-l'Or,fish,3000
+Accra,Côte-de-l'Or,wood,3000
+Makurdi,Nigéria,gas,3000
+Atakpamé,Haute-Volta française,wood,3000
+Lomé,Haute-Volta française,coal,3000
+Porto Novo,Haute-Volta française,wood,6000
+Ibadan,Nigéria,oil,3000
+Onitsha,Nigéria,grain,3000
+Port Harcourt,Nigéria,fish,3000
+Moundou,Cameroun,iron,3000
+Ngaoundéré,Cameroun,iron,3000
+Bamenda,Cameroun,wood,6000
+Douala,Cameroun,fish,6000
+Yaoundé,Cameroun,wood,3000
+Bertoua,Cameroun,iron,3000
+Bouar,Cameroun,coal,3000
+Yokadouma,Cameroun,grain,3000
+Birao,Soudan,iron,6000
+Djéma,Soudan,wood,3000
+Gore,Abyssinie,oil,6000
+Addis Abeba,Abyssinie,grain,3000
+Degeh Bur,Abyssinie,grain,3000
+Goba,Abyssinie,gas,3000
+Dolo Odo,Abyssinie,iron,3000
+Ndele,Afrique Équatoriale Française,coal,3000
+Kaga Bandoro,Afrique Équatoriale Française,iron,3000
+Bossangoa,Afrique Équatoriale Française,wood,6000
+Bangui,Afrique Équatoriale Française,gas,3000
+Bambari,Afrique Équatoriale Française,oil,3000
+Bria,Afrique Équatoriale Française,grain,3000
+Mobaye,Afrique Équatoriale Française,iron,6000
+Rafai,Afrique Équatoriale Française,grain,3000
+Bengassou,Afrique Équatoriale Française,grain,3000
+Mboki,Afrique Équatoriale Française,wood,3000
+Rumbek,Kenya,wood,3000
+Bor,Kenya,iron,3000
+Yambio,Kenya,grain,6000
+Djouba,Kenya,iron,6000
+Kapoeta,Kenya,coal,3000
+Kelem,Kenya,iron,3000
+Negele,Kenya,wood,3000
+Moyale,Kenya,grain,3000
+Gulu,Kenya,wood,3000
+Lodwar,Kenya,fish,3000
+Galcaio,Somalie,oil,3000
+Belet Huen,Somalie,coal,3000
+Garbaharey,Somalie,wood,3000
+Mogadiscio,Somalie,fish,6000
+Zonga,Afrique Équatoriale Française,wood,3000
+Businga,Afrique Équatoriale Française,grain,3000
+Buta,Afrique Équatoriale Française,oil,3000
+Urkand,Turkestan,iron,3000
+Karakul,Turkestan,coal,6000
+Tachkent,Turkestan,wood,3000
+Samarcande,Turkestan,gas,3000
+Mary,Turkestan,wood,3000
+Duchanbé,Turkestan,iron,3000
+Machad,Perse Orientale,coal,3000
+Tabas,Perse Orientale,iron,3000
+Zahedan,Perse Orientale,oil,6000
+Chabahar,Perse Orientale,fish,6000
+Herat,Afghanistan,grain,3000
+Mazar e Sharif,Afghanistan,iron,3000
+Kunduz,Afghanistan,oil,6000
+Farah,Afghanistan,coal,3000
+Kandahar,Afghanistan,iron,3000
+Kaboul,Afghanistan,grain,3000
+Zhob,Indes Britanniques,grain,3000
+Quetta,Indes Britanniques,grain,3000
+Dera Ghazi khan,Indes Britanniques,oil,3000
+Dalbandin,Indes Britanniques,gas,3000
+Panjgur,Indes Britanniques,wood,6000
+Khozdar,Indes Britanniques,fish,3000
+Larkana,Indes Britanniques,coal,3000
+Hyderabad,Indes Britanniques,iron,6000
+Karachi,Indes Britanniques,wood,3000
+Rajkot,Indes Britanniques,fish,3000
+Angora,L'Empire Ottoman,oil,3000
